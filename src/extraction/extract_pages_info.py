@@ -27,7 +27,7 @@ class Extract(object):
 
     def contents_pages(self):
         
-        strattr="id,title,nbRevision,nbContributeur,nbBytes,nbMinor,year,month,day,PartsOfTheDay\n"
+        strattr="id,title,nbRevision,nbContributeur,nbBytes,nbMinor,night,morning,afternoon,evening,year,month,day\n"
         with open(self.StrOutputpagesInfos, 'w+') as file:
             file.write(strattr)
             for filename in self.FilesList:
@@ -52,11 +52,27 @@ class Extract(object):
                         time_rev=""
                         nb_bytes=0
                         nb_minor=0
+                        nb_night=0
+                        nb_morning=0
+                        nb_afternoon=0
+                        nb_evening=0
                         
                         for revision in lrevisions:
                             n+=1
+                            
+                            moment= self.extract_moment_rev(revision)
+                            if moment == "night":
+                                nb_night+=1
+                            elif moment =="morning":
+                                nb_morning+=1
+                            elif moment=="afternoon":
+                                nb_afternoon+=1
+                            elif moment =="evening":
+                                nb_evening+=1
+
                             if time_rev=="":
-                                time_rev= self.extract_time_rev(revision)
+                                time_rev= self.extract_time_create(revision)
+
                             nb_bytes+= self.extract_bytes(revision)
                             nb_minor+= self.extract_minor(revision)
                             
@@ -65,7 +81,8 @@ class Extract(object):
                             if not(username in lusernames):
                                 lusernames.append(username)
 
-                        strcontent_page+=","+str(len(lusernames))+","+str(nb_bytes)+","+str(nb_minor)+","+time_rev+"\n"
+                        strcontent_page+=","+str(len(lusernames))+","+str(nb_bytes)+","+str(nb_minor)+","\
+                        +str(nb_night)+","+str(nb_morning)+","+str(nb_afternoon)+","+str(nb_evening)+","+time_rev+"\n"
                         file.write(strcontent_page)
                         strcontent_page=""
                             
@@ -86,7 +103,7 @@ class Extract(object):
     def extract_revision(self, page):
         return page.getElementsByTagName('revision')
 
-    def extract_time_rev(self, revision):
+    def extract_moment_rev(self, revision):
         time_rev = revision.getElementsByTagName('timestamp')[0]
         strdate= time_rev.childNodes[0].data
         #2015-07-22T00:45:43Z
@@ -101,9 +118,15 @@ class Extract(object):
             moment="afternoon"
         elif 19 <= hour < 24:
             moment="evening"
+        return moment
 
+
+    def extract_time_create(self, revision):
+        time_rev = revision.getElementsByTagName('timestamp')[0]
+        strdate= time_rev.childNodes[0].data
+        #2015-07-22T00:45:43Z
+        dt = datetime.strptime(strdate, "%Y-%m-%dT%H:%M:%SZ")
         strdt = dt.strftime("%Y,%B,%A")
-        strdt+=","+moment
         return strdt
 
     def extract_contributor(self, revision):
