@@ -15,50 +15,63 @@ class Extract(object):
     """docstring for ClassName"""
     def __init__(self):
         super(Extract, self).__init__()
-        self.StrIputData = "../../data/input/historiques_pages.xml"
-        self.PathOutputData="../../data/output/"
+        #self.StrIputData = "../../data/input/historiques_pages.xml"
+        self.StrPathInput="../../data/input/"
+        self.FilesList= os.listdir(self.StrPathInput)
+        self.StrIputData="../../data/input/stub-meta-history.xml"
+        self.StrIputData="../../data/input/dump_hist_1.xml"
+        self.StrOutputpagesInfos="../../data/output/extract_pages_infos.xml"
         self.contents_pages()
 
 
 
     def contents_pages(self):
-        DOMTree = xml.dom.minidom.parse(self.StrIputData)
-        collection = DOMTree.documentElement
-        lpages= collection.getElementsByTagName("page")
-        strattr="id,title,nbRevision,nbContributeur,nbBytes, nbMinor,year,month,day,PartsOfTheDay"
-        print(strattr)
+        
+        strattr="id,title,nbRevision,nbContributeur,nbBytes,nbMinor,year,month,day,PartsOfTheDay\n"
+        with open(self.StrOutputpagesInfos, 'w+') as file:
+            file.write(strattr)
+            for filename in self.FilesList:
+                if filename.endswith(".xml"):
+                    DOMTree = xml.dom.minidom.parse(self.StrPathInput+filename)
+                    collection = DOMTree.documentElement
+                    lpages= collection.getElementsByTagName("page")
 
-        for page in lpages:
-            print("-------------------------------------------")
-            lusernames=[]
-            luserids=[]
-            pageid= self.extract_pageid(page)
-            titre= self.extract_title(page)
-            
-            lrevisions= self.extract_revision(page)
+                    strcontent_page=""
+                    
+                    
+                    for page in lpages:
+                        lusernames=[]
+                        luserids=[]
+                        pageid= self.extract_pageid(page)
+                        titre= self.extract_title(page)
+                        
+                        lrevisions= self.extract_revision(page)
 
-            strcontent_page=pageid+","+titre+","+str(len(lrevisions))
-            n=0
-            time_rev=""
-            nb_bytes=0
-            nb_minor=0
-            for revision in lrevisions:
-                n+=1
-                if time_rev=="":
-                    time_rev= self.extract_time_rev(revision)
-                nb_bytes+= self.extract_bytes(revision)
-                nb_minor+= self.extract_minor(revision)
-                
-                contributor = self.extract_contributor(revision)
-                username = self.extract_username(contributor)
-                if not(username in lusernames):
-                    lusernames.append(username)
+                        strcontent_page+=pageid+","+titre+","+str(len(lrevisions))
+                        n=0
+                        time_rev=""
+                        nb_bytes=0
+                        nb_minor=0
+                        
+                        for revision in lrevisions:
+                            n+=1
+                            if time_rev=="":
+                                time_rev= self.extract_time_rev(revision)
+                            nb_bytes+= self.extract_bytes(revision)
+                            nb_minor+= self.extract_minor(revision)
+                            
+                            contributor = self.extract_contributor(revision)
+                            username = self.extract_username(contributor)
+                            if not(username in lusernames):
+                                lusernames.append(username)
 
-                
+                        strcontent_page+=","+str(len(lusernames))+","+str(nb_bytes)+","+str(nb_minor)+","+time_rev+"\n"
+                        file.write(strcontent_page)
+                        strcontent_page=""
+                            
 
-            strcontent_page+=","+str(len(lusernames))+","+str(nb_bytes)+","+str(nb_minor)+","+time_rev
+        file.close()
 
-            print(strcontent_page)
 
 
 
