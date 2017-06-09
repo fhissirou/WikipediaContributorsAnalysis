@@ -1,0 +1,3403 @@
+<mediawiki>
+	<page>
+    <title>Erdapfel</title>
+    <ns>0</ns>
+    <id>11762</id>
+    <redirect title="Iartapel" />
+    <revision>
+      <id>86901</id>
+      <timestamp>2013-03-31T16:42:10Z</timestamp>
+      <contributor>
+        <username>Marschmensch</username>
+        <id>33</id>
+      </contributor>
+      <comment>redirect</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="22" id="85269" />
+      <sha1>lewiav7lucz8b11siybnz6u727vwcv9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Lonten</title>
+    <ns>0</ns>
+    <id>11763</id>
+    <revision>
+      <id>86902</id>
+      <timestamp>2013-03-31T16:48:02Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>nei</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="911" id="85270" />
+      <sha1>9377m82d5hrhm70hpkb8ctmezzhkraj</sha1>
+    </revision>
+    <revision>
+      <id>86904</id>
+      <parentid>86902</parentid>
+      <timestamp>2013-03-31T16:48:48Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="925" id="85272" />
+      <sha1>bglrt9lyrx8w5b5ogkyog0ax71u4cd3</sha1>
+    </revision>
+    <revision>
+      <id>86906</id>
+      <parentid>86904</parentid>
+      <timestamp>2013-03-31T16:50:03Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="929" id="85274" />
+      <sha1>mheufuvw1ay7ad4lamcqx8evyny0s1i</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Typha latifolia</title>
+    <ns>0</ns>
+    <id>11764</id>
+    <redirect title="Lonten" />
+    <revision>
+      <id>86903</id>
+      <timestamp>2013-03-31T16:48:25Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>Sidj tu [[Lonten]] widjerfeerd</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="20" id="85271" />
+      <sha1>ejstwsty19zbplvgixjjlizx4zqsmbg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Typha</title>
+    <ns>0</ns>
+    <id>11765</id>
+    <redirect title="Lonten" />
+    <revision>
+      <id>86905</id>
+      <timestamp>2013-03-31T16:49:27Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>Det sidj as nei uunlaanj wurden: "{{Stomp}} Di artiikel jaft at noch ei. Luke iarst ans diar: * [[Lonten]]"</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="72" id="85273" />
+      <sha1>18gio8qyn84tj37q7lailv70n7nba4j</sha1>
+    </revision>
+    <revision>
+      <id>119366</id>
+      <parentid>86905</parentid>
+      <timestamp>2016-07-18T17:55:31Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>Sidj tu [[Lonten]] widjerfeerd</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="20" id="124926" />
+      <sha1>ejstwsty19zbplvgixjjlizx4zqsmbg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Aarten, diar &#246;n't Junk wuksi</title>
+    <ns>0</ns>
+    <id>11766</id>
+    <redirect title="Solanales" />
+    <revision>
+      <id>86911</id>
+      <timestamp>2013-03-31T17:03:08Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>Sidj tu [[Solanales]] widjerfeerd</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="23" id="85279" />
+      <sha1>1xpb6fzhzfxc59fu7rvaowtpjok5y2a</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Irpel</title>
+    <ns>0</ns>
+    <id>11767</id>
+    <redirect title="Iartapel" />
+    <revision>
+      <id>86912</id>
+      <timestamp>2013-03-31T17:03:34Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>Sidj tu [[Iartapel]] widjerfeerd</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="22" id="85280" />
+      <sha1>eivb01y7h25obedccf4eeuc8h71pxcr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Eerdaapel</title>
+    <ns>0</ns>
+    <id>11768</id>
+    <redirect title="Iartapel" />
+    <revision>
+      <id>86915</id>
+      <timestamp>2013-03-31T17:06:59Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>Sidj tu [[Iartapel]] widjerfeerd</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="22" id="85283" />
+      <sha1>eivb01y7h25obedccf4eeuc8h71pxcr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategorie:Tekst &amp; Dechting</title>
+    <ns>14</ns>
+    <id>11769</id>
+    <revision>
+      <id>86926</id>
+      <timestamp>2013-03-31T22:35:50Z</timestamp>
+      <contributor>
+        <username>Marschmensch</username>
+        <id>33</id>
+      </contributor>
+      <comment>Det sidj as nei uunlaanj wurden: " [[Kategorie:S&#246;lring Artiikel]]"</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="32" id="85294" />
+      <sha1>oy6q340brtpzpfljglrk9f5cepduzr3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Norge</title>
+    <ns>0</ns>
+    <id>11770</id>
+    <redirect title="Norweegen" />
+    <revision>
+      <id>86952</id>
+      <timestamp>2013-04-01T05:50:09Z</timestamp>
+      <contributor>
+        <username>Magnefl</username>
+        <id>4257</id>
+      </contributor>
+      <comment>Redirect because &#171;Norge&#187; and &#171;Noreg&#187; are the names of the country and may be used as a search string.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="22" id="85320" />
+      <sha1>5h9lprmwefuvtipgxzy3hbv27zuvrey</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Noreg</title>
+    <ns>0</ns>
+    <id>11771</id>
+    <redirect title="Norweegen" />
+    <revision>
+      <id>86953</id>
+      <timestamp>2013-04-01T05:50:38Z</timestamp>
+      <contributor>
+        <username>Magnefl</username>
+        <id>4257</id>
+      </contributor>
+      <comment>Redirect because &#171;Norge&#187; and &#171;Noreg&#187; are the names of the country and may be used as a search string.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="22" id="85321" />
+      <sha1>5h9lprmwefuvtipgxzy3hbv27zuvrey</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Bobeln</title>
+    <ns>0</ns>
+    <id>11772</id>
+    <revision>
+      <id>86966</id>
+      <timestamp>2013-04-01T11:34:05Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>nei</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="862" id="85334" />
+      <sha1>r8twk9fvegz92z379dnkpcyp5tti0jx</sha1>
+    </revision>
+    <revision>
+      <id>86967</id>
+      <parentid>86966</parentid>
+      <timestamp>2013-04-01T11:35:55Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="910" id="85335" />
+      <sha1>r48w9jscjyuj5uz25xmvslme0c50vuy</sha1>
+    </revision>
+    <revision>
+      <id>86969</id>
+      <parentid>86967</parentid>
+      <timestamp>2013-04-01T11:40:50Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>+ slacher</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1720" id="85337" />
+      <sha1>h6p6wybqt5tjpe6xrvua0v6gg3okjqt</sha1>
+    </revision>
+    <revision>
+      <id>102039</id>
+      <parentid>86969</parentid>
+      <timestamp>2013-08-02T14:08:37Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1749" id="100048" />
+      <sha1>4tt4touktbgndb9eo33wjj46szki3v8</sha1>
+    </revision>
+    <revision>
+      <id>102041</id>
+      <parentid>102039</parentid>
+      <timestamp>2013-08-02T14:11:18Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <comment>/* Slacher */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1757" id="100050" />
+      <sha1>jxou7ld9kmwpnj7pk4vz019xboa65mh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Schoenoplectus</title>
+    <ns>0</ns>
+    <id>11773</id>
+    <redirect title="Bobeln" />
+    <revision>
+      <id>86968</id>
+      <timestamp>2013-04-01T11:36:28Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>Sidj tu [[Bobeln]] widjerfeerd</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="20" id="85336" />
+      <sha1>9assdelmp94mrxdyywy3114bjqa3lfi</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>D&#252;nemheken</title>
+    <ns>0</ns>
+    <id>11774</id>
+    <revision>
+      <id>86970</id>
+      <timestamp>2013-04-01T11:55:59Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>nei</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="912" id="85338" />
+      <sha1>35nn9hyrvddk0viwih5poh1b294z3s1</sha1>
+    </revision>
+    <revision>
+      <id>86995</id>
+      <parentid>86970</parentid>
+      <timestamp>2013-04-01T16:46:22Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="929" id="85363" />
+      <sha1>iz4nw7ffjidcdyiaml0bio47i20qx04</sha1>
+    </revision>
+    <revision>
+      <id>87637</id>
+      <parentid>86995</parentid>
+      <timestamp>2013-04-15T15:56:01Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="890" id="86000" />
+      <sha1>dbcalehgl1x8uv1oof2ehbdl2b94bts</sha1>
+    </revision>
+    <revision>
+      <id>87769</id>
+      <parentid>87637</parentid>
+      <timestamp>2013-04-20T03:22:45Z</timestamp>
+      <contributor>
+        <username>KLBot2</username>
+        <id>4263</id>
+      </contributor>
+      <minor />
+      <comment>Bot: Fersk&#252;&#252;w 1 interwiki-links, diar n&#252; uun [[d:|Wikidata]] &#252;&#252;b det sidj [[d:Q1271748]] paroot stun</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="868" id="86132" />
+      <sha1>beg100yicd6x88nlgn75f0x8u0y9g4q</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Bromus thominii</title>
+    <ns>0</ns>
+    <id>11775</id>
+    <redirect title="D&#252;nemheken" />
+    <revision>
+      <id>86971</id>
+      <timestamp>2013-04-01T11:56:38Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>Sidj tu [[D&#252;nemheken]] widjerfeerd</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="25" id="85339" />
+      <sha1>0h9lzvuctj59jwl35llgpnftzmhx969</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Bromus hordeaceaus thominii</title>
+    <ns>0</ns>
+    <id>11776</id>
+    <redirect title="D&#252;nemheken" />
+    <revision>
+      <id>86972</id>
+      <timestamp>2013-04-01T11:57:14Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>Sidj tu [[D&#252;nemheken]] widjerfeerd</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="25" id="85340" />
+      <sha1>0h9lzvuctj59jwl35llgpnftzmhx969</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Heken</title>
+    <ns>0</ns>
+    <id>11777</id>
+    <revision>
+      <id>86973</id>
+      <timestamp>2013-04-01T12:10:25Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>nei</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1270" id="85341" />
+      <sha1>5bsxgwgl9021n604zmuim2ru5ork7kn</sha1>
+    </revision>
+    <revision>
+      <id>87010</id>
+      <parentid>86973</parentid>
+      <timestamp>2013-04-01T17:50:12Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1341" id="85378" />
+      <sha1>0jdvgdr4sw0v7lw78uap536o740ukyu</sha1>
+    </revision>
+    <revision>
+      <id>87011</id>
+      <parentid>87010</parentid>
+      <timestamp>2013-04-01T17:50:43Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1359" id="85379" />
+      <sha1>lyropkprvhicqa6f2ikej1aklgrf4te</sha1>
+    </revision>
+    <revision>
+      <id>87012</id>
+      <parentid>87011</parentid>
+      <timestamp>2013-04-01T17:51:20Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1360" id="85380" />
+      <sha1>aekkwha9y74rb0zss681ckzuk89s6wb</sha1>
+    </revision>
+    <revision>
+      <id>124100</id>
+      <parentid>87012</parentid>
+      <timestamp>2017-01-08T15:53:22Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>+ ISBN f&#246;&#246;rlaag</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1369" id="129666" />
+      <sha1>0cq9povr51olxwpmzuuxhh2laxhxc0n</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kaatbiard</title>
+    <ns>0</ns>
+    <id>11778</id>
+    <revision>
+      <id>86976</id>
+      <timestamp>2013-04-01T12:23:45Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>nei</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="997" id="85344" />
+      <sha1>7mxrvfaw3oj371zugga3wbaasl6aeno</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Deschampsia</title>
+    <ns>0</ns>
+    <id>11779</id>
+    <redirect title="Kaatbiard" />
+    <revision>
+      <id>86977</id>
+      <timestamp>2013-04-01T12:24:27Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>Sidj tu [[Kaatbiard]] widjerfeerd</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="23" id="85345" />
+      <sha1>k66mhoadkkzspebd6c9o3faajehep4u</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Wiasem</title>
+    <ns>0</ns>
+    <id>11780</id>
+    <revision>
+      <id>86978</id>
+      <timestamp>2013-04-01T12:33:13Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>nei</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1553" id="85346" />
+      <sha1>eq5culonu8osorwdjuldesm3h9zozcd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Deschampsia cespitosa</title>
+    <ns>0</ns>
+    <id>11781</id>
+    <redirect title="Wiasem" />
+    <revision>
+      <id>86979</id>
+      <timestamp>2013-04-01T12:33:39Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>Sidj tu [[Wiasem]] widjerfeerd</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="20" id="85347" />
+      <sha1>soj5qkq9q64yn3zen0p4meqcvrpnj9b</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Hofstair Hoffmann Muasem 2013 0104.JPG</title>
+    <ns>6</ns>
+    <id>11782</id>
+    <revision>
+      <id>86984</id>
+      <timestamp>2013-04-01T14:12:58Z</timestamp>
+      <contributor>
+        <username>Marschmensch</username>
+        <id>33</id>
+      </contributor>
+      <comment>{{Information
+|Beschreibung = Di Hofstair &#246;n Muasem, hur em jit Iartapeln fo ken en uk Hingster en ruar me &#252;t.
+|Quelle = Ain Aarber
+|Urheber = Kai Klint
+|Datum = 01.04.2013
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="326" id="85352" />
+      <sha1>ibt0mm8mck51rucbdwlaji3ljubk04b</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ruad toost</title>
+    <ns>0</ns>
+    <id>11783</id>
+    <revision>
+      <id>86998</id>
+      <timestamp>2013-04-01T17:01:22Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>nei</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1103" id="85366" />
+      <sha1>7dc89pik10t2b0mketo8su6r83psi28</sha1>
+    </revision>
+    <revision>
+      <id>87000</id>
+      <parentid>86998</parentid>
+      <timestamp>2013-04-01T17:04:02Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1095" id="85368" />
+      <sha1>s6e3j8b6de643jdj24jpbfmxiy802c3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Holcus lanatus</title>
+    <ns>0</ns>
+    <id>11784</id>
+    <redirect title="Ruad toost" />
+    <revision>
+      <id>86999</id>
+      <timestamp>2013-04-01T17:01:50Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>Sidj tu [[Ruad toost]] widjerfeerd</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="24" id="85367" />
+      <sha1>h5f5x7tld3yy959yxo75i3wgkzgyjel</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>H&#246;nangg&#228;&#228;rs</title>
+    <ns>0</ns>
+    <id>11785</id>
+    <revision>
+      <id>87001</id>
+      <timestamp>2013-04-01T17:13:28Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>nei</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1215" id="85369" />
+      <sha1>o4ijwq61k2ysdpjw4l3aw1w0ucric0p</sha1>
+    </revision>
+    <revision>
+      <id>87002</id>
+      <parentid>87001</parentid>
+      <timestamp>2013-04-01T17:14:12Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1220" id="85370" />
+      <sha1>1oqx49pm3ietitoqpan93y79yskjg6e</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Holcus</title>
+    <ns>0</ns>
+    <id>11786</id>
+    <redirect title="H&#246;nangg&#228;&#228;rs" />
+    <revision>
+      <id>87003</id>
+      <timestamp>2013-04-01T17:14:55Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>Sidj tu [[H&#246;nangg&#228;&#228;rs]] widjerfeerd</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="28" id="85371" />
+      <sha1>a17i4y88ya0ey3acllbamor5ym46m8n</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Hingstg&#228;&#228;rs</title>
+    <ns>0</ns>
+    <id>11787</id>
+    <redirect title="H&#246;nangg&#228;&#228;rs" />
+    <revision>
+      <id>87004</id>
+      <timestamp>2013-04-01T17:15:21Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>Sidj tu [[H&#246;nangg&#228;&#228;rs]] widjerfeerd</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="28" id="85372" />
+      <sha1>a17i4y88ya0ey3acllbamor5ym46m8n</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Hek (muard&#252;&#252;dag)</title>
+    <ns>0</ns>
+    <id>11788</id>
+    <revision>
+      <id>87009</id>
+      <timestamp>2013-04-01T17:27:45Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>nei</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="148" id="85377" />
+      <sha1>0x1xy1lejt8u8p7xk4l2paz4wc1nv52</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kwegen</title>
+    <ns>0</ns>
+    <id>11789</id>
+    <revision>
+      <id>87036</id>
+      <timestamp>2013-04-02T12:41:52Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>nei</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1067" id="85404" />
+      <sha1>tq95shgv8uc6phbstoll8skbr6zei3t</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Elymus</title>
+    <ns>0</ns>
+    <id>11790</id>
+    <redirect title="Kwegen" />
+    <revision>
+      <id>87037</id>
+      <timestamp>2013-04-02T12:45:43Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>Sidj tu [[Kwegen]] widjerfeerd</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="20" id="85405" />
+      <sha1>ra9rm2cgm8tsuhbqqvu4cxeil0220i0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Roegneria</title>
+    <ns>0</ns>
+    <id>11791</id>
+    <redirect title="Kwegen" />
+    <revision>
+      <id>87038</id>
+      <timestamp>2013-04-02T12:46:04Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>Sidj tu [[Kwegen]] widjerfeerd</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="20" id="85406" />
+      <sha1>ra9rm2cgm8tsuhbqqvu4cxeil0220i0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Elytrigia</title>
+    <ns>0</ns>
+    <id>11792</id>
+    <redirect title="Kwegen" />
+    <revision>
+      <id>87039</id>
+      <timestamp>2013-04-02T12:46:36Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>Sidj tu [[Kwegen]] widjerfeerd</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="20" id="85407" />
+      <sha1>ra9rm2cgm8tsuhbqqvu4cxeil0220i0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kweg</title>
+    <ns>0</ns>
+    <id>11793</id>
+    <revision>
+      <id>87040</id>
+      <timestamp>2013-04-02T13:29:59Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>nei</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1724" id="85408" />
+      <sha1>4baxfiqp197wsyyfx4idlau4bficyqw</sha1>
+    </revision>
+    <revision>
+      <id>87047</id>
+      <parentid>87040</parentid>
+      <timestamp>2013-04-02T13:34:13Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <comment>/* W&#228;&#228;rdaghaid */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1732" id="85414" />
+      <sha1>hock52z4r6jvq29of4j4ligox3zwdh3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Elymus repens</title>
+    <ns>0</ns>
+    <id>11794</id>
+    <redirect title="Kweg" />
+    <revision>
+      <id>87041</id>
+      <timestamp>2013-04-02T13:30:27Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>Sidj tu [[Kweg]] widjerfeerd</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="18" id="85409" />
+      <sha1>bjkt8kdr3zik5hwaleoju3k77pzsgus</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Elytrigia repens</title>
+    <ns>0</ns>
+    <id>11795</id>
+    <redirect title="Kweg" />
+    <revision>
+      <id>87042</id>
+      <timestamp>2013-04-02T13:30:49Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>Sidj tu [[Kweg]] widjerfeerd</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="18" id="85410" />
+      <sha1>bjkt8kdr3zik5hwaleoju3k77pzsgus</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Agropyron repens</title>
+    <ns>0</ns>
+    <id>11796</id>
+    <redirect title="Kweg" />
+    <revision>
+      <id>87043</id>
+      <timestamp>2013-04-02T13:31:33Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>Sidj tu [[Kweg]] widjerfeerd</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="18" id="85411" />
+      <sha1>bjkt8kdr3zik5hwaleoju3k77pzsgus</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Triticum repens</title>
+    <ns>0</ns>
+    <id>11797</id>
+    <redirect title="Kweg" />
+    <revision>
+      <id>87044</id>
+      <timestamp>2013-04-02T13:31:58Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>Sidj tu [[Kweg]] widjerfeerd</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="18" id="85412" />
+      <sha1>bjkt8kdr3zik5hwaleoju3k77pzsgus</sha1>
+    </revision>
+    <revision>
+      <id>87045</id>
+      <parentid>87044</parentid>
+      <timestamp>2013-04-02T13:32:18Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <comment>Murma174 h&#228;&#228; det sidj [[Tritcum repens]] efter [[Triticum repens]] saner widjerfeerang fersk&#246;wen.: typo</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="18" id="85412" />
+      <sha1>bjkt8kdr3zik5hwaleoju3k77pzsgus</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Tetjdiirtern</title>
+    <ns>0</ns>
+    <id>11798</id>
+    <redirect title="Tetjdiarten" />
+    <revision>
+      <id>87071</id>
+      <timestamp>2013-04-02T21:25:06Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>Sidj tu [[Tetjdiarten]] widjerfeerd</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="25" id="85438" />
+      <sha1>71ft9svpwbrx3y9qef04ny5cux2tsz5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Paartuanet Klooksdiirtern</title>
+    <ns>0</ns>
+    <id>11799</id>
+    <redirect title="Paartuanet klooksdiarten" />
+    <revision>
+      <id>87072</id>
+      <timestamp>2013-04-02T21:25:31Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>Sidj tu [[Paartuanet klooksdiarten]] widjerfeerd</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="38" id="85439" />
+      <sha1>6lm2g0njexhfl9l5znztn7sb2amm7s4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Huurndiirtern</title>
+    <ns>0</ns>
+    <id>11800</id>
+    <redirect title="Hurndiarten" />
+    <revision>
+      <id>87073</id>
+      <timestamp>2013-04-02T21:25:53Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>Sidj tu [[Hurndiarten]] widjerfeerd</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="25" id="85440" />
+      <sha1>1aoqm29hoo4twqor4gwrc122si0r16z</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Nuaten</title>
+    <ns>0</ns>
+    <id>11801</id>
+    <redirect title="Beest" />
+    <revision>
+      <id>87074</id>
+      <timestamp>2013-04-02T21:26:13Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>Sidj tu [[Beesten]] widjerfeerd</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="21" id="85441" />
+      <sha1>9fzoedku9ktk9tmgmqflpuy5qj5mveq</sha1>
+    </revision>
+    <revision>
+      <id>115979</id>
+      <parentid>87074</parentid>
+      <timestamp>2015-09-18T18:12:43Z</timestamp>
+      <contributor>
+        <username>AvicBot</username>
+        <id>1910</id>
+      </contributor>
+      <minor />
+      <comment>Bot: Ferbeedre dobelt widjerfeerang tu [[Beest]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="24" id="121419" />
+      <sha1>dlh7v0lrvuo4yry15w9gbla31f0zam6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Rind</title>
+    <ns>0</ns>
+    <id>11802</id>
+    <redirect title="Nuat" />
+    <revision>
+      <id>87101</id>
+      <timestamp>2013-04-03T06:49:51Z</timestamp>
+      <contributor>
+        <username>Marschmensch</username>
+        <id>33</id>
+      </contributor>
+      <comment>redirection</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="18" id="85468" />
+      <sha1>8mxl3mfdl51malfa6hrhsurvidttj8e</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kuh</title>
+    <ns>0</ns>
+    <id>11803</id>
+    <redirect title="Nuat" />
+    <revision>
+      <id>87102</id>
+      <timestamp>2013-04-03T06:51:10Z</timestamp>
+      <contributor>
+        <username>Marschmensch</username>
+        <id>33</id>
+      </contributor>
+      <comment>redirection</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="18" id="85469" />
+      <sha1>8mxl3mfdl51malfa6hrhsurvidttj8e</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Wikipedia:Toochte/Archiif-2012</title>
+    <ns>4</ns>
+    <id>11804</id>
+    <revision>
+      <id>87113</id>
+      <timestamp>2013-04-03T16:32:51Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>Archiif 2012</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="15754" id="85480" />
+      <sha1>06i9hxannt6yx3xp7ox009lkbcqemot</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Win</title>
+    <ns>0</ns>
+    <id>11805</id>
+    <redirect title="Win (plaant)" />
+    <revision>
+      <id>87124</id>
+      <timestamp>2013-04-03T17:11:15Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>Murma174 h&#228;&#228; det sidj [[Win]] efter [[Win (plaant)]] fersk&#246;wen.: d&#252;&#252;telker</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="31" id="85490" />
+      <sha1>iqcjdh38t6epn9ze9mpvef01glmuymx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategorie:Boraginaceae</title>
+    <ns>14</ns>
+    <id>11806</id>
+    <revision>
+      <id>87126</id>
+      <timestamp>2013-04-03T17:15:39Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>Det sidj as nei uunlaanj wurden: "[[Kategorie:Bloosenplaanten]]"</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="29" id="85492" />
+      <sha1>gmxrq4wjspj3eeea7m5b3om31jm2bly</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kr&#252;sbloosen</title>
+    <ns>0</ns>
+    <id>11807</id>
+    <revision>
+      <id>87137</id>
+      <timestamp>2013-04-04T07:40:39Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>nei</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2444" id="85503" />
+      <sha1>54fc83ubo4pdd050u5g2qpizkxbppg6</sha1>
+    </revision>
+    <revision>
+      <id>87155</id>
+      <parentid>87137</parentid>
+      <timestamp>2013-04-04T08:19:07Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2458" id="85521" />
+      <sha1>7ka7jqa3qx31mv10048fq7j5md9695p</sha1>
+    </revision>
+    <revision>
+      <id>101419</id>
+      <parentid>87155</parentid>
+      <timestamp>2013-07-19T16:15:55Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2527" id="99436" />
+      <sha1>op0z81q7xd8k1abvx4a3io06d2s49od</sha1>
+    </revision>
+    <revision>
+      <id>104911</id>
+      <parentid>101419</parentid>
+      <timestamp>2013-11-17T21:53:34Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <comment>/* Slacher (&#252;tjwool) */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2644" id="102758" />
+      <sha1>gcg75bxb8ye1eqt4nfw46gec8tyf06r</sha1>
+    </revision>
+    <revision>
+      <id>104915</id>
+      <parentid>104911</parentid>
+      <timestamp>2013-11-17T22:09:20Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2648" id="102762" />
+      <sha1>q4f763yd3l6ilrdp15w2ibcfehendrb</sha1>
+    </revision>
+    <revision>
+      <id>107130</id>
+      <parentid>104915</parentid>
+      <timestamp>2014-08-13T13:35:20Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2736" id="104951" />
+      <sha1>36pl4gaqribpz0gcc7srxgoidpr8c1l</sha1>
+    </revision>
+    <revision>
+      <id>115660</id>
+      <parentid>107130</parentid>
+      <timestamp>2015-08-30T13:56:50Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <comment>/* Slacher (&#252;tjwool) */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2788" id="121106" />
+      <sha1>qnwk27y8aohpt42glxetrqwlbfgshkt</sha1>
+    </revision>
+    <revision>
+      <id>115661</id>
+      <parentid>115660</parentid>
+      <timestamp>2015-08-30T15:33:09Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2807" id="121107" />
+      <sha1>da2j31ojn6i4a9114nyk5thy63nd4er</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Brassicaceae</title>
+    <ns>0</ns>
+    <id>11808</id>
+    <redirect title="Kr&#252;sbloosen" />
+    <revision>
+      <id>87140</id>
+      <timestamp>2013-04-04T07:42:30Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>Sidj tu [[Kr&#252;sbloosen]] widjerfeerd</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="26" id="85506" />
+      <sha1>ngivgdztnu9gywdwrg85zd6duw1em4p</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Cruciferae</title>
+    <ns>0</ns>
+    <id>11809</id>
+    <redirect title="Kr&#252;sbloosen" />
+    <revision>
+      <id>87141</id>
+      <timestamp>2013-04-04T07:42:51Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>Sidj tu [[Kr&#252;sbloosen]] widjerfeerd</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="26" id="85507" />
+      <sha1>ngivgdztnu9gywdwrg85zd6duw1em4p</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategorie:Caryophyllaceae</title>
+    <ns>14</ns>
+    <id>11810</id>
+    <revision>
+      <id>87144</id>
+      <timestamp>2013-04-04T07:53:33Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>Det sidj as nei uunlaanj wurden: "[[Kategorie:Bloosenplaanten]]"</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="29" id="85510" />
+      <sha1>gmxrq4wjspj3eeea7m5b3om31jm2bly</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Amaranten</title>
+    <ns>0</ns>
+    <id>11811</id>
+    <revision>
+      <id>87148</id>
+      <timestamp>2013-04-04T08:06:46Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>nei</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1640" id="85514" />
+      <sha1>9p2w3vbfgd43d3t1nlfsojwfbvg7ick</sha1>
+    </revision>
+    <revision>
+      <id>87170</id>
+      <parentid>87148</parentid>
+      <timestamp>2013-04-04T14:08:40Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1596" id="85536" />
+      <sha1>7rn3u0vbxx4bmri5sjevny143ryefqu</sha1>
+    </revision>
+    <revision>
+      <id>101386</id>
+      <parentid>87170</parentid>
+      <timestamp>2013-07-19T14:41:00Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <comment>/* Slacher (&#252;tjwool) */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1598" id="99406" />
+      <sha1>hxnzrh3qro83gsevfb2suvhvzyenxno</sha1>
+    </revision>
+    <revision>
+      <id>101396</id>
+      <parentid>101386</parentid>
+      <timestamp>2013-07-19T15:11:16Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1606" id="99416" />
+      <sha1>5rvz8wx329qxzwga6j7ox5z4oe24fmm</sha1>
+    </revision>
+    <revision>
+      <id>101402</id>
+      <parentid>101396</parentid>
+      <timestamp>2013-07-19T15:27:47Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1628" id="99422" />
+      <sha1>r0jphytbzdp75e4kve476sokbk247sf</sha1>
+    </revision>
+    <revision>
+      <id>104905</id>
+      <parentid>101402</parentid>
+      <timestamp>2013-11-17T16:48:20Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1632" id="102752" />
+      <sha1>1v2wrvbfd4nu2xr856breq2u59pyutq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Amaranthaceae</title>
+    <ns>0</ns>
+    <id>11812</id>
+    <redirect title="Amaranten" />
+    <revision>
+      <id>87149</id>
+      <timestamp>2013-04-04T08:08:28Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>Sidj tu [[Amaranten]] widjerfeerd</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="23" id="85515" />
+      <sha1>8f93qpgkwshhgnztpkoc0dy3hjnkw5u</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Chenopodiaceae</title>
+    <ns>0</ns>
+    <id>11813</id>
+    <redirect title="Amaranten" />
+    <revision>
+      <id>87150</id>
+      <timestamp>2013-04-04T08:09:06Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>Sidj tu [[Amaranten]] widjerfeerd</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="23" id="85516" />
+      <sha1>8f93qpgkwshhgnztpkoc0dy3hjnkw5u</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategorie:Amaranthaceae</title>
+    <ns>14</ns>
+    <id>11814</id>
+    <revision>
+      <id>87151</id>
+      <timestamp>2013-04-04T08:10:37Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>Det sidj as nei uunlaanj wurden: "[[Kategorie:Bloosenplaanten]]"</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="29" id="85517" />
+      <sha1>gmxrq4wjspj3eeea7m5b3om31jm2bly</sha1>
+    </revision>
+    <revision>
+      <id>88144</id>
+      <parentid>87151</parentid>
+      <timestamp>2013-05-18T14:27:14Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="69" id="86505" />
+      <sha1>d1yy3jxsdbxqlqw1mki5ej2lg558t00</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategorie:Lauraceae</title>
+    <ns>14</ns>
+    <id>11815</id>
+    <revision>
+      <id>87159</id>
+      <timestamp>2013-04-04T08:25:27Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>Det sidj as nei uunlaanj wurden: "[[Kategorie:Bloosenplaanten]]"</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="29" id="85525" />
+      <sha1>gmxrq4wjspj3eeea7m5b3om31jm2bly</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Troopen</title>
+    <ns>0</ns>
+    <id>11816</id>
+    <revision>
+      <id>87164</id>
+      <timestamp>2013-04-04T08:29:43Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>Det sidj as nei uunlaanj wurden: "{{Stomp}} Di artiikel jaft at noch ei. Luke iarst ans diar: * [[Kliima]]"</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="72" id="85530" />
+      <sha1>0jabju965cc8p40l290ikfczd97o2nb</sha1>
+    </revision>
+    <revision>
+      <id>115455</id>
+      <parentid>87164</parentid>
+      <timestamp>2015-08-14T05:46:00Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>nei</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1043" id="120902" />
+      <sha1>elr2jrde99pgghopv4fbt4s5hrjr7r6</sha1>
+    </revision>
+    <revision>
+      <id>115463</id>
+      <parentid>115455</parentid>
+      <timestamp>2015-08-14T11:18:11Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <comment>/* Focht */ + rin</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1134" id="120910" />
+      <sha1>g1dnscglkqlxsb5veacwswka77s7utq</sha1>
+    </revision>
+    <revision>
+      <id>115466</id>
+      <parentid>115463</parentid>
+      <timestamp>2015-08-14T11:27:49Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1138" id="120913" />
+      <sha1>nr77urw3cp0kk2ci5g7d9olp55077yv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Wikipedia:Artiikle foon e moune/Archiif-2012</title>
+    <ns>4</ns>
+    <id>11817</id>
+    <revision>
+      <id>87165</id>
+      <timestamp>2013-04-04T08:54:19Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>nei</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2944" id="85531" />
+      <sha1>oxwljokokji45o0m862ocyr9hpmswvf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Benutzer:Magnefl</title>
+    <ns>2</ns>
+    <id>11818</id>
+    <revision>
+      <id>87167</id>
+      <timestamp>2013-04-04T12:30:06Z</timestamp>
+      <contributor>
+        <username>Magnefl</username>
+        <id>4257</id>
+      </contributor>
+      <comment>Det sidj as nei uunlaanj wurden: "{{Babel|frr-0|no|en-3}} Hello, I am '''Magne Fl&amp;#229;ten''', [[:no:Bruker:Magnefl|user:Magnefl]] from [[Norway|Norway]]."</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="120" id="85533" />
+      <sha1>6e4n5x5bbe9fpj9puyhfoz4fmttbgx3</sha1>
+    </revision>
+    <revision>
+      <id>87168</id>
+      <parentid>87167</parentid>
+      <timestamp>2013-04-04T12:30:44Z</timestamp>
+      <contributor>
+        <username>Magnefl</username>
+        <id>4257</id>
+      </contributor>
+      <comment>wiki</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="123" id="85534" />
+      <sha1>1f1c3em6vxxvg22buykmuetr4dp72d9</sha1>
+    </revision>
+    <revision>
+      <id>87169</id>
+      <parentid>87168</parentid>
+      <timestamp>2013-04-04T14:06:21Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>Babel format</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="125" id="85535" />
+      <sha1>scjmqednntw7drduad6p9ilphwcjnqg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategorie:Solanaceae</title>
+    <ns>14</ns>
+    <id>11819</id>
+    <revision>
+      <id>87173</id>
+      <timestamp>2013-04-04T14:37:30Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>Det sidj as nei uunlaanj wurden: "[[Kategorie:Bloosenplaanten]]"</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="29" id="85539" />
+      <sha1>gmxrq4wjspj3eeea7m5b3om31jm2bly</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Skodsborg</title>
+    <ns>0</ns>
+    <id>11820</id>
+    <redirect title="Rudersdal Komuun" />
+    <revision>
+      <id>87179</id>
+      <timestamp>2013-04-05T18:07:56Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>Sidj tu [[Rudersdal Komuun]] widjerfeerd</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="30" id="85545" />
+      <sha1>lszxhaxofn25o13o1fr7r8gtoxw5wxh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>DK</title>
+    <ns>0</ns>
+    <id>11821</id>
+    <redirect title="Deenemark" />
+    <revision>
+      <id>87180</id>
+      <timestamp>2013-04-05T18:08:18Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>Sidj tu [[Deenemark]] widjerfeerd</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="23" id="85546" />
+      <sha1>ic46bao9ihkvjjw17oqcx7v2h8ifoer</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Chrom</title>
+    <ns>0</ns>
+    <id>11822</id>
+    <revision>
+      <id>87189</id>
+      <timestamp>2013-04-06T06:44:55Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>nei</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6768" id="85555" />
+      <sha1>o973j1t9jj92z8rz3vnu0jz2dlfl6s5</sha1>
+    </revision>
+    <revision>
+      <id>87191</id>
+      <parentid>87189</parentid>
+      <timestamp>2013-04-06T06:53:48Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6838" id="85557" />
+      <sha1>11vweyk988lwbgk48l5m47ia6m406lp</sha1>
+    </revision>
+    <revision>
+      <id>87193</id>
+      <parentid>87191</parentid>
+      <timestamp>2013-04-06T07:01:52Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6699" id="85559" />
+      <sha1>9ggjo72v23zzng4g0xh3ufs5gjue8vv</sha1>
+    </revision>
+    <revision>
+      <id>87195</id>
+      <parentid>87193</parentid>
+      <timestamp>2013-04-06T07:07:14Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6660" id="85561" />
+      <sha1>kvz2n7nj49w7c7p4549w76a91yviw5d</sha1>
+    </revision>
+    <revision>
+      <id>87196</id>
+      <parentid>87195</parentid>
+      <timestamp>2013-04-06T07:08:23Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6655" id="85562" />
+      <sha1>ac2fppfjdu8iuo6vbwynnr6e9vg61bs</sha1>
+    </revision>
+    <revision>
+      <id>87197</id>
+      <parentid>87196</parentid>
+      <timestamp>2013-04-06T07:09:59Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6730" id="85563" />
+      <sha1>nuagmqdjwpyglora0zoifxuilt2ksco</sha1>
+    </revision>
+    <revision>
+      <id>87199</id>
+      <parentid>87197</parentid>
+      <timestamp>2013-04-06T09:30:11Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <comment>Murma174 h&#228;&#228; det sidj [[Kroom]] efter [[Chrom]] fersk&#246;wen an diarbi en widjerfeerang auerskrewen.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6730" id="85563" />
+      <sha1>nuagmqdjwpyglora0zoifxuilt2ksco</sha1>
+    </revision>
+    <revision>
+      <id>87201</id>
+      <parentid>87199</parentid>
+      <timestamp>2013-04-06T09:31:38Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6712" id="85566" />
+      <sha1>m0w80u6a7g27sx9l7d2ipxul195086e</sha1>
+    </revision>
+    <revision>
+      <id>87202</id>
+      <parentid>87201</parentid>
+      <timestamp>2013-04-06T09:36:22Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6715" id="85567" />
+      <sha1>iuzodekphbndsjji0vzd8ffgrqveoqy</sha1>
+    </revision>
+    <revision>
+      <id>87203</id>
+      <parentid>87202</parentid>
+      <timestamp>2013-04-06T09:39:09Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6725" id="85568" />
+      <sha1>g4v7gqv1aestzf0b1nyuxx1pcev7l4r</sha1>
+    </revision>
+    <revision>
+      <id>109932</id>
+      <parentid>87203</parentid>
+      <timestamp>2015-03-07T17:41:06Z</timestamp>
+      <contributor>
+        <username>Dexbot</username>
+        <id>2929</id>
+      </contributor>
+      <minor />
+      <comment>Removing Link GA template ([[d:Wikidata:Development plan#Badges|handled by wikidata]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6709" id="107811" />
+      <sha1>gtzbcoy8jjj4gk92iy7qx7ndf0il15c</sha1>
+    </revision>
+    <revision>
+      <id>115212</id>
+      <parentid>109932</parentid>
+      <timestamp>2015-08-02T11:31:52Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <comment>/* Luke uk diar */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6715" id="120661" />
+      <sha1>fzfdj5082r1c4iuap0z4a3prp1cdl2r</sha1>
+    </revision>
+    <revision>
+      <id>123930</id>
+      <parentid>115212</parentid>
+      <timestamp>2017-01-06T17:40:11Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>+ ISBN f&#246;&#246;rlaag</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6735" id="129496" />
+      <sha1>5xe3ybnu7h1ef9hrk6d07wypidayk0m</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Sk&#246;&#246;l-6-Element</title>
+    <ns>0</ns>
+    <id>11823</id>
+    <revision>
+      <id>87190</id>
+      <timestamp>2013-04-06T06:47:35Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>Det sidj as nei uunlaanj wurden: "{{Stomp}} Luke iarst ans diar: * [[Perioodens&#252;steem]] [[Kategorie:Elementen]]"</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="78" id="85556" />
+      <sha1>ch2he6hljsq4dqgrt2qbatx0fxe5gld</sha1>
+    </revision>
+    <revision>
+      <id>87421</id>
+      <parentid>87190</parentid>
+      <timestamp>2013-04-09T12:43:39Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="77" id="85785" />
+      <sha1>41girr2scfc2pycos9ccjw94pmkrotb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategorie:Gefoor faan kr&#228;&#228;ft</title>
+    <ns>14</ns>
+    <id>11824</id>
+    <revision>
+      <id>87192</id>
+      <timestamp>2013-04-06T06:54:29Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>Det sidj as nei uunlaanj wurden: "[[Kategorie:Seekerhaid]]"</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="24" id="85558" />
+      <sha1>193v7b8thqaxt4r3snpbu36bmq7fc8a</sha1>
+    </revision>
+    <revision>
+      <id>87379</id>
+      <parentid>87192</parentid>
+      <timestamp>2013-04-09T11:41:46Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="89" id="85743" />
+      <sha1>35iejjyq72dvet0dg7caruzxz2giawk</sha1>
+    </revision>
+    <revision>
+      <id>87380</id>
+      <parentid>87379</parentid>
+      <timestamp>2013-04-09T11:49:32Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="24" id="85744" />
+      <sha1>193v7b8thqaxt4r3snpbu36bmq7fc8a</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kroom (muard&#252;&#252;dag)</title>
+    <ns>0</ns>
+    <id>11825</id>
+    <revision>
+      <id>87194</id>
+      <timestamp>2013-04-06T07:04:49Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>Det sidj as nei uunlaanj wurden: "{{Muard&#252;&#252;dag artiikel}} Wat menst d&#252;? * di &#252;tjdruk f&#246;r ''dit an dat'' * det [[Kroom|cheemisk element]] (sjiisk ''Chrom'')"</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="126" id="85560" />
+      <sha1>tghlmqrvj7b9x2d6fp536ete1obhkxs</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kroom</title>
+    <ns>0</ns>
+    <id>11827</id>
+    <redirect title="Chrom" />
+    <revision>
+      <id>87200</id>
+      <timestamp>2013-04-06T09:30:13Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>Murma174 h&#228;&#228; det sidj [[Kroom]] efter [[Chrom]] fersk&#246;wen an diarbi en widjerfeerang auerskrewen.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="24" id="85565" />
+      <sha1>eur3ob0gr1qanec0uobjy2ec4xb1xcn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Mangan</title>
+    <ns>0</ns>
+    <id>11828</id>
+    <revision>
+      <id>87204</id>
+      <timestamp>2013-04-06T11:24:57Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>nei</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6209" id="85569" />
+      <sha1>34lejkzn1pwwiobohqeb39utizcb25q</sha1>
+    </revision>
+    <revision>
+      <id>87208</id>
+      <parentid>87204</parentid>
+      <timestamp>2013-04-06T11:34:29Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6214" id="85573" />
+      <sha1>21ltf5swa3wx4kdgp2rmr9aoe68rako</sha1>
+    </revision>
+    <revision>
+      <id>109643</id>
+      <parentid>87208</parentid>
+      <timestamp>2015-03-07T15:46:16Z</timestamp>
+      <contributor>
+        <username>Dexbot</username>
+        <id>2929</id>
+      </contributor>
+      <minor />
+      <comment>Removing Link FA template ([[d:Wikidata:Development plan#Badges|handled by wikidata]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6199" id="107523" />
+      <sha1>crcxhmcauu5ca68z54x6xhvyfll166j</sha1>
+    </revision>
+    <revision>
+      <id>109933</id>
+      <parentid>109643</parentid>
+      <timestamp>2015-03-07T17:41:16Z</timestamp>
+      <contributor>
+        <username>Dexbot</username>
+        <id>2929</id>
+      </contributor>
+      <minor />
+      <comment>Removing Link GA template ([[d:Wikidata:Development plan#Badges|handled by wikidata]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6183" id="107812" />
+      <sha1>llnymol9rwvs2pone3w21ec23bkq3mo</sha1>
+    </revision>
+    <revision>
+      <id>115213</id>
+      <parentid>109933</parentid>
+      <timestamp>2015-08-02T11:32:18Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <comment>/* Luke uk diar */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6190" id="120662" />
+      <sha1>lmcq3bat2nmgzuz7zb0hqcl8o06s7e1</sha1>
+    </revision>
+    <revision>
+      <id>124138</id>
+      <parentid>115213</parentid>
+      <timestamp>2017-01-11T08:23:19Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>+ ISBN f&#246;&#246;rlaag</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6206" id="129704" />
+      <sha1>illjk08mhkqmkm1mynfetg4mw248751</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Tesla (Einheit)</title>
+    <ns>0</ns>
+    <id>11829</id>
+    <redirect title="Tesla" />
+    <revision>
+      <id>87205</id>
+      <timestamp>2013-04-06T11:29:00Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>Sidj tu [[Tesla]] widjerfeerd</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="19" id="85570" />
+      <sha1>c5wbyuj26t9hbqinde3ux0ymfet2xa2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Mangaan</title>
+    <ns>0</ns>
+    <id>11830</id>
+    <redirect title="Mangan" />
+    <revision>
+      <id>87206</id>
+      <timestamp>2013-04-06T11:31:48Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>Sidj tu [[Mangan]] widjerfeerd</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="20" id="85571" />
+      <sha1>hxw73olr2573h1hj12owt5iukqea690</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Sk&#246;&#246;l-7-Element</title>
+    <ns>0</ns>
+    <id>11831</id>
+    <revision>
+      <id>87207</id>
+      <timestamp>2013-04-06T11:33:16Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>Det sidj as nei uunlaanj wurden: "{{Stomp}} Luke iarst ans diar: * [[Perioodens&#252;steem]] [[Kategorie:Elementen]]"</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="78" id="85572" />
+      <sha1>ch2he6hljsq4dqgrt2qbatx0fxe5gld</sha1>
+    </revision>
+    <revision>
+      <id>87422</id>
+      <parentid>87207</parentid>
+      <timestamp>2013-04-09T12:43:57Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="77" id="85786" />
+      <sha1>41girr2scfc2pycos9ccjw94pmkrotb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:CLP</title>
+    <ns>10</ns>
+    <id>11832</id>
+    <revision>
+      <id>87209</id>
+      <timestamp>2013-04-06T11:48:17Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>Det sidj as nei uunlaanj wurden: "&lt;includeonly&gt;&amp;#32;aus&amp;nbsp;EU-Verordnung&amp;nbsp;(EG)&amp;nbsp;1272/2008&amp;nbsp;(CLP)&amp;nbsp;{{#tag:ref| {{#if: {{{Sammelbegriff|}}} | Nicht explizit in EU-Verordnung (EG)&#8230;"</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1025" id="85574" />
+      <sha1>51nu4nhlf6y2eifq9l7wbs9r8l86d2r</sha1>
+    </revision>
+    <revision>
+      <id>87211</id>
+      <parentid>87209</parentid>
+      <timestamp>2013-04-06T11:53:45Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="981" id="85576" />
+      <sha1>n7ic9gwgufmg3rniw913i9grw9evjgs</sha1>
+    </revision>
+    <revision>
+      <id>87382</id>
+      <parentid>87211</parentid>
+      <timestamp>2013-04-09T12:13:41Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="979" id="85746" />
+      <sha1>52ugwgen87j7c2t2oomi0jcac55l50m</sha1>
+    </revision>
+    <revision>
+      <id>87384</id>
+      <parentid>87382</parentid>
+      <timestamp>2013-04-09T12:15:00Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="973" id="85748" />
+      <sha1>l0paz99dif1l049uni478iq1mw675ej</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kobalt</title>
+    <ns>0</ns>
+    <id>11834</id>
+    <revision>
+      <id>87212</id>
+      <timestamp>2013-04-06T11:54:55Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>nei</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5591" id="85577" />
+      <sha1>5ic8ajfr8dovdy30zwgu9ahr34iv5h5</sha1>
+    </revision>
+    <revision>
+      <id>109934</id>
+      <parentid>87212</parentid>
+      <timestamp>2015-03-07T17:41:26Z</timestamp>
+      <contributor>
+        <username>Dexbot</username>
+        <id>2929</id>
+      </contributor>
+      <minor />
+      <comment>Removing Link GA template ([[d:Wikidata:Development plan#Badges|handled by wikidata]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5575" id="107813" />
+      <sha1>c001syv0fh3wxhjdu5m114xtf22w7yt</sha1>
+    </revision>
+    <revision>
+      <id>115214</id>
+      <parentid>109934</parentid>
+      <timestamp>2015-08-02T11:32:39Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <comment>/* Luke uk diar */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5582" id="120663" />
+      <sha1>lonhbjfhnm700yd1y02sjwte39y0lxk</sha1>
+    </revision>
+    <revision>
+      <id>124117</id>
+      <parentid>115214</parentid>
+      <timestamp>2017-01-09T10:45:45Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>+ ISBN f&#246;&#246;rlaag</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5594" id="129683" />
+      <sha1>9qvics9x46ypbzlcwxh39tbex7rfb2w</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Cobalt</title>
+    <ns>0</ns>
+    <id>11835</id>
+    <redirect title="Kobalt" />
+    <revision>
+      <id>87213</id>
+      <timestamp>2013-04-06T11:55:36Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>Sidj tu [[Kobalt]] widjerfeerd</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="20" id="85578" />
+      <sha1>7q3h0quk4j38b7e4vs3wnu5x6bb9qfc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Klaboltermaan</title>
+    <ns>0</ns>
+    <id>11836</id>
+    <revision>
+      <id>87215</id>
+      <timestamp>2013-04-06T16:25:28Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>nei</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="425" id="85580" />
+      <sha1>4amvi77zfg20rr4kwcrdom9fj2hd0vt</sha1>
+    </revision>
+    <revision>
+      <id>87216</id>
+      <parentid>87215</parentid>
+      <timestamp>2013-04-06T16:26:23Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="438" id="85581" />
+      <sha1>6ipgp4rvgrpzpca6iebd0zu0p5lclw7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Sk&#246;&#246;l-9-Element</title>
+    <ns>0</ns>
+    <id>11837</id>
+    <revision>
+      <id>87220</id>
+      <timestamp>2013-04-06T16:49:55Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>Det sidj as nei uunlaanj wurden: "{{Stomp}} Luke iarst ans diar: * [[Perioodens&#252;steem]] [[Kategorie:Elementen]]"</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="78" id="85585" />
+      <sha1>ch2he6hljsq4dqgrt2qbatx0fxe5gld</sha1>
+    </revision>
+    <revision>
+      <id>87423</id>
+      <parentid>87220</parentid>
+      <timestamp>2013-04-09T12:44:12Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="77" id="85787" />
+      <sha1>41girr2scfc2pycos9ccjw94pmkrotb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Sk&#246;&#246;l-10-Element</title>
+    <ns>0</ns>
+    <id>11838</id>
+    <revision>
+      <id>87221</id>
+      <timestamp>2013-04-06T16:50:10Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>Det sidj as nei uunlaanj wurden: "{{Stomp}} Luke iarst ans diar: * [[Perioodens&#252;steem]] [[Kategorie:Elementen]]"</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="78" id="85586" />
+      <sha1>ch2he6hljsq4dqgrt2qbatx0fxe5gld</sha1>
+    </revision>
+    <revision>
+      <id>87424</id>
+      <parentid>87221</parentid>
+      <timestamp>2013-04-09T12:44:27Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="77" id="85788" />
+      <sha1>41girr2scfc2pycos9ccjw94pmkrotb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Nikel (muard&#252;&#252;dag)</title>
+    <ns>0</ns>
+    <id>11839</id>
+    <revision>
+      <id>87222</id>
+      <timestamp>2013-04-06T16:53:19Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>nei</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="150" id="85587" />
+      <sha1>5jdwhulelkhzqgdb710tyajv0wuxn3v</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Sk&#246;&#246;l-12-Element</title>
+    <ns>0</ns>
+    <id>11840</id>
+    <revision>
+      <id>87224</id>
+      <timestamp>2013-04-06T17:16:13Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>Det sidj as nei uunlaanj wurden: "{{Stomp}} Luke iarst ans diar: * [[Perioodens&#252;steem]] [[Kategorie:Elementen]]"</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="78" id="85589" />
+      <sha1>ch2he6hljsq4dqgrt2qbatx0fxe5gld</sha1>
+    </revision>
+    <revision>
+      <id>87425</id>
+      <parentid>87224</parentid>
+      <timestamp>2013-04-09T12:44:42Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="77" id="85789" />
+      <sha1>41girr2scfc2pycos9ccjw94pmkrotb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Sink</title>
+    <ns>0</ns>
+    <id>11841</id>
+    <revision>
+      <id>87225</id>
+      <timestamp>2013-04-06T17:16:49Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>nei</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5561" id="85590" />
+      <sha1>1pk7q1nokpam4ev7d1cqddjz5qvrue9</sha1>
+    </revision>
+    <revision>
+      <id>87226</id>
+      <parentid>87225</parentid>
+      <timestamp>2013-04-06T17:18:21Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5571" id="85591" />
+      <sha1>pok72zhaf0j2pt485e1u1gjs4t9ui4a</sha1>
+    </revision>
+    <revision>
+      <id>109644</id>
+      <parentid>87226</parentid>
+      <timestamp>2015-03-07T15:46:26Z</timestamp>
+      <contributor>
+        <username>Dexbot</username>
+        <id>2929</id>
+      </contributor>
+      <minor />
+      <comment>Removing Link FA template ([[d:Wikidata:Development plan#Badges|handled by wikidata]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5555" id="107524" />
+      <sha1>qduuw917kowzgri8otk04eob408efdu</sha1>
+    </revision>
+    <revision>
+      <id>109935</id>
+      <parentid>109644</parentid>
+      <timestamp>2015-03-07T17:41:36Z</timestamp>
+      <contributor>
+        <username>Dexbot</username>
+        <id>2929</id>
+      </contributor>
+      <minor />
+      <comment>Removing Link GA template ([[d:Wikidata:Development plan#Badges|handled by wikidata]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5521" id="107814" />
+      <sha1>50drwg2yhbb8nf6savlm0g7guayirq2</sha1>
+    </revision>
+    <revision>
+      <id>115215</id>
+      <parentid>109935</parentid>
+      <timestamp>2015-08-02T11:32:58Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <comment>/* Luke uk diar */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5526" id="120664" />
+      <sha1>d2jvagktjnwt2jpgg13ql7tim8x4dir</sha1>
+    </revision>
+    <revision>
+      <id>124197</id>
+      <parentid>115215</parentid>
+      <timestamp>2017-01-12T11:59:22Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>+ ISBN f&#246;&#246;rlaag</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5538" id="129761" />
+      <sha1>llfdqi2px1hben4xldub54qt3atbj92</sha1>
+    </revision>
+    <revision>
+      <id>126779</id>
+      <parentid>124197</parentid>
+      <timestamp>2017-03-19T08:26:49Z</timestamp>
+      <contributor>
+        <username>Marschmensch</username>
+        <id>33</id>
+      </contributor>
+      <comment>Navi</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5872" id="132371" />
+      <sha1>okg97qmel7af97zilv04e6iawmn6zqi</sha1>
+    </revision>
+    <revision>
+      <id>126780</id>
+      <parentid>126779</parentid>
+      <timestamp>2017-03-19T08:27:24Z</timestamp>
+      <contributor>
+        <username>Marschmensch</username>
+        <id>33</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5859" id="132372" />
+      <sha1>gsas9bmi772oo6ftnjnyk6sheo10taq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Sink (muard&#252;&#252;dag)</title>
+    <ns>0</ns>
+    <id>11842</id>
+    <revision>
+      <id>87227</id>
+      <timestamp>2013-04-06T17:21:56Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>nei</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="173" id="85592" />
+      <sha1>hr9kd6oib09ggbcxyld6av10aau2xd4</sha1>
+    </revision>
+    <revision>
+      <id>87289</id>
+      <parentid>87227</parentid>
+      <timestamp>2013-04-07T10:16:39Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="189" id="85654" />
+      <sha1>c43aler8pi6yhh6qt9p4akxgvdlxj5e</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Windr&#252;&#252;wen</title>
+    <ns>0</ns>
+    <id>11843</id>
+    <redirect title="Windr&#252;&#252;w" />
+    <revision>
+      <id>87228</id>
+      <timestamp>2013-04-06T17:23:41Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>Sidj tu [[Windr&#252;&#252;w]] widjerfeerd</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="24" id="85593" />
+      <sha1>0qv89wqqx326vutj2t2pk984zcpgczb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Koobalt</title>
+    <ns>0</ns>
+    <id>11844</id>
+    <redirect title="Kobalt" />
+    <revision>
+      <id>87232</id>
+      <timestamp>2013-04-06T17:32:39Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>Sidj tu [[Kobalt]] widjerfeerd</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="20" id="85597" />
+      <sha1>7q3h0quk4j38b7e4vs3wnu5x6bb9qfc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Benutzer:Aladdin Ali Baba</title>
+    <ns>2</ns>
+    <id>11845</id>
+    <revision>
+      <id>87234</id>
+      <timestamp>2013-04-07T06:36:16Z</timestamp>
+      <contributor>
+        <username>Aladdin Ali Baba</username>
+        <id>4285</id>
+      </contributor>
+      <comment>Det sidj as nei uunlaanj wurden: "[[File:RedoxonVitaminC.jpg|thumb|400px|center]] == Album ==  &lt;center&gt;&lt;gallery caption="Galeri" widths="180px" heights="120px" perrow="4"&gt; Berkas:Bl-panther.jpg &#8230;"</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1733" id="85599" />
+      <sha1>odz0e6yrouc38h0xxlb2p1152915ses</sha1>
+    </revision>
+    <revision>
+      <id>87881</id>
+      <parentid>87234</parentid>
+      <timestamp>2013-04-28T11:00:02Z</timestamp>
+      <contributor>
+        <username>Aladdin Ali Baba</username>
+        <id>4285</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1650" id="86244" />
+      <sha1>e8azfzqgwhghkb9ncj5ld3ygn9usumk</sha1>
+    </revision>
+    <revision>
+      <id>108333</id>
+      <parentid>87881</parentid>
+      <timestamp>2015-02-08T14:21:31Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>&lt;!-- --&gt;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1657" id="106212" />
+      <sha1>3g8lc7186a0diirjomy7f13dha0bf45</sha1>
+    </revision>
+    <revision>
+      <id>114246</id>
+      <parentid>108333</parentid>
+      <timestamp>2015-07-10T12:31:32Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>broken link</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1664" id="119146" />
+      <sha1>5hvmvcuvyf40f13pnarz9z8byyyyuqq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Gallium</title>
+    <ns>0</ns>
+    <id>11846</id>
+    <revision>
+      <id>87290</id>
+      <timestamp>2013-04-07T16:03:51Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>nei</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5396" id="85655" />
+      <sha1>ia0g589c78dnewsxssw5nd1spvu9d78</sha1>
+    </revision>
+    <revision>
+      <id>87293</id>
+      <parentid>87290</parentid>
+      <timestamp>2013-04-07T16:08:19Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <comment>/* Bilen */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5396" id="85657" />
+      <sha1>g1yx532pmb168nmj7qhvj5dukrbdzoh</sha1>
+    </revision>
+    <revision>
+      <id>109645</id>
+      <parentid>87293</parentid>
+      <timestamp>2015-03-07T15:46:36Z</timestamp>
+      <contributor>
+        <username>Dexbot</username>
+        <id>2929</id>
+      </contributor>
+      <minor />
+      <comment>Removing Link FA template ([[d:Wikidata:Development plan#Badges|handled by wikidata]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5365" id="107525" />
+      <sha1>tud59ztyv3cymdwjt30y8zjc9urunx2</sha1>
+    </revision>
+    <revision>
+      <id>109936</id>
+      <parentid>109645</parentid>
+      <timestamp>2015-03-07T17:41:46Z</timestamp>
+      <contributor>
+        <username>Dexbot</username>
+        <id>2929</id>
+      </contributor>
+      <minor />
+      <comment>Removing Link GA template ([[d:Wikidata:Development plan#Badges|handled by wikidata]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5350" id="107815" />
+      <sha1>syra97qs9m6mjvp7zi1g256uk6maibl</sha1>
+    </revision>
+    <revision>
+      <id>123965</id>
+      <parentid>109936</parentid>
+      <timestamp>2017-01-07T09:28:02Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>+ ISBN f&#246;&#246;rlaag</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5358" id="129531" />
+      <sha1>8p4c3lqioxet3ucgyr7bmkv3a3dq67u</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Sk&#246;&#246;l-13-Element</title>
+    <ns>0</ns>
+    <id>11847</id>
+    <revision>
+      <id>87291</id>
+      <timestamp>2013-04-07T16:06:25Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>Det sidj as nei uunlaanj wurden: "{{Stomp}} Luke iarst ans diar: * [[Perioodens&#252;steem]] [[Kategorie:Elementen]]"</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="78" id="85656" />
+      <sha1>ch2he6hljsq4dqgrt2qbatx0fxe5gld</sha1>
+    </revision>
+    <revision>
+      <id>87426</id>
+      <parentid>87291</parentid>
+      <timestamp>2013-04-09T12:45:02Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="77" id="85790" />
+      <sha1>41girr2scfc2pycos9ccjw94pmkrotb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Germanium</title>
+    <ns>0</ns>
+    <id>11848</id>
+    <revision>
+      <id>87295</id>
+      <timestamp>2013-04-07T16:27:54Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>nei</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6809" id="85659" />
+      <sha1>1a9y9tq1cub9rt0lsvewco9rs7f8tyz</sha1>
+    </revision>
+    <revision>
+      <id>109646</id>
+      <parentid>87295</parentid>
+      <timestamp>2015-03-07T15:46:46Z</timestamp>
+      <contributor>
+        <username>Dexbot</username>
+        <id>2929</id>
+      </contributor>
+      <minor />
+      <comment>Removing Link FA template ([[d:Wikidata:Development plan#Badges|handled by wikidata]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6778" id="107526" />
+      <sha1>3hiazieezlqqdsbbxk4hq7v3mj1bb95</sha1>
+    </revision>
+    <revision>
+      <id>109937</id>
+      <parentid>109646</parentid>
+      <timestamp>2015-03-07T17:41:57Z</timestamp>
+      <contributor>
+        <username>Dexbot</username>
+        <id>2929</id>
+      </contributor>
+      <minor />
+      <comment>Removing Link GA template ([[d:Wikidata:Development plan#Badges|handled by wikidata]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6763" id="107816" />
+      <sha1>67nv46mhr43lbcybe4ye22t0vtuzv79</sha1>
+    </revision>
+    <revision>
+      <id>123967</id>
+      <parentid>109937</parentid>
+      <timestamp>2017-01-07T09:31:11Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>+ ISBN f&#246;&#246;rlaag</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6779" id="129533" />
+      <sha1>kimdpzyeswqbvu3zqqzqh4y9gterpo9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Mol</title>
+    <ns>0</ns>
+    <id>11849</id>
+    <revision>
+      <id>87298</id>
+      <timestamp>2013-04-07T17:03:45Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>nei</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2652" id="85662" />
+      <sha1>jc15le5tpp7vvbe3buninnpgo57r5hr</sha1>
+    </revision>
+    <revision>
+      <id>87307</id>
+      <parentid>87298</parentid>
+      <timestamp>2013-04-07T17:30:16Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2673" id="85671" />
+      <sha1>t704mpy3w12ryaenu9npfddu1k8yvoa</sha1>
+    </revision>
+    <revision>
+      <id>87308</id>
+      <parentid>87307</parentid>
+      <timestamp>2013-04-07T17:31:12Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2673" id="85672" />
+      <sha1>qq9bxae7qk6gfgm2kdzx9tza0yxne7p</sha1>
+    </revision>
+    <revision>
+      <id>87309</id>
+      <parentid>87308</parentid>
+      <timestamp>2013-04-07T17:32:11Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2679" id="85673" />
+      <sha1>1bkf1kjlpoacvwhs66lje3fm1lmn0g6</sha1>
+    </revision>
+    <revision>
+      <id>87310</id>
+      <parentid>87309</parentid>
+      <timestamp>2013-04-07T17:34:44Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2696" id="85674" />
+      <sha1>pmf0nn31wka3z4mh89c9nexon8dbyy2</sha1>
+    </revision>
+    <revision>
+      <id>87311</id>
+      <parentid>87310</parentid>
+      <timestamp>2013-04-07T17:36:47Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <comment>/* Desimaaldialen */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2695" id="85675" />
+      <sha1>pago92y0sn7i4axlu5325ia5wjybeww</sha1>
+    </revision>
+    <revision>
+      <id>109647</id>
+      <parentid>87311</parentid>
+      <timestamp>2015-03-07T15:46:56Z</timestamp>
+      <contributor>
+        <username>Dexbot</username>
+        <id>2929</id>
+      </contributor>
+      <minor />
+      <comment>Removing Link FA template ([[d:Wikidata:Development plan#Badges|handled by wikidata]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2679" id="107527" />
+      <sha1>jyo8516hkuki6teil03mfhptesiqh4w</sha1>
+    </revision>
+    <revision>
+      <id>110271</id>
+      <parentid>109647</parentid>
+      <timestamp>2015-03-14T22:16:26Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2675" id="108174" />
+      <sha1>my6fk3u8ab25ccxmp0u2d7ti8siksll</sha1>
+    </revision>
+    <revision>
+      <id>111867</id>
+      <parentid>110271</parentid>
+      <timestamp>2015-05-06T07:09:21Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <comment>HC: Nem wech [[Kategorie:F&#252;siik]]; Du diartu [[Kategorie:SI-ianhaid]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2678" id="110476" />
+      <sha1>hu01o8l9udhncmb8xsmd3mycbw1glxr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Atomare Masseneinheit</title>
+    <ns>0</ns>
+    <id>11850</id>
+    <redirect title="Atomaar masenianhaid" />
+    <revision>
+      <id>87299</id>
+      <timestamp>2013-04-07T17:08:01Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>Sidj tu [[Atomaar masenianhaid]] widjerfeerd</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="34" id="85663" />
+      <sha1>bjimjildhl8obburlsp0nfb0sijovb5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Atomaar masenianhaid</title>
+    <ns>0</ns>
+    <id>11851</id>
+    <revision>
+      <id>87300</id>
+      <timestamp>2013-04-07T17:24:45Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>nei</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2184" id="85664" />
+      <sha1>br9rgmoizpb5jrkrji1g5h5rhkyhjwc</sha1>
+    </revision>
+    <revision>
+      <id>87312</id>
+      <parentid>87300</parentid>
+      <timestamp>2013-04-07T17:38:50Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2184" id="85676" />
+      <sha1>d03k4x5m0tedyjhx6inxp232bs3xtj8</sha1>
+    </revision>
+    <revision>
+      <id>87313</id>
+      <parentid>87312</parentid>
+      <timestamp>2013-04-08T05:48:54Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <comment>/* u, g an mol */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2179" id="85677" />
+      <sha1>n1ccdtio3iyav5wqmlnejuuhz3k3owj</sha1>
+    </revision>
+    <revision>
+      <id>110270</id>
+      <parentid>87313</parentid>
+      <timestamp>2015-03-14T22:15:07Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2171" id="108173" />
+      <sha1>pg9461w3ndidsb97q9fkdytaxpb9lmh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Dalton (ianhaid)</title>
+    <ns>0</ns>
+    <id>11852</id>
+    <redirect title="Atomaar masenianhaid" />
+    <revision>
+      <id>87302</id>
+      <timestamp>2013-04-07T17:27:16Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>Sidj tu [[Atomaar masenianhaid]] widjerfeerd</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="34" id="85666" />
+      <sha1>bjimjildhl8obburlsp0nfb0sijovb5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Da</title>
+    <ns>0</ns>
+    <id>11853</id>
+    <redirect title="Atomaar masenianhaid" />
+    <revision>
+      <id>87303</id>
+      <timestamp>2013-04-07T17:27:45Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>Sidj tu [[Atomaar masenianhaid]] widjerfeerd</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="34" id="85667" />
+      <sha1>bjimjildhl8obburlsp0nfb0sijovb5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Dalton</title>
+    <ns>0</ns>
+    <id>11854</id>
+    <redirect title="Atomaar masenianhaid" />
+    <revision>
+      <id>87304</id>
+      <timestamp>2013-04-07T17:28:14Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>Sidj tu [[Atomaar masenianhaid]] widjerfeerd</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="34" id="85668" />
+      <sha1>bjimjildhl8obburlsp0nfb0sijovb5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Amu</title>
+    <ns>0</ns>
+    <id>11855</id>
+    <redirect title="Atomaar masenianhaid" />
+    <revision>
+      <id>87305</id>
+      <timestamp>2013-04-07T17:28:48Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>Sidj tu [[Atomaar masenianhaid]] widjerfeerd</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="34" id="85669" />
+      <sha1>bjimjildhl8obburlsp0nfb0sijovb5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>D-Orbital</title>
+    <ns>0</ns>
+    <id>11857</id>
+    <redirect title="Orbitaal" />
+    <revision>
+      <id>87314</id>
+      <timestamp>2013-04-08T05:57:06Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>Sidj tu [[Orbitaal]] widjerfeerd</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="22" id="85678" />
+      <sha1>r5j5wv00cgyp3d57ya3dxh60exnx17g</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>S-Orbital</title>
+    <ns>0</ns>
+    <id>11858</id>
+    <redirect title="Orbitaal" />
+    <revision>
+      <id>87315</id>
+      <timestamp>2013-04-08T05:57:25Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>Sidj tu [[Orbitaal]] widjerfeerd</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="22" id="85679" />
+      <sha1>r5j5wv00cgyp3d57ya3dxh60exnx17g</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>P-Orbital</title>
+    <ns>0</ns>
+    <id>11859</id>
+    <redirect title="Orbitaal" />
+    <revision>
+      <id>87316</id>
+      <timestamp>2013-04-08T05:57:57Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>Sidj tu [[Orbitaal]] widjerfeerd</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="22" id="85680" />
+      <sha1>r5j5wv00cgyp3d57ya3dxh60exnx17g</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Orbitaal</title>
+    <ns>0</ns>
+    <id>11860</id>
+    <revision>
+      <id>87317</id>
+      <timestamp>2013-04-08T06:07:38Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>bausteed</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="15780" id="85681" />
+      <sha1>23gia2nvv8rdukegy44c812hdg7nfzj</sha1>
+    </revision>
+    <revision>
+      <id>87318</id>
+      <parentid>87317</parentid>
+      <timestamp>2013-04-08T07:19:08Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>lingt iarst ans</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="8142" id="85682" />
+      <sha1>d23hak98w0a1osm1nd6w63cxtb4hkqm</sha1>
+    </revision>
+    <revision>
+      <id>87860</id>
+      <parentid>87318</parentid>
+      <timestamp>2013-04-26T08:16:27Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="8204" id="86223" />
+      <sha1>fcz0oq6ab7kzuurt8wck0vy4lmntnt1</sha1>
+    </revision>
+    <revision>
+      <id>88539</id>
+      <parentid>87860</parentid>
+      <timestamp>2013-06-12T17:49:50Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="8203" id="86889" />
+      <sha1>kpoyez44tue1ewvrlmqe0dygpfxvrtt</sha1>
+    </revision>
+    <revision>
+      <id>105187</id>
+      <parentid>88539</parentid>
+      <timestamp>2013-12-25T09:02:42Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="8198" id="103031" />
+      <sha1>clvervu2fgvyuybrupkfzde1vdp5j3v</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>S-Orbitaal</title>
+    <ns>0</ns>
+    <id>11861</id>
+    <redirect title="Orbitaal" />
+    <revision>
+      <id>87321</id>
+      <timestamp>2013-04-08T10:12:31Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>Sidj tu [[Orbitaal]] widjerfeerd</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="22" id="85685" />
+      <sha1>r5j5wv00cgyp3d57ya3dxh60exnx17g</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>P-Orbitaal</title>
+    <ns>0</ns>
+    <id>11862</id>
+    <redirect title="Orbitaal" />
+    <revision>
+      <id>87327</id>
+      <timestamp>2013-04-08T10:17:34Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>Sidj tu [[Orbitaal]] widjerfeerd</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="22" id="85691" />
+      <sha1>r5j5wv00cgyp3d57ya3dxh60exnx17g</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>D-Orbitaal</title>
+    <ns>0</ns>
+    <id>11863</id>
+    <redirect title="Orbitaal" />
+    <revision>
+      <id>87346</id>
+      <timestamp>2013-04-08T10:42:51Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>Sidj tu [[Orbitaal]] widjerfeerd</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="22" id="85710" />
+      <sha1>r5j5wv00cgyp3d57ya3dxh60exnx17g</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Arsen</title>
+    <ns>0</ns>
+    <id>11864</id>
+    <revision>
+      <id>87347</id>
+      <timestamp>2013-04-08T16:07:32Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>nei</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5572" id="85711" />
+      <sha1>54ikp0n55jsf5rjgsgx1lrvods2rica</sha1>
+    </revision>
+    <revision>
+      <id>87348</id>
+      <parentid>87347</parentid>
+      <timestamp>2013-04-08T16:10:04Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5570" id="85712" />
+      <sha1>93xtzthzw8zisksnbo5ol95whgi1dm4</sha1>
+    </revision>
+    <revision>
+      <id>87350</id>
+      <parentid>87348</parentid>
+      <timestamp>2013-04-08T16:12:01Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5570" id="85714" />
+      <sha1>bqccbk460vn2gkpx8yo50psbsr7qx0l</sha1>
+    </revision>
+    <revision>
+      <id>109648</id>
+      <parentid>87350</parentid>
+      <timestamp>2015-03-07T15:47:06Z</timestamp>
+      <contributor>
+        <username>Dexbot</username>
+        <id>2929</id>
+      </contributor>
+      <minor />
+      <comment>Removing Link FA template ([[d:Wikidata:Development plan#Badges|handled by wikidata]]) - The interwiki article is not featured</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5539" id="107528" />
+      <sha1>5843egr22a3budwbeib7oe41btdpf3e</sha1>
+    </revision>
+    <revision>
+      <id>109938</id>
+      <parentid>109648</parentid>
+      <timestamp>2015-03-07T17:42:06Z</timestamp>
+      <contributor>
+        <username>Dexbot</username>
+        <id>2929</id>
+      </contributor>
+      <minor />
+      <comment>Removing Link GA template ([[d:Wikidata:Development plan#Badges|handled by wikidata]]) - The interwiki article is not good</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5524" id="107817" />
+      <sha1>3ssrurytm15i686174ahpqp5yjie2j0</sha1>
+    </revision>
+    <revision>
+      <id>123896</id>
+      <parentid>109938</parentid>
+      <timestamp>2017-01-03T08:04:24Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>ISBN f&#246;&#246;rlaag</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5528" id="129462" />
+      <sha1>7q5czzpsh2wwuv7orlyx2gaeome2f1l</sha1>
+    </revision>
+    <revision>
+      <id>123900</id>
+      <parentid>123896</parentid>
+      <timestamp>2017-01-03T08:15:49Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>ISBN f&#246;&#246;rlaag</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5532" id="129466" />
+      <sha1>kmp33m4dsrq4sg7ldx4lcle8f7vobqx</sha1>
+    </revision>
+  </page>
+  
+</mediawiki>

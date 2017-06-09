@@ -1,0 +1,3867 @@
+<mediawiki>
+	<page>
+    <title>Vorlage:User language/jam</title>
+    <ns>10</ns>
+    <id>1092</id>
+    <revision>
+      <id>9478</id>
+      <timestamp>2010-05-30T14:34:27Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <comment>Jamaican</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="564" id="8425" />
+      <sha1>o4886n42z7podtxvvuqry2ktk19d4ls</sha1>
+    </revision>
+    <revision>
+      <id>9479</id>
+      <parentid>9478</parentid>
+      <timestamp>2010-08-20T10:32:22Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>1 Version: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="564" id="8425" />
+      <sha1>o4886n42z7podtxvvuqry2ktk19d4ls</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/jbo</title>
+    <ns>10</ns>
+    <id>1093</id>
+    <revision>
+      <id>9480</id>
+      <timestamp>2010-05-08T17:31:54Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <comment>from http://en.wikipedia.org/wiki/Template:User_jbo etc</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="490" id="8426" />
+      <sha1>2w16i5dlh2bao8pvftvc6jmyaw16hhd</sha1>
+    </revision>
+    <revision>
+      <id>9481</id>
+      <parentid>9480</parentid>
+      <timestamp>2010-05-08T17:33:16Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <minor />
+      <comment>Lojban</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="493" id="8427" />
+      <sha1>t4uokpuaw50kfh957ei9n1ukvspobpn</sha1>
+    </revision>
+    <revision>
+      <id>9482</id>
+      <parentid>9481</parentid>
+      <timestamp>2010-08-20T10:32:22Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>2 Versionen: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="493" id="8427" />
+      <sha1>t4uokpuaw50kfh957ei9n1ukvspobpn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/jct</title>
+    <ns>10</ns>
+    <id>1094</id>
+    <revision>
+      <id>9483</id>
+      <timestamp>2010-05-30T14:21:54Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <comment>Krymchak</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="563" id="8428" />
+      <sha1>sf91p80coo1f7b7d47cgr7bxj0o63sm</sha1>
+    </revision>
+    <revision>
+      <id>9484</id>
+      <parentid>9483</parentid>
+      <timestamp>2010-08-20T10:32:22Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>1 Version: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="563" id="8428" />
+      <sha1>sf91p80coo1f7b7d47cgr7bxj0o63sm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/jut</title>
+    <ns>10</ns>
+    <id>1095</id>
+    <revision>
+      <id>9485</id>
+      <timestamp>2010-05-20T12:42:29Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <minor />
+      <comment>Created page with '{{#switch:{{{1}}}  |name = Jysk  |text = {{#switch:{{{2}}}    |0=This user cannot read or write in [[:category:user jut|Jysk]].    |1=This user can read and write basic [[:catego...'</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="535" id="8429" />
+      <sha1>3mzyen2uz8xjzhev1tfrxjzyqvwqiau</sha1>
+    </revision>
+    <revision>
+      <id>9486</id>
+      <parentid>9485</parentid>
+      <timestamp>2010-08-20T10:32:22Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>1 Version: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="535" id="8429" />
+      <sha1>3mzyen2uz8xjzhev1tfrxjzyqvwqiau</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/ka</title>
+    <ns>10</ns>
+    <id>1096</id>
+    <revision>
+      <id>9487</id>
+      <timestamp>2010-05-05T11:31:39Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <comment>from meta</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="569" id="8430" />
+      <sha1>8ln15d4274l4cy0cylr34lpyl5u52ht</sha1>
+    </revision>
+    <revision>
+      <id>9488</id>
+      <parentid>9487</parentid>
+      <timestamp>2010-08-20T10:32:22Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>1 Version: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="569" id="8430" />
+      <sha1>8ln15d4274l4cy0cylr34lpyl5u52ht</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/kaa</title>
+    <ns>10</ns>
+    <id>1097</id>
+    <revision>
+      <id>9489</id>
+      <timestamp>2010-05-13T11:31:50Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <comment>Created page with '{{#switch:{{{1}}}  |name = Karakalpak  |text = {{#switch:{{{2}}}    |0=This user cannot read or write in [[:category:user kaa|Karakalpak]].    |1=This user can read and write bas...'</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="605" id="8431" />
+      <sha1>2osgpe3dywwizi0n25r2tc0it2demjx</sha1>
+    </revision>
+    <revision>
+      <id>9490</id>
+      <parentid>9489</parentid>
+      <timestamp>2010-08-20T10:32:23Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>1 Version: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="605" id="8431" />
+      <sha1>2osgpe3dywwizi0n25r2tc0it2demjx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/kab</title>
+    <ns>10</ns>
+    <id>1098</id>
+    <revision>
+      <id>9491</id>
+      <timestamp>2010-04-18T18:16:06Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <comment>from meta</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="393" id="8432" />
+      <sha1>nf8axr4ri1yc51wi7k6mhbbl74lcl4r</sha1>
+    </revision>
+    <revision>
+      <id>9492</id>
+      <parentid>9491</parentid>
+      <timestamp>2010-08-20T10:32:23Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>1 Version: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="393" id="8432" />
+      <sha1>nf8axr4ri1yc51wi7k6mhbbl74lcl4r</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/kbd</title>
+    <ns>10</ns>
+    <id>1099</id>
+    <revision>
+      <id>9493</id>
+      <timestamp>2010-05-13T11:37:22Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <comment>Created page with '{{#switch:{{{1}}}  |name = Kabardian  |text = {{#switch:{{{2}}}    |0=This user cannot read or write in [[:category:user kbd|Kabardian]].    |1=This user can read and write basic...'</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="599" id="8433" />
+      <sha1>drmnehj84l4u411ntzqz0fcah4bm35k</sha1>
+    </revision>
+    <revision>
+      <id>9494</id>
+      <parentid>9493</parentid>
+      <timestamp>2010-08-20T10:32:23Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>1 Version: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="599" id="8433" />
+      <sha1>drmnehj84l4u411ntzqz0fcah4bm35k</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/kdr</title>
+    <ns>10</ns>
+    <id>1100</id>
+    <revision>
+      <id>9495</id>
+      <timestamp>2010-05-13T11:43:44Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <comment>Created page with '{{#switch:{{{1}}}  |name = Karaim  |text = {{#switch:{{{2}}}    |0=This user cannot read or write in [[:category:user kdr|Karaim]].    |1=Bil bu ki&#351;i [[:category:user kdr|Karay...'</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="506" id="8434" />
+      <sha1>irpzut3vxuvin2bh1s7zyqf8fm6gi9n</sha1>
+    </revision>
+    <revision>
+      <id>9496</id>
+      <parentid>9495</parentid>
+      <timestamp>2010-08-20T10:32:23Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>1 Version: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="506" id="8434" />
+      <sha1>irpzut3vxuvin2bh1s7zyqf8fm6gi9n</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/kk</title>
+    <ns>10</ns>
+    <id>1101</id>
+    <revision>
+      <id>9497</id>
+      <timestamp>2010-04-18T18:14:02Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <comment>from meta</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="642" id="8435" />
+      <sha1>efqm4qxz97a3za67bgq3jblfeo8n3yj</sha1>
+    </revision>
+    <revision>
+      <id>9498</id>
+      <parentid>9497</parentid>
+      <timestamp>2010-05-31T17:55:07Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <minor />
+      <comment>+0 +4 from en.wikipedia</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="839" id="8436" />
+      <sha1>8f22j3lc3ay9rmm0dsaw5fdzfwvmqqv</sha1>
+    </revision>
+    <revision>
+      <id>9499</id>
+      <parentid>9498</parentid>
+      <timestamp>2010-08-20T10:32:23Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>2 Versionen: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="839" id="8436" />
+      <sha1>8f22j3lc3ay9rmm0dsaw5fdzfwvmqqv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/km</title>
+    <ns>10</ns>
+    <id>1102</id>
+    <revision>
+      <id>9500</id>
+      <timestamp>2010-05-20T12:44:03Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <comment>from meta</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="974" id="8437" />
+      <sha1>9z0eepgka054z4e6rf1zzaabj4d9i2z</sha1>
+    </revision>
+    <revision>
+      <id>9501</id>
+      <parentid>9500</parentid>
+      <timestamp>2010-08-20T10:32:23Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>1 Version: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="974" id="8437" />
+      <sha1>9z0eepgka054z4e6rf1zzaabj4d9i2z</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/kn</title>
+    <ns>10</ns>
+    <id>1103</id>
+    <revision>
+      <id>9502</id>
+      <timestamp>2010-05-20T12:46:50Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <comment>from meta</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="795" id="8438" />
+      <sha1>fehhma2tc3a7af15001pxbh3z19023w</sha1>
+    </revision>
+    <revision>
+      <id>9503</id>
+      <parentid>9502</parentid>
+      <timestamp>2010-08-20T10:32:23Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>1 Version: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="795" id="8438" />
+      <sha1>fehhma2tc3a7af15001pxbh3z19023w</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/ko</title>
+    <ns>10</ns>
+    <id>1104</id>
+    <revision>
+      <id>9504</id>
+      <timestamp>2010-04-18T18:14:57Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <comment>from meta</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="490" id="8439" />
+      <sha1>kqqjzelhmg7v1pza483lrq7od70upvf</sha1>
+    </revision>
+    <revision>
+      <id>9505</id>
+      <parentid>9504</parentid>
+      <timestamp>2010-08-20T10:32:23Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>1 Version: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="490" id="8439" />
+      <sha1>kqqjzelhmg7v1pza483lrq7od70upvf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/koi</title>
+    <ns>10</ns>
+    <id>1105</id>
+    <revision>
+      <id>9506</id>
+      <timestamp>2010-05-13T11:49:36Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <comment>Created page with '{{#switch:{{{1}}}  |name = Komi-Permyak  |text = {{#switch:{{{2}}}    |0=This user cannot read or write in [[:category:user koi|Komi-Permyak]].    |1=&#1058;&#1072;&#1090;&#246;&#1085; &#1074;&#246;&#1083;i&#1089;&#1100; &#1073;&#1072;...'</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="618" id="8440" />
+      <sha1>dyyvs4h0i2lg1o3lf7cpx6u1xrc8mgj</sha1>
+    </revision>
+    <revision>
+      <id>9507</id>
+      <parentid>9506</parentid>
+      <timestamp>2010-06-26T15:36:46Z</timestamp>
+      <contributor>
+        <username>Enye Lav</username>
+        <id>0</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="684" id="8441" />
+      <sha1>ls15knu0az1zb70h8lljkyg8dyy179h</sha1>
+    </revision>
+    <revision>
+      <id>9508</id>
+      <parentid>9507</parentid>
+      <timestamp>2010-08-20T10:32:23Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>2 Versionen: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="684" id="8441" />
+      <sha1>ls15knu0az1zb70h8lljkyg8dyy179h</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/krc</title>
+    <ns>10</ns>
+    <id>1106</id>
+    <revision>
+      <id>9509</id>
+      <timestamp>2010-04-18T18:33:19Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <comment>from meta</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="922" id="8442" />
+      <sha1>6azsw1cn669ahrlyhbr0gnoshnd3acl</sha1>
+    </revision>
+    <revision>
+      <id>9510</id>
+      <parentid>9509</parentid>
+      <timestamp>2010-08-20T10:32:23Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>1 Version: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="922" id="8442" />
+      <sha1>6azsw1cn669ahrlyhbr0gnoshnd3acl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/ksh</title>
+    <ns>10</ns>
+    <id>1107</id>
+    <revision>
+      <id>9511</id>
+      <timestamp>2010-05-05T11:32:48Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <comment>from meta</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="468" id="8443" />
+      <sha1>qi2utci30s5vg3dp7o51x3o1u0s60e9</sha1>
+    </revision>
+    <revision>
+      <id>9512</id>
+      <parentid>9511</parentid>
+      <timestamp>2010-08-20T10:32:23Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>1 Version: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="468" id="8443" />
+      <sha1>qi2utci30s5vg3dp7o51x3o1u0s60e9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/ku</title>
+    <ns>10</ns>
+    <id>1108</id>
+    <revision>
+      <id>9513</id>
+      <timestamp>2010-05-05T11:33:51Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <comment>from meta</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="413" id="8444" />
+      <sha1>2maevmjn9jprhqfdewki2xs9m7nq70p</sha1>
+    </revision>
+    <revision>
+      <id>9514</id>
+      <parentid>9513</parentid>
+      <timestamp>2010-08-20T10:32:24Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>1 Version: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="413" id="8444" />
+      <sha1>2maevmjn9jprhqfdewki2xs9m7nq70p</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/kv</title>
+    <ns>10</ns>
+    <id>1109</id>
+    <revision>
+      <id>9515</id>
+      <timestamp>2010-05-05T11:34:42Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <comment>from meta</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="695" id="8445" />
+      <sha1>4btwep20o497lwymm4es05np8vryypi</sha1>
+    </revision>
+    <revision>
+      <id>9516</id>
+      <parentid>9515</parentid>
+      <timestamp>2010-05-05T18:01:55Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <minor />
+      <comment>corr link to category:user kv</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="689" id="8446" />
+      <sha1>hw4ufqo7kwqvjxby987ytmhpcqtqnek</sha1>
+    </revision>
+    <revision>
+      <id>9517</id>
+      <parentid>9516</parentid>
+      <timestamp>2010-05-05T18:02:55Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <minor />
+      <comment>corr link to category:user kv</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="677" id="8447" />
+      <sha1>bhy0i2rpozvzx2e2g7x2vvhj7tc4f4p</sha1>
+    </revision>
+    <revision>
+      <id>9518</id>
+      <parentid>9517</parentid>
+      <timestamp>2010-05-05T18:04:55Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <minor />
+      <comment>corr link to category:user kv</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="641" id="8448" />
+      <sha1>lgufx9uu3vbeu0zwb2tlfeae3lc6km4</sha1>
+    </revision>
+    <revision>
+      <id>9519</id>
+      <parentid>9518</parentid>
+      <timestamp>2010-06-26T15:27:20Z</timestamp>
+      <contributor>
+        <username>Enye Lav</username>
+        <id>0</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="738" id="8449" />
+      <sha1>964xfrq50ybddykuq81kqj2lebwdjif</sha1>
+    </revision>
+    <revision>
+      <id>9520</id>
+      <parentid>9519</parentid>
+      <timestamp>2010-06-26T15:39:46Z</timestamp>
+      <contributor>
+        <username>Enye Lav</username>
+        <id>0</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="739" id="8450" />
+      <sha1>4nq4j64uxw2npmremro9mkdhqgjguas</sha1>
+    </revision>
+    <revision>
+      <id>9521</id>
+      <parentid>9520</parentid>
+      <timestamp>2010-08-20T10:32:24Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>6 Versionen: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="739" id="8450" />
+      <sha1>4nq4j64uxw2npmremro9mkdhqgjguas</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/kxk</title>
+    <ns>10</ns>
+    <id>1110</id>
+    <revision>
+      <id>9522</id>
+      <timestamp>2010-05-13T11:53:15Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <comment>Created page with '{{#switch:{{{1}}}  |name = Zayein Karen  |text = {{#switch:{{{2}}}    |0=This user cannot read or write in [[:category:user kxk|Zayein Karen]].    |1=This user can read and write...'</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="591" id="8451" />
+      <sha1>a71ydxwu4g641xskjia8t60unna0eqf</sha1>
+    </revision>
+    <revision>
+      <id>9523</id>
+      <parentid>9522</parentid>
+      <timestamp>2010-08-20T10:32:24Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>1 Version: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="591" id="8451" />
+      <sha1>a71ydxwu4g641xskjia8t60unna0eqf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/la</title>
+    <ns>10</ns>
+    <id>1111</id>
+    <revision>
+      <id>9524</id>
+      <timestamp>2010-04-18T18:17:27Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <comment>from meta</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="257" id="8452" />
+      <sha1>4idxrw9bgy5i50alqzweh61862zcqew</sha1>
+    </revision>
+    <revision>
+      <id>9525</id>
+      <parentid>9524</parentid>
+      <timestamp>2010-08-20T10:32:24Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>1 Version: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="257" id="8452" />
+      <sha1>4idxrw9bgy5i50alqzweh61862zcqew</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/lad</title>
+    <ns>10</ns>
+    <id>1112</id>
+    <revision>
+      <id>9526</id>
+      <timestamp>2010-05-13T12:02:17Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <comment>Created page with '{{#switch:{{{1}}}  |name = Ladino, Judaeo-Spanish  |text = {{#switch:{{{2}}}    |0=This user cannot read or write in [[:category:user lad|Ladino, Judaeo-Spanish]].    |1=Este uzu...'</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="654" id="8453" />
+      <sha1>d8z5n6kqms1b19hv797w6zs418m9exv</sha1>
+    </revision>
+    <revision>
+      <id>9527</id>
+      <parentid>9526</parentid>
+      <timestamp>2010-08-20T10:32:24Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>1 Version: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="654" id="8453" />
+      <sha1>d8z5n6kqms1b19hv797w6zs418m9exv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/lb</title>
+    <ns>10</ns>
+    <id>1113</id>
+    <revision>
+      <id>9528</id>
+      <timestamp>2010-05-05T11:35:45Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <comment>from meta</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="570" id="8454" />
+      <sha1>2jufyqupix5ztn2xsx56snjv1nsbmxn</sha1>
+    </revision>
+    <revision>
+      <id>9529</id>
+      <parentid>9528</parentid>
+      <timestamp>2010-08-20T10:32:24Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>1 Version: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="570" id="8454" />
+      <sha1>2jufyqupix5ztn2xsx56snjv1nsbmxn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/lez</title>
+    <ns>10</ns>
+    <id>1114</id>
+    <revision>
+      <id>9530</id>
+      <timestamp>2010-05-13T14:57:13Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <comment>Created page with '{{#switch:{{{1}}}  |name = Lezghian  |text = {{#switch:{{{2}}}    |0=This user cannot read or write in [[:category:user lez|Lezghian]].    |1=This user can read and write basic [...'</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="563" id="8455" />
+      <sha1>puq3jkvgj6k9j5fzk4mfam4qg8s3ga9</sha1>
+    </revision>
+    <revision>
+      <id>9531</id>
+      <parentid>9530</parentid>
+      <timestamp>2010-08-20T10:32:24Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>1 Version: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="563" id="8455" />
+      <sha1>puq3jkvgj6k9j5fzk4mfam4qg8s3ga9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/lfn</title>
+    <ns>10</ns>
+    <id>1115</id>
+    <revision>
+      <id>9532</id>
+      <timestamp>2010-04-18T18:18:17Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <comment>from meta</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="284" id="8456" />
+      <sha1>22wb5yvqhzy11zwgxi9e2f8kict988x</sha1>
+    </revision>
+    <revision>
+      <id>9533</id>
+      <parentid>9532</parentid>
+      <timestamp>2010-08-20T10:32:24Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>1 Version: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="284" id="8456" />
+      <sha1>22wb5yvqhzy11zwgxi9e2f8kict988x</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/li</title>
+    <ns>10</ns>
+    <id>1116</id>
+    <revision>
+      <id>9534</id>
+      <timestamp>2010-04-18T18:19:23Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <comment>from meta</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="396" id="8457" />
+      <sha1>a6yu1cm9itfz82ywv21kx7dk11qtsto</sha1>
+    </revision>
+    <revision>
+      <id>9535</id>
+      <parentid>9534</parentid>
+      <timestamp>2010-08-20T10:32:24Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>1 Version: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="396" id="8457" />
+      <sha1>a6yu1cm9itfz82ywv21kx7dk11qtsto</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/lij</title>
+    <ns>10</ns>
+    <id>1117</id>
+    <revision>
+      <id>9536</id>
+      <timestamp>2010-05-20T13:42:15Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <comment>from meta</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="581" id="8458" />
+      <sha1>t6q8me5m1v2pyzisbf90i9d10o0ac65</sha1>
+    </revision>
+    <revision>
+      <id>9537</id>
+      <parentid>9536</parentid>
+      <timestamp>2010-08-20T10:32:25Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>1 Version: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="581" id="8458" />
+      <sha1>t6q8me5m1v2pyzisbf90i9d10o0ac65</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/lim</title>
+    <ns>10</ns>
+    <id>1118</id>
+    <revision>
+      <id>9538</id>
+      <timestamp>2010-06-02T18:31:24Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <comment>Limburgish</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="577" id="8459" />
+      <sha1>dp1r707t87z523zhw2hz67rpm76u6o6</sha1>
+    </revision>
+    <revision>
+      <id>9539</id>
+      <parentid>9538</parentid>
+      <timestamp>2010-08-20T10:32:25Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>1 Version: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="577" id="8459" />
+      <sha1>dp1r707t87z523zhw2hz67rpm76u6o6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/lkt</title>
+    <ns>10</ns>
+    <id>1119</id>
+    <revision>
+      <id>9540</id>
+      <timestamp>2010-05-13T12:07:05Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <comment>Created page with '{{#switch:{{{1}}}  |name = Lakota  |text = {{#switch:{{{2}}}    |0=This user cannot read or write in [[:category:user lkt|Lakota]].    |1=This user can read and write basic [[:ca...'</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="549" id="8460" />
+      <sha1>b6sxdioathakg69887s2j75cv4ztp8n</sha1>
+    </revision>
+    <revision>
+      <id>9541</id>
+      <parentid>9540</parentid>
+      <timestamp>2010-08-20T10:32:25Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>1 Version: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="549" id="8460" />
+      <sha1>b6sxdioathakg69887s2j75cv4ztp8n</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/lld</title>
+    <ns>10</ns>
+    <id>1120</id>
+    <revision>
+      <id>9542</id>
+      <timestamp>2010-05-05T11:36:58Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <comment>from meta</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="467" id="8461" />
+      <sha1>tfzo2bhrr3zthezsg44f3iviravcm6f</sha1>
+    </revision>
+    <revision>
+      <id>9543</id>
+      <parentid>9542</parentid>
+      <timestamp>2010-08-20T10:32:25Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>1 Version: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="467" id="8461" />
+      <sha1>tfzo2bhrr3zthezsg44f3iviravcm6f</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/loz</title>
+    <ns>10</ns>
+    <id>1121</id>
+    <revision>
+      <id>9544</id>
+      <timestamp>2010-05-13T12:13:24Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <comment>Created page with '{{#switch:{{{1}}}  |name = Lozi  |text = {{#switch:{{{2}}}    |0=This user cannot read or write in [[:category:user loz|Lozi]].    |1=This user can read and write basic [[:catego...'</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="540" id="8462" />
+      <sha1>pcwz1h765a7xy082kbjtl9brtelypn5</sha1>
+    </revision>
+    <revision>
+      <id>9545</id>
+      <parentid>9544</parentid>
+      <timestamp>2010-08-20T10:32:25Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>1 Version: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="540" id="8462" />
+      <sha1>pcwz1h765a7xy082kbjtl9brtelypn5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/lt</title>
+    <ns>10</ns>
+    <id>1122</id>
+    <revision>
+      <id>9546</id>
+      <timestamp>2010-05-05T11:48:14Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <comment>from meta</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="624" id="8463" />
+      <sha1>g2c88iz6789b14xftritae7ym589lcn</sha1>
+    </revision>
+    <revision>
+      <id>9547</id>
+      <parentid>9546</parentid>
+      <timestamp>2010-08-20T10:32:25Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>1 Version: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="624" id="8463" />
+      <sha1>g2c88iz6789b14xftritae7ym589lcn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/ltg</title>
+    <ns>10</ns>
+    <id>1123</id>
+    <revision>
+      <id>9548</id>
+      <timestamp>2010-03-08T21:15:06Z</timestamp>
+      <contributor>
+        <username>Dark Eagle</username>
+        <id>0</id>
+      </contributor>
+      <comment>Created page with '{{#switch:{{{1}}}  |name = Latgalian  |text = {{#switch:{{{2}}}    |0=Itys l&#299;tuotuojs [[:category:user ltg|latga&#316;u vol&#363;dys]] namuok.    |1=Itys l&#299;tuotuojs [[:category:user lt...'</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="656" id="8464" />
+      <sha1>gjdwhbxmii8yw0snm4i11s541ukchu4</sha1>
+    </revision>
+    <revision>
+      <id>9549</id>
+      <parentid>9548</parentid>
+      <timestamp>2010-04-16T18:19:15Z</timestamp>
+      <contributor>
+        <username>MF-Warburg</username>
+        <id>0</id>
+      </contributor>
+      <minor />
+      <comment>1 revision from [[:meta:Template:User language/ltg]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="656" id="8465" />
+      <sha1>gjdwhbxmii8yw0snm4i11s541ukchu4</sha1>
+    </revision>
+    <revision>
+      <id>9550</id>
+      <parentid>9549</parentid>
+      <timestamp>2010-04-16T18:19:29Z</timestamp>
+      <contributor>
+        <username>MF-Warburg</username>
+        <id>0</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="585" id="8466" />
+      <sha1>9o91mm88vifflqh77czxprk6alc9n8h</sha1>
+    </revision>
+    <revision>
+      <id>9552</id>
+      <parentid>9550</parentid>
+      <timestamp>2010-08-20T10:32:25Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>3 Versionen: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="585" id="8466" />
+      <sha1>9o91mm88vifflqh77czxprk6alc9n8h</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/lus</title>
+    <ns>10</ns>
+    <id>1124</id>
+    <revision>
+      <id>9553</id>
+      <timestamp>2010-05-13T12:16:59Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <comment>Created page with '{{#switch:{{{1}}}  |name = Lushai  |text = {{#switch:{{{2}}}    |0=This user cannot read or write in [[:category:user lus|Lushai]].    |1=This user can read and write basic [[:ca...'</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="549" id="8468" />
+      <sha1>jz2qbfzaox8m236rwh7s383jzn4e02c</sha1>
+    </revision>
+    <revision>
+      <id>9554</id>
+      <parentid>9553</parentid>
+      <timestamp>2010-08-20T10:32:25Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>1 Version: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="549" id="8468" />
+      <sha1>jz2qbfzaox8m236rwh7s383jzn4e02c</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/lv</title>
+    <ns>10</ns>
+    <id>1125</id>
+    <revision>
+      <id>9555</id>
+      <timestamp>2010-04-17T20:09:08Z</timestamp>
+      <contributor>
+        <username>Dark Eagle</username>
+        <id>0</id>
+      </contributor>
+      <minor />
+      <comment>Created page with '{{#switch:{{{1}}}  |name = Latvian  |text = &#352;is lietot&#257;js [[:category:user lv|latvie&#353;u valodu]] {{#switch:{{{2}}}    |0=nesaprot    |1=prot pamata l&#299;men&#299;    |2=prot vid&#275;j&#257;...'</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="304" id="8469" />
+      <sha1>7upr29k8fof69y1cvakbeih5042uggx</sha1>
+    </revision>
+    <revision>
+      <id>9556</id>
+      <parentid>9555</parentid>
+      <timestamp>2010-08-20T10:32:25Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>1 Version: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="304" id="8469" />
+      <sha1>7upr29k8fof69y1cvakbeih5042uggx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/mcq</title>
+    <ns>10</ns>
+    <id>1126</id>
+    <redirect title="Vorlage:User language/ese" />
+    <revision>
+      <id>9557</id>
+      <timestamp>2010-05-13T12:22:48Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <comment>Redirected page to [[Template:User language/ese]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="39" id="8470" />
+      <sha1>aeovlxl75hb7vguv1c2lvq6x3u6g86c</sha1>
+    </revision>
+    <revision>
+      <id>9558</id>
+      <parentid>9557</parentid>
+      <timestamp>2010-08-20T10:32:25Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>1 Version: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="39" id="8470" />
+      <sha1>aeovlxl75hb7vguv1c2lvq6x3u6g86c</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/mdf</title>
+    <ns>10</ns>
+    <id>1127</id>
+    <revision>
+      <id>9559</id>
+      <timestamp>2010-05-20T13:44:05Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <comment>from meta</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="518" id="8471" />
+      <sha1>0nkj38fltzmwhp6zwrfzidqzkit5ick</sha1>
+    </revision>
+    <revision>
+      <id>9560</id>
+      <parentid>9559</parentid>
+      <timestamp>2010-08-20T10:32:25Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>1 Version: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="518" id="8471" />
+      <sha1>0nkj38fltzmwhp6zwrfzidqzkit5ick</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/mhr</title>
+    <ns>10</ns>
+    <id>1128</id>
+    <revision>
+      <id>9561</id>
+      <timestamp>2010-05-13T12:34:15Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <comment>from commons:Template:Babel mhr</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="869" id="8472" />
+      <sha1>gzq05yjrydbunyaffqkt1eg5ngta9ql</sha1>
+    </revision>
+    <revision>
+      <id>9562</id>
+      <parentid>9561</parentid>
+      <timestamp>2010-05-13T12:35:52Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="872" id="8473" />
+      <sha1>qb5x8v28k2v3kn40ozxnb9alp1x7i5f</sha1>
+    </revision>
+    <revision>
+      <id>9563</id>
+      <parentid>9562</parentid>
+      <timestamp>2010-08-20T10:32:25Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>2 Versionen: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="872" id="8473" />
+      <sha1>qb5x8v28k2v3kn40ozxnb9alp1x7i5f</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/mik</title>
+    <ns>10</ns>
+    <id>1129</id>
+    <revision>
+      <id>9564</id>
+      <timestamp>2010-05-30T15:08:54Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <comment>Mikasuki</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="563" id="8474" />
+      <sha1>lrrsqwvzj5b0batmqzmaxqoxrmnfxbm</sha1>
+    </revision>
+    <revision>
+      <id>9565</id>
+      <parentid>9564</parentid>
+      <timestamp>2010-08-20T10:32:26Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>1 Version: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="563" id="8474" />
+      <sha1>lrrsqwvzj5b0batmqzmaxqoxrmnfxbm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/mk</title>
+    <ns>10</ns>
+    <id>1130</id>
+    <revision>
+      <id>9566</id>
+      <timestamp>2010-04-18T18:21:20Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <comment>from meta</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="619" id="8475" />
+      <sha1>anx8q7jiw7j7h6lzjcd1eomo34mr3yf</sha1>
+    </revision>
+    <revision>
+      <id>9567</id>
+      <parentid>9566</parentid>
+      <timestamp>2010-08-20T10:32:26Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>1 Version: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="619" id="8475" />
+      <sha1>anx8q7jiw7j7h6lzjcd1eomo34mr3yf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/mrj</title>
+    <ns>10</ns>
+    <id>1131</id>
+    <revision>
+      <id>9568</id>
+      <timestamp>2010-05-30T18:09:23Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <comment>Hill Mari</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="570" id="8476" />
+      <sha1>g2g9ljplaeasms244coj5eptsolyem8</sha1>
+    </revision>
+    <revision>
+      <id>9569</id>
+      <parentid>9568</parentid>
+      <timestamp>2010-08-20T10:32:26Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>1 Version: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="570" id="8476" />
+      <sha1>g2g9ljplaeasms244coj5eptsolyem8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/ms</title>
+    <ns>10</ns>
+    <id>1132</id>
+    <revision>
+      <id>9570</id>
+      <timestamp>2010-05-20T13:49:08Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <comment>from meta</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="607" id="8477" />
+      <sha1>3dbdi5bsb1iwu4kvj1smgramsp17zcn</sha1>
+    </revision>
+    <revision>
+      <id>9571</id>
+      <parentid>9570</parentid>
+      <timestamp>2010-08-20T10:32:26Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>1 Version: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="607" id="8477" />
+      <sha1>3dbdi5bsb1iwu4kvj1smgramsp17zcn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/mus</title>
+    <ns>10</ns>
+    <id>1133</id>
+    <revision>
+      <id>9572</id>
+      <timestamp>2010-05-13T12:41:35Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <comment>Created page with '{{#switch:{{{1}}}  |name = Muscogee, Creek  |text = {{#switch:{{{2}}}    |0=This user cannot read or write in [[:category:user mus|Muscogee, Creek]].    |1=This user can read and...'</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="612" id="8478" />
+      <sha1>5eb9zviqllplcrz09y10hwrp04qpqiq</sha1>
+    </revision>
+    <revision>
+      <id>9573</id>
+      <parentid>9572</parentid>
+      <timestamp>2010-08-20T10:32:26Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>1 Version: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="612" id="8478" />
+      <sha1>5eb9zviqllplcrz09y10hwrp04qpqiq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/mwl</title>
+    <ns>10</ns>
+    <id>1134</id>
+    <revision>
+      <id>9574</id>
+      <timestamp>2010-05-05T11:38:26Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <comment>from meta</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="413" id="8479" />
+      <sha1>p4snmyix2ejk4f9s97r7dfk5wviq8tl</sha1>
+    </revision>
+    <revision>
+      <id>9575</id>
+      <parentid>9574</parentid>
+      <timestamp>2010-08-20T10:32:26Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>1 Version: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="413" id="8479" />
+      <sha1>p4snmyix2ejk4f9s97r7dfk5wviq8tl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/mwv</title>
+    <ns>10</ns>
+    <id>1135</id>
+    <revision>
+      <id>9576</id>
+      <timestamp>2010-05-20T13:51:24Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <comment>from meta</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="380" id="8480" />
+      <sha1>77nxpg41fsswlqqfu8myzuy4ayl3szm</sha1>
+    </revision>
+    <revision>
+      <id>9577</id>
+      <parentid>9576</parentid>
+      <timestamp>2010-08-20T10:32:26Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>1 Version: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="380" id="8480" />
+      <sha1>77nxpg41fsswlqqfu8myzuy4ayl3szm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/mzn</title>
+    <ns>10</ns>
+    <id>1136</id>
+    <revision>
+      <id>9578</id>
+      <timestamp>2010-05-05T11:55:27Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <comment>from meta</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="297" id="8481" />
+      <sha1>gd60w98k3lzuxmjmi0xnbzyxjc5ofh7</sha1>
+    </revision>
+    <revision>
+      <id>9579</id>
+      <parentid>9578</parentid>
+      <timestamp>2010-08-20T10:32:26Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>1 Version: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="297" id="8481" />
+      <sha1>gd60w98k3lzuxmjmi0xnbzyxjc5ofh7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/nah</title>
+    <ns>10</ns>
+    <id>1137</id>
+    <revision>
+      <id>9580</id>
+      <timestamp>2010-05-20T13:57:01Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <comment>from en.wikipedia</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="573" id="8482" />
+      <sha1>6k1cb28x9cg4ekx1a2wjxwfvefzwtjw</sha1>
+    </revision>
+    <revision>
+      <id>9581</id>
+      <parentid>9580</parentid>
+      <timestamp>2010-08-20T10:32:26Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>1 Version: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="573" id="8482" />
+      <sha1>6k1cb28x9cg4ekx1a2wjxwfvefzwtjw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/nan</title>
+    <ns>10</ns>
+    <id>1138</id>
+    <revision>
+      <id>9582</id>
+      <timestamp>2010-05-13T13:30:49Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <comment>from en:wikipedia and comomns</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1132" id="8483" />
+      <sha1>ejp7ygvbpijuvcutd7j4ataqhsj695q</sha1>
+    </revision>
+    <revision>
+      <id>9583</id>
+      <parentid>9582</parentid>
+      <timestamp>2010-08-20T10:32:26Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>1 Version: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1132" id="8483" />
+      <sha1>ejp7ygvbpijuvcutd7j4ataqhsj695q</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/nap</title>
+    <ns>10</ns>
+    <id>1139</id>
+    <revision>
+      <id>9584</id>
+      <timestamp>2010-05-05T12:28:09Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <comment>from meta</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="570" id="8484" />
+      <sha1>1fifijhhj24ppx5xdx0xg2v27zr26oz</sha1>
+    </revision>
+    <revision>
+      <id>9585</id>
+      <parentid>9584</parentid>
+      <timestamp>2010-08-20T10:32:26Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>1 Version: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="570" id="8484" />
+      <sha1>1fifijhhj24ppx5xdx0xg2v27zr26oz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/nds</title>
+    <ns>10</ns>
+    <id>1140</id>
+    <revision>
+      <id>9586</id>
+      <timestamp>2010-04-18T18:22:49Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <comment>from meta</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="977" id="8485" />
+      <sha1>njhw20i38wuz6fyb41vnfa869en9kpi</sha1>
+    </revision>
+    <revision>
+      <id>9587</id>
+      <parentid>9586</parentid>
+      <timestamp>2010-08-20T10:32:27Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>1 Version: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="977" id="8485" />
+      <sha1>njhw20i38wuz6fyb41vnfa869en9kpi</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/nhn</title>
+    <ns>10</ns>
+    <id>1141</id>
+    <revision>
+      <id>9588</id>
+      <timestamp>2010-05-20T14:07:09Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <comment>from en.wikipedia</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="600" id="8486" />
+      <sha1>sye5b54jl4ffswsqrq9co4432smu570</sha1>
+    </revision>
+    <revision>
+      <id>9589</id>
+      <parentid>9588</parentid>
+      <timestamp>2010-08-20T10:32:27Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>1 Version: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="600" id="8486" />
+      <sha1>sye5b54jl4ffswsqrq9co4432smu570</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/njo</title>
+    <ns>10</ns>
+    <id>1142</id>
+    <revision>
+      <id>9590</id>
+      <timestamp>2010-05-30T18:06:17Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <comment>Naga, Ao</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="563" id="8487" />
+      <sha1>c2kg8o2wjzbce9lo4zwy3ew4ebaa5q5</sha1>
+    </revision>
+    <revision>
+      <id>9591</id>
+      <parentid>9590</parentid>
+      <timestamp>2010-08-20T10:32:27Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>1 Version: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="563" id="8487" />
+      <sha1>c2kg8o2wjzbce9lo4zwy3ew4ebaa5q5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/nl</title>
+    <ns>10</ns>
+    <id>1143</id>
+    <revision>
+      <id>9592</id>
+      <timestamp>2010-04-18T12:24:00Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <comment>from meta</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="447" id="8488" />
+      <sha1>b923p3j49803d24xixq49jcy9uqp0wu</sha1>
+    </revision>
+    <revision>
+      <id>9593</id>
+      <parentid>9592</parentid>
+      <timestamp>2010-04-18T15:20:47Z</timestamp>
+      <contributor>
+        <username>MF-Warburg</username>
+        <id>0</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="377" id="8489" />
+      <sha1>29y45528iuykt8wo0q9494463toifzk</sha1>
+    </revision>
+    <revision>
+      <id>9594</id>
+      <parentid>9593</parentid>
+      <timestamp>2010-08-20T10:32:27Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>2 Versionen: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="377" id="8489" />
+      <sha1>29y45528iuykt8wo0q9494463toifzk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/nn</title>
+    <ns>10</ns>
+    <id>1144</id>
+    <revision>
+      <id>9595</id>
+      <timestamp>2010-05-20T14:09:41Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <comment>from meta</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="616" id="8490" />
+      <sha1>s2i819kz3v1saiz5esdliy1fmirn7x2</sha1>
+    </revision>
+    <revision>
+      <id>9596</id>
+      <parentid>9595</parentid>
+      <timestamp>2010-08-20T10:32:27Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>1 Version: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="616" id="8490" />
+      <sha1>s2i819kz3v1saiz5esdliy1fmirn7x2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/no</title>
+    <ns>10</ns>
+    <id>1145</id>
+    <revision>
+      <id>9597</id>
+      <timestamp>2010-05-20T14:11:14Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <comment>from meta</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="428" id="8491" />
+      <sha1>f3drggjt6dntb81tsapk6xacxpt2kd2</sha1>
+    </revision>
+    <revision>
+      <id>9598</id>
+      <parentid>9597</parentid>
+      <timestamp>2010-08-20T10:32:27Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>1 Version: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="428" id="8491" />
+      <sha1>f3drggjt6dntb81tsapk6xacxpt2kd2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/non</title>
+    <ns>10</ns>
+    <id>1146</id>
+    <revision>
+      <id>9599</id>
+      <timestamp>2010-04-18T18:24:45Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <comment>from meta</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="370" id="8492" />
+      <sha1>7j319pfsobj75go59v4v3bn2kwpjsef</sha1>
+    </revision>
+    <revision>
+      <id>9600</id>
+      <parentid>9599</parentid>
+      <timestamp>2010-05-05T21:23:05Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <minor />
+      <comment>corr link to category:user non</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="366" id="8493" />
+      <sha1>ph1q1teur7i6gxufxz9jgkyjb0xe0r8</sha1>
+    </revision>
+    <revision>
+      <id>9601</id>
+      <parentid>9600</parentid>
+      <timestamp>2010-08-20T10:32:27Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>2 Versionen: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="366" id="8493" />
+      <sha1>ph1q1teur7i6gxufxz9jgkyjb0xe0r8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/nso</title>
+    <ns>10</ns>
+    <id>1147</id>
+    <revision>
+      <id>9602</id>
+      <timestamp>2010-05-05T11:39:35Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <comment>from meta</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="378" id="8494" />
+      <sha1>7eodaouje1t3spundugt9hjlhgv4fc6</sha1>
+    </revision>
+    <revision>
+      <id>9603</id>
+      <parentid>9602</parentid>
+      <timestamp>2010-08-20T10:32:27Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>1 Version: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="378" id="8494" />
+      <sha1>7eodaouje1t3spundugt9hjlhgv4fc6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/oc</title>
+    <ns>10</ns>
+    <id>1148</id>
+    <revision>
+      <id>9604</id>
+      <timestamp>2010-05-05T11:40:30Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <comment>from meta</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="526" id="8495" />
+      <sha1>sgieajv4gip19qjxenlqcheahvn8jz7</sha1>
+    </revision>
+    <revision>
+      <id>9605</id>
+      <parentid>9604</parentid>
+      <timestamp>2010-08-20T10:32:27Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>1 Version: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="526" id="8495" />
+      <sha1>sgieajv4gip19qjxenlqcheahvn8jz7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/ojp</title>
+    <ns>10</ns>
+    <id>1149</id>
+    <revision>
+      <id>9606</id>
+      <timestamp>2010-05-30T15:38:20Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <comment>Old Japanese</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="591" id="8496" />
+      <sha1>8cbqtluj8xyu3e8ysxc9eoucusa0tnd</sha1>
+    </revision>
+    <revision>
+      <id>9607</id>
+      <parentid>9606</parentid>
+      <timestamp>2010-08-20T10:32:27Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>1 Version: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="591" id="8496" />
+      <sha1>8cbqtluj8xyu3e8ysxc9eoucusa0tnd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/ota</title>
+    <ns>10</ns>
+    <id>1150</id>
+    <revision>
+      <id>9608</id>
+      <timestamp>2010-05-20T14:24:05Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <comment>from en.wikipedia</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="742" id="8497" />
+      <sha1>gf021xffvttpnh3ocnlp5d74dfm91f2</sha1>
+    </revision>
+    <revision>
+      <id>9609</id>
+      <parentid>9608</parentid>
+      <timestamp>2010-08-20T10:32:27Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>1 Version: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="742" id="8497" />
+      <sha1>gf021xffvttpnh3ocnlp5d74dfm91f2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/pap</title>
+    <ns>10</ns>
+    <id>1151</id>
+    <revision>
+      <id>9610</id>
+      <timestamp>2010-05-20T14:34:54Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <comment>from pap.wikipedia</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="660" id="8498" />
+      <sha1>gjtjklvisqkke7mcjyt47wt3swnjxyz</sha1>
+    </revision>
+    <revision>
+      <id>9611</id>
+      <parentid>9610</parentid>
+      <timestamp>2010-08-20T10:32:27Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>1 Version: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="660" id="8498" />
+      <sha1>gjtjklvisqkke7mcjyt47wt3swnjxyz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/pcd</title>
+    <ns>10</ns>
+    <id>1152</id>
+    <revision>
+      <id>9612</id>
+      <timestamp>2010-04-18T18:29:08Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <comment>from meta</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="557" id="8499" />
+      <sha1>74vpm3us4toah2yw11tfdx97u2wli7s</sha1>
+    </revision>
+    <revision>
+      <id>9613</id>
+      <parentid>9612</parentid>
+      <timestamp>2010-05-05T21:32:07Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="543" id="8500" />
+      <sha1>3dyt2oqffta81t6qrs1t2etxoi90uct</sha1>
+    </revision>
+    <revision>
+      <id>9614</id>
+      <parentid>9613</parentid>
+      <timestamp>2010-08-20T10:32:28Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>2 Versionen: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="543" id="8500" />
+      <sha1>3dyt2oqffta81t6qrs1t2etxoi90uct</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/pdc</title>
+    <ns>10</ns>
+    <id>1153</id>
+    <revision>
+      <id>9615</id>
+      <timestamp>2010-06-02T17:54:34Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <comment>Pennsylvania German</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="640" id="8501" />
+      <sha1>7fklyimsg02pmeti351ibmpkqalpd5j</sha1>
+    </revision>
+    <revision>
+      <id>9616</id>
+      <parentid>9615</parentid>
+      <timestamp>2010-08-20T10:32:28Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>1 Version: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="640" id="8501" />
+      <sha1>7fklyimsg02pmeti351ibmpkqalpd5j</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/pdt</title>
+    <ns>10</ns>
+    <id>1154</id>
+    <revision>
+      <id>9617</id>
+      <timestamp>2010-05-20T14:39:02Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <comment>from en.wikipedia</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="604" id="8502" />
+      <sha1>6e12oeegtoluufqyi9xg2juj15tg728</sha1>
+    </revision>
+    <revision>
+      <id>9618</id>
+      <parentid>9617</parentid>
+      <timestamp>2010-08-20T10:32:28Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>1 Version: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="604" id="8502" />
+      <sha1>6e12oeegtoluufqyi9xg2juj15tg728</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/pfl</title>
+    <ns>10</ns>
+    <id>1155</id>
+    <revision>
+      <id>9619</id>
+      <timestamp>2010-04-18T18:30:00Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <comment>from meta</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="524" id="8503" />
+      <sha1>51wj35hlgw4us756v4a87prva03u9sh</sha1>
+    </revision>
+    <revision>
+      <id>9620</id>
+      <parentid>9619</parentid>
+      <timestamp>2010-05-05T21:33:43Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <minor />
+      <comment>corr link to category:user pfl</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="524" id="8504" />
+      <sha1>br5kp4d94i7nqe0zpn7e55d2kvm5k9w</sha1>
+    </revision>
+    <revision>
+      <id>9621</id>
+      <parentid>9620</parentid>
+      <timestamp>2010-08-20T10:32:28Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>2 Versionen: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="524" id="8504" />
+      <sha1>br5kp4d94i7nqe0zpn7e55d2kvm5k9w</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/pig</title>
+    <ns>10</ns>
+    <id>1156</id>
+    <revision>
+      <id>9622</id>
+      <timestamp>2010-05-13T13:41:43Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <comment>from en.wikipedia</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="770" id="8505" />
+      <sha1>efdifv404ssduvpsnsyakhq7of3wyuz</sha1>
+    </revision>
+    <revision>
+      <id>9623</id>
+      <parentid>9622</parentid>
+      <timestamp>2010-08-20T10:32:28Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>1 Version: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="770" id="8505" />
+      <sha1>efdifv404ssduvpsnsyakhq7of3wyuz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/pl</title>
+    <ns>10</ns>
+    <id>1157</id>
+    <revision>
+      <id>9624</id>
+      <timestamp>2010-04-18T18:26:03Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <comment>from meta</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1006" id="8506" />
+      <sha1>ok7hu4fhxdv7odi4n1rh6yg2kzlnvve</sha1>
+    </revision>
+    <revision>
+      <id>9625</id>
+      <parentid>9624</parentid>
+      <timestamp>2010-08-20T10:32:28Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>1 Version: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1006" id="8506" />
+      <sha1>ok7hu4fhxdv7odi4n1rh6yg2kzlnvve</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/pnt</title>
+    <ns>10</ns>
+    <id>1158</id>
+    <revision>
+      <id>9626</id>
+      <timestamp>2010-04-18T18:27:49Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <comment>from meta</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="764" id="8507" />
+      <sha1>tfedzb9v6vowfcd2uqp5fks0mcqeo8a</sha1>
+    </revision>
+    <revision>
+      <id>9627</id>
+      <parentid>9626</parentid>
+      <timestamp>2010-08-20T10:32:28Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>1 Version: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="764" id="8507" />
+      <sha1>tfedzb9v6vowfcd2uqp5fks0mcqeo8a</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/pt</title>
+    <ns>10</ns>
+    <id>1159</id>
+    <revision>
+      <id>9628</id>
+      <timestamp>2010-04-18T18:26:56Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <comment>from meta</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="429" id="8508" />
+      <sha1>61vt2n0amr6vyqj83sprrsyo15o8jhx</sha1>
+    </revision>
+    <revision>
+      <id>9629</id>
+      <parentid>9628</parentid>
+      <timestamp>2010-08-20T10:32:28Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>1 Version: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="429" id="8508" />
+      <sha1>61vt2n0amr6vyqj83sprrsyo15o8jhx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/que</title>
+    <ns>10</ns>
+    <id>1160</id>
+    <revision>
+      <id>9630</id>
+      <timestamp>2010-05-31T17:50:42Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <comment>Quechua</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="556" id="8509" />
+      <sha1>bjisjtisc3bcdzybqy6a76cq01kuz4n</sha1>
+    </revision>
+    <revision>
+      <id>9631</id>
+      <parentid>9630</parentid>
+      <timestamp>2010-08-20T10:32:28Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>1 Version: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="556" id="8509" />
+      <sha1>bjisjtisc3bcdzybqy6a76cq01kuz4n</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/rif</title>
+    <ns>10</ns>
+    <id>1161</id>
+    <revision>
+      <id>9632</id>
+      <timestamp>2010-05-05T11:41:44Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <comment>from meta</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="346" id="8510" />
+      <sha1>4eug65760nkjjeryegkrfbbq10kjzf7</sha1>
+    </revision>
+    <revision>
+      <id>9633</id>
+      <parentid>9632</parentid>
+      <timestamp>2010-05-23T16:24:55Z</timestamp>
+      <contributor>
+        <username>Dalinanir</username>
+        <id>0</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="341" id="8511" />
+      <sha1>j1kg13p0qzunm5wdblyw7szcgbi3t2b</sha1>
+    </revision>
+    <revision>
+      <id>9634</id>
+      <parentid>9633</parentid>
+      <timestamp>2010-05-25T20:37:25Z</timestamp>
+      <contributor>
+        <username>Dalinanir</username>
+        <id>0</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="789" id="8512" />
+      <sha1>8qgzewsi8bvlankbgbxj4w1y7zjftw8</sha1>
+    </revision>
+    <revision>
+      <id>9635</id>
+      <parentid>9634</parentid>
+      <timestamp>2010-05-25T20:40:41Z</timestamp>
+      <contributor>
+        <username>Dalinanir</username>
+        <id>0</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="806" id="8513" />
+      <sha1>p4gmzyxog5enhczc4fx83jt6zpnp6j4</sha1>
+    </revision>
+    <revision>
+      <id>9636</id>
+      <parentid>9635</parentid>
+      <timestamp>2010-05-25T20:41:45Z</timestamp>
+      <contributor>
+        <username>Dalinanir</username>
+        <id>0</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="823" id="8514" />
+      <sha1>91cx7jd3rlj4hzwx54qi1kxi6kw98tw</sha1>
+    </revision>
+    <revision>
+      <id>9637</id>
+      <parentid>9636</parentid>
+      <timestamp>2010-05-25T20:42:47Z</timestamp>
+      <contributor>
+        <username>Dalinanir</username>
+        <id>0</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="688" id="8515" />
+      <sha1>br1ve9tk6b8knauosvgsk3jaaitn7wi</sha1>
+    </revision>
+    <revision>
+      <id>9638</id>
+      <parentid>9637</parentid>
+      <timestamp>2010-05-25T20:45:26Z</timestamp>
+      <contributor>
+        <username>Dalinanir</username>
+        <id>0</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="679" id="8516" />
+      <sha1>4j9lfyfig58hj5p8wihz8a97rlbcjwh</sha1>
+    </revision>
+    <revision>
+      <id>9639</id>
+      <parentid>9638</parentid>
+      <timestamp>2010-05-25T21:26:51Z</timestamp>
+      <contributor>
+        <username>Dalinanir</username>
+        <id>0</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="685" id="8517" />
+      <sha1>h58uukt4rqcx98ny1lwoepia9fx1beh</sha1>
+    </revision>
+    <revision>
+      <id>9640</id>
+      <parentid>9639</parentid>
+      <timestamp>2010-05-25T21:27:35Z</timestamp>
+      <contributor>
+        <username>Dalinanir</username>
+        <id>0</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="707" id="8518" />
+      <sha1>bxz4hkrxajb625mnq8l9jaos88qm9xh</sha1>
+    </revision>
+    <revision>
+      <id>9641</id>
+      <parentid>9640</parentid>
+      <timestamp>2010-05-25T21:31:00Z</timestamp>
+      <contributor>
+        <username>Eko</username>
+        <id>0</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="710" id="8519" />
+      <sha1>t8yl98tsjvdowjwc7e589cpqt3y5iwx</sha1>
+    </revision>
+    <revision>
+      <id>9642</id>
+      <parentid>9641</parentid>
+      <timestamp>2010-05-25T21:37:31Z</timestamp>
+      <contributor>
+        <username>Dalinanir</username>
+        <id>0</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="783" id="8520" />
+      <sha1>s2vgj1orh92kduczuqgpb9w659wr30f</sha1>
+    </revision>
+    <revision>
+      <id>9643</id>
+      <parentid>9642</parentid>
+      <timestamp>2010-05-25T21:55:06Z</timestamp>
+      <contributor>
+        <username>Eko</username>
+        <id>0</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1031" id="8521" />
+      <sha1>n3ubdqellwhk5ewe5rthugkspna4yyn</sha1>
+    </revision>
+    <revision>
+      <id>9644</id>
+      <parentid>9643</parentid>
+      <timestamp>2010-05-26T11:10:16Z</timestamp>
+      <contributor>
+        <username>Eko</username>
+        <id>0</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1025" id="8522" />
+      <sha1>2m78ld79q88wli0pnuscdpbzbnfg630</sha1>
+    </revision>
+    <revision>
+      <id>9645</id>
+      <parentid>9644</parentid>
+      <timestamp>2010-08-20T10:32:29Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>13 Versionen: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1025" id="8522" />
+      <sha1>2m78ld79q88wli0pnuscdpbzbnfg630</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/ro</title>
+    <ns>10</ns>
+    <id>1162</id>
+    <revision>
+      <id>9646</id>
+      <timestamp>2010-04-18T18:32:07Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <comment>from meta</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="430" id="8523" />
+      <sha1>2hs9t6lt7eavv2yw2e0zf0pyqsrlngx</sha1>
+    </revision>
+    <revision>
+      <id>9647</id>
+      <parentid>9646</parentid>
+      <timestamp>2010-08-20T10:32:29Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>1 Version: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="430" id="8523" />
+      <sha1>2hs9t6lt7eavv2yw2e0zf0pyqsrlngx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/ru</title>
+    <ns>10</ns>
+    <id>1163</id>
+    <revision>
+      <id>9648</id>
+      <timestamp>2010-04-17T20:09:47Z</timestamp>
+      <contributor>
+        <username>Dark Eagle</username>
+        <id>0</id>
+      </contributor>
+      <minor />
+      <comment>Created page with '{{#switch:{{{1}}}  |name = Russian  |text = {{#switch:{{{2}}} |0=&#1069;&#1090;&#1086;&#1090; &#1091;&#1095;&#1072;&#1089;&#1090;&#1085;&#1080;&#1082; &#1085;&#1077; &#1091;&#1084;&#1077;&#1077;&#1090; &#1095;&#1080;&#1090;&#1072;&#1090;&#1100; &#1080;&#1083;&#1080; &#1087;&#1080;&#1089;&#1072;&#1090;&#1100; [[:category:user ru|&#1085;&#1072; &#1088;&#1091;&#1089;&#1089;&#1082;&#1086;...'</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="820" id="8524" />
+      <sha1>bnbwbn7qac6sn0u9p84gv1xsqnyyygb</sha1>
+    </revision>
+    <revision>
+      <id>9649</id>
+      <parentid>9648</parentid>
+      <timestamp>2010-04-17T20:09:58Z</timestamp>
+      <contributor>
+        <username>Dark Eagle</username>
+        <id>0</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="819" id="8525" />
+      <sha1>hkjnsmsaarrmi66bwkfomrki7123y2y</sha1>
+    </revision>
+    <revision>
+      <id>9650</id>
+      <parentid>9649</parentid>
+      <timestamp>2010-08-20T10:32:29Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>2 Versionen: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="819" id="8525" />
+      <sha1>hkjnsmsaarrmi66bwkfomrki7123y2y</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/rue</title>
+    <ns>10</ns>
+    <id>1164</id>
+    <revision>
+      <id>9651</id>
+      <timestamp>2010-05-13T13:48:01Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <comment>from en.wikipedia</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="669" id="8526" />
+      <sha1>guc2no26jxpsq1cyaqkjv91q288pe40</sha1>
+    </revision>
+    <revision>
+      <id>9652</id>
+      <parentid>9651</parentid>
+      <timestamp>2010-05-13T13:49:03Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="668" id="8527" />
+      <sha1>e0fu0shugyy042znfcp38ehe15gzsxo</sha1>
+    </revision>
+    <revision>
+      <id>9653</id>
+      <parentid>9652</parentid>
+      <timestamp>2010-08-20T10:32:29Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>2 Versionen: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="668" id="8527" />
+      <sha1>e0fu0shugyy042znfcp38ehe15gzsxo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/ruq</title>
+    <ns>10</ns>
+    <id>1165</id>
+    <revision>
+      <id>9654</id>
+      <timestamp>2010-05-13T13:54:58Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <comment>Created page with '{{#switch:{{{1}}}  |name = Megleno Romanian   |text = {{#switch:{{{2}}}    |0=This user cannot read or write in [[:category:user ruq|Megleno Romanian]].    |1=This user can read ...'</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="646" id="8528" />
+      <sha1>m59wms8o6za6glscpr5b50oaiqgs9p8</sha1>
+    </revision>
+    <revision>
+      <id>9655</id>
+      <parentid>9654</parentid>
+      <timestamp>2010-08-20T10:32:29Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>1 Version: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="646" id="8528" />
+      <sha1>m59wms8o6za6glscpr5b50oaiqgs9p8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/sah</title>
+    <ns>10</ns>
+    <id>1166</id>
+    <revision>
+      <id>9656</id>
+      <timestamp>2010-04-18T18:37:35Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <comment>from meta</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="830" id="8529" />
+      <sha1>n0t77eza51tqet5eqnlq8uxwzh8mpit</sha1>
+    </revision>
+    <revision>
+      <id>9657</id>
+      <parentid>9656</parentid>
+      <timestamp>2010-08-20T10:32:30Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>1 Version: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="830" id="8529" />
+      <sha1>n0t77eza51tqet5eqnlq8uxwzh8mpit</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/sc</title>
+    <ns>10</ns>
+    <id>1167</id>
+    <revision>
+      <id>9658</id>
+      <timestamp>2010-04-18T18:39:05Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <comment>from meta</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="497" id="8530" />
+      <sha1>ibgjaw27g4kk7py1x3wv6a52vxx1h0c</sha1>
+    </revision>
+    <revision>
+      <id>9659</id>
+      <parentid>9658</parentid>
+      <timestamp>2010-08-20T10:32:30Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>1 Version: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="497" id="8530" />
+      <sha1>ibgjaw27g4kk7py1x3wv6a52vxx1h0c</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/scn</title>
+    <ns>10</ns>
+    <id>1168</id>
+    <revision>
+      <id>9660</id>
+      <timestamp>2010-04-18T18:36:21Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <comment>from meta</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="396" id="8531" />
+      <sha1>53w8yinm5q3soy1l5qibjii04ur67aj</sha1>
+    </revision>
+    <revision>
+      <id>9661</id>
+      <parentid>9660</parentid>
+      <timestamp>2010-08-20T10:32:30Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>1 Version: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="396" id="8531" />
+      <sha1>53w8yinm5q3soy1l5qibjii04ur67aj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/sco</title>
+    <ns>10</ns>
+    <id>1169</id>
+    <revision>
+      <id>9662</id>
+      <timestamp>2010-05-20T14:43:30Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <comment>from meta</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="513" id="8532" />
+      <sha1>cuffqw1uuhgqrierigct3w1y8knsi83</sha1>
+    </revision>
+    <revision>
+      <id>9663</id>
+      <parentid>9662</parentid>
+      <timestamp>2010-08-20T10:32:30Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>1 Version: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="513" id="8532" />
+      <sha1>cuffqw1uuhgqrierigct3w1y8knsi83</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/sdh</title>
+    <ns>10</ns>
+    <id>1170</id>
+    <revision>
+      <id>9664</id>
+      <timestamp>2010-05-13T13:59:44Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <comment>Created page with '{{#switch:{{{1}}}  |name = Southern Kurdish   |text = {{#switch:{{{2}}}    |0=This user cannot read or write in [[:category:user sdh|Southern Kurdish]].    |1=This user can read ...'</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="598" id="8533" />
+      <sha1>9o8tniq9n77sjilb09ti867x4ar0ebh</sha1>
+    </revision>
+    <revision>
+      <id>9665</id>
+      <parentid>9664</parentid>
+      <timestamp>2010-08-20T10:32:30Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>1 Version: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="598" id="8533" />
+      <sha1>9o8tniq9n77sjilb09ti867x4ar0ebh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/sei</title>
+    <ns>10</ns>
+    <id>1171</id>
+    <revision>
+      <id>9666</id>
+      <timestamp>2010-05-20T14:49:08Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <comment>Created page with '{{#switch:{{{1}}}  |name = Cmique Itom  |text = {{#switch:{{{2}}}    |0=This user cannot read or write in [[:category:user sei|Cmique Itom]].    |1=This user can read and write b...'</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="584" id="8534" />
+      <sha1>oytkcmguo3a1iutlw0fr641lhvo8g55</sha1>
+    </revision>
+    <revision>
+      <id>9667</id>
+      <parentid>9666</parentid>
+      <timestamp>2010-08-20T10:32:30Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>1 Version: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="584" id="8534" />
+      <sha1>oytkcmguo3a1iutlw0fr641lhvo8g55</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/sh</title>
+    <ns>10</ns>
+    <id>1172</id>
+    <revision>
+      <id>9668</id>
+      <timestamp>2010-05-20T14:50:34Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <comment>from meta</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="698" id="8535" />
+      <sha1>prjtvz9oijy87txbntzbeu8js7ii815</sha1>
+    </revision>
+    <revision>
+      <id>9669</id>
+      <parentid>9668</parentid>
+      <timestamp>2010-08-20T10:32:30Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>1 Version: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="698" id="8535" />
+      <sha1>prjtvz9oijy87txbntzbeu8js7ii815</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/shi</title>
+    <ns>10</ns>
+    <id>1173</id>
+    <revision>
+      <id>9670</id>
+      <timestamp>2010-04-18T18:40:16Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <comment>from meta</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="391" id="8536" />
+      <sha1>89v3p07myshrbez52ri100tuaw1182t</sha1>
+    </revision>
+    <revision>
+      <id>9671</id>
+      <parentid>9670</parentid>
+      <timestamp>2010-05-23T15:58:58Z</timestamp>
+      <contributor>
+        <username>Dalinanir</username>
+        <id>0</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="431" id="8537" />
+      <sha1>5lqclpznr4dccjhnrkoq2kfqmboaoe3</sha1>
+    </revision>
+    <revision>
+      <id>9672</id>
+      <parentid>9671</parentid>
+      <timestamp>2010-05-23T16:05:40Z</timestamp>
+      <contributor>
+        <username>Dalinanir</username>
+        <id>0</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="430" id="8538" />
+      <sha1>f9ikkefwdus6or3oyzde5xqrjq38nn9</sha1>
+    </revision>
+    <revision>
+      <id>9673</id>
+      <parentid>9672</parentid>
+      <timestamp>2010-05-23T16:10:16Z</timestamp>
+      <contributor>
+        <username>Dalinanir</username>
+        <id>0</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="430" id="8539" />
+      <sha1>idz493wjproifwdqwwjh1rf42wgc3o3</sha1>
+    </revision>
+    <revision>
+      <id>9674</id>
+      <parentid>9673</parentid>
+      <timestamp>2010-05-23T16:41:56Z</timestamp>
+      <contributor>
+        <username>Dalinanir</username>
+        <id>0</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="430" id="8540" />
+      <sha1>f9ikkefwdus6or3oyzde5xqrjq38nn9</sha1>
+    </revision>
+    <revision>
+      <id>9675</id>
+      <parentid>9674</parentid>
+      <timestamp>2010-05-25T21:27:52Z</timestamp>
+      <contributor>
+        <username>Dalinanir</username>
+        <id>0</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="653" id="8541" />
+      <sha1>s4wg72d3lzwmbb0oleyzepn7wt73815</sha1>
+    </revision>
+    <revision>
+      <id>9676</id>
+      <parentid>9675</parentid>
+      <timestamp>2010-05-25T21:29:45Z</timestamp>
+      <contributor>
+        <username>Dalinanir</username>
+        <id>0</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="719" id="8542" />
+      <sha1>8kjlyxrkqfkgn42m64t9t8ydh9oybyg</sha1>
+    </revision>
+    <revision>
+      <id>9677</id>
+      <parentid>9676</parentid>
+      <timestamp>2010-05-25T21:30:46Z</timestamp>
+      <contributor>
+        <username>Dalinanir</username>
+        <id>0</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="712" id="8543" />
+      <sha1>5crc6mws95m1ywja412ecrze10gz60p</sha1>
+    </revision>
+    <revision>
+      <id>9678</id>
+      <parentid>9677</parentid>
+      <timestamp>2010-08-20T10:32:30Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>8 Versionen: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="712" id="8543" />
+      <sha1>5crc6mws95m1ywja412ecrze10gz60p</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/sk</title>
+    <ns>10</ns>
+    <id>1174</id>
+    <revision>
+      <id>9679</id>
+      <timestamp>2010-04-18T18:34:36Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <comment>from meta</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="624" id="8544" />
+      <sha1>d7b8uoy3zhq5tkfstpknmeylygh05z8</sha1>
+    </revision>
+    <revision>
+      <id>9680</id>
+      <parentid>9679</parentid>
+      <timestamp>2010-08-17T21:51:55Z</timestamp>
+      <contributor>
+        <username>Ooswesthoesbes</username>
+        <id>96</id>
+      </contributor>
+      <comment>fix</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="622" id="8545" />
+      <sha1>ksvzrcx6con8b4la7pxko76pq6d88kc</sha1>
+    </revision>
+    <revision>
+      <id>9681</id>
+      <parentid>9680</parentid>
+      <timestamp>2010-08-17T21:52:01Z</timestamp>
+      <contributor>
+        <username>Ooswesthoesbes</username>
+        <id>96</id>
+      </contributor>
+      <comment>fix</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="623" id="8546" />
+      <sha1>lnr1wg9m0kcrttbk5te6np356izy0kh</sha1>
+    </revision>
+    <revision>
+      <id>9682</id>
+      <parentid>9681</parentid>
+      <timestamp>2010-08-20T10:32:31Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>3 Versionen: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="623" id="8546" />
+      <sha1>lnr1wg9m0kcrttbk5te6np356izy0kh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/sl</title>
+    <ns>10</ns>
+    <id>1175</id>
+    <revision>
+      <id>9683</id>
+      <timestamp>2010-05-20T14:57:02Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <comment>from meta</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="568" id="8547" />
+      <sha1>k9drt57c8j0exmcge7r2il1fs81iqkl</sha1>
+    </revision>
+    <revision>
+      <id>9684</id>
+      <parentid>9683</parentid>
+      <timestamp>2010-08-20T10:32:31Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>1 Version: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="568" id="8547" />
+      <sha1>k9drt57c8j0exmcge7r2il1fs81iqkl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/sli</title>
+    <ns>10</ns>
+    <id>1176</id>
+    <revision>
+      <id>9685</id>
+      <timestamp>2010-04-18T18:41:05Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <comment>from meta</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="571" id="8548" />
+      <sha1>bkusqx3cawe46hqkl5qdbk5zrt027so</sha1>
+    </revision>
+    <revision>
+      <id>9686</id>
+      <parentid>9685</parentid>
+      <timestamp>2010-08-20T10:32:31Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>1 Version: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="571" id="8548" />
+      <sha1>bkusqx3cawe46hqkl5qdbk5zrt027so</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/slr</title>
+    <ns>10</ns>
+    <id>1177</id>
+    <revision>
+      <id>9687</id>
+      <timestamp>2010-05-13T14:05:27Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <comment>Created page with '{{#switch:{{{1}}}  |name = Salar  |text = {{#switch:{{{2}}}    |0=This user cannot read or write in [[:category:user slr|Salar]].    |1=Bu ki&#351; [[:category:user slr|Sal&#305;r&#231;a]] y...'</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="492" id="8549" />
+      <sha1>rm6t9cnls66plcsucd0q5uax7sa1tpn</sha1>
+    </revision>
+    <revision>
+      <id>9688</id>
+      <parentid>9687</parentid>
+      <timestamp>2010-08-20T10:32:31Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>1 Version: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="492" id="8549" />
+      <sha1>rm6t9cnls66plcsucd0q5uax7sa1tpn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/sma</title>
+    <ns>10</ns>
+    <id>1178</id>
+    <revision>
+      <id>9689</id>
+      <timestamp>2010-05-20T14:58:32Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <comment>from meta</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="290" id="8550" />
+      <sha1>gqgy6mis0g4uifhnqimlxba6clrk8hr</sha1>
+    </revision>
+    <revision>
+      <id>9690</id>
+      <parentid>9689</parentid>
+      <timestamp>2010-08-20T10:32:31Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>1 Version: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="290" id="8550" />
+      <sha1>gqgy6mis0g4uifhnqimlxba6clrk8hr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/sq</title>
+    <ns>10</ns>
+    <id>1179</id>
+    <revision>
+      <id>9691</id>
+      <timestamp>2010-05-05T11:42:57Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <comment>from meta</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="488" id="8551" />
+      <sha1>q54ysn9m28modr4boj5cakog5qqql3f</sha1>
+    </revision>
+    <revision>
+      <id>9692</id>
+      <parentid>9691</parentid>
+      <timestamp>2010-08-20T10:32:31Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>1 Version: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="488" id="8551" />
+      <sha1>q54ysn9m28modr4boj5cakog5qqql3f</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/sr</title>
+    <ns>10</ns>
+    <id>1180</id>
+    <revision>
+      <id>9693</id>
+      <timestamp>2010-04-18T18:35:29Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <comment>from meta</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="781" id="8552" />
+      <sha1>6kdk0r12l2bfxhwwt1q2im6r0y3b0i4</sha1>
+    </revision>
+    <revision>
+      <id>9694</id>
+      <parentid>9693</parentid>
+      <timestamp>2010-08-20T10:32:31Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>1 Version: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="781" id="8552" />
+      <sha1>6kdk0r12l2bfxhwwt1q2im6r0y3b0i4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/srm</title>
+    <ns>10</ns>
+    <id>1181</id>
+    <revision>
+      <id>9695</id>
+      <timestamp>2010-06-02T18:40:59Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <comment>Saramaccan</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="577" id="8553" />
+      <sha1>sw60b490il5gn9xfs0zlkswwe4mi3qy</sha1>
+    </revision>
+    <revision>
+      <id>9696</id>
+      <parentid>9695</parentid>
+      <timestamp>2010-08-20T10:32:31Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>1 Version: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="577" id="8553" />
+      <sha1>sw60b490il5gn9xfs0zlkswwe4mi3qy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/srn</title>
+    <ns>10</ns>
+    <id>1182</id>
+    <revision>
+      <id>9697</id>
+      <timestamp>2010-05-13T14:12:14Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <comment>Created page with '{{#switch:{{{1}}}  |name = Sranan  |text = {{#switch:{{{2}}}    |0=This user cannot read or write in [[:category:user srn|Sranan]].&lt;br&gt;Disi masyin abi no takifustani fu a [[:cate...'</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="665" id="8554" />
+      <sha1>r4w0o5zczlsmgt64o5z1kwvuotc6av4</sha1>
+    </revision>
+    <revision>
+      <id>9698</id>
+      <parentid>9697</parentid>
+      <timestamp>2010-08-20T10:32:31Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>1 Version: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="665" id="8554" />
+      <sha1>r4w0o5zczlsmgt64o5z1kwvuotc6av4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/stq</title>
+    <ns>10</ns>
+    <id>1183</id>
+    <revision>
+      <id>9699</id>
+      <timestamp>2010-05-13T14:18:15Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <comment>Created page with '{{#switch:{{{1}}}  |name = Saterfriesisch  |text = {{#switch:{{{2}}}    |0=This user cannot read or write in [[:category:user stq|Saterfriesisch]].    |1=D&#252;sse Bruuker boalt un ...'</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="573" id="8555" />
+      <sha1>2ikmi6iwjokn7opbea26wjkmmg6wh5v</sha1>
+    </revision>
+    <revision>
+      <id>9700</id>
+      <parentid>9699</parentid>
+      <timestamp>2010-08-20T10:32:31Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>1 Version: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="573" id="8555" />
+      <sha1>2ikmi6iwjokn7opbea26wjkmmg6wh5v</sha1>
+    </revision>
+    <revision>
+      <id>75488</id>
+      <parentid>9700</parentid>
+      <timestamp>2013-01-07T21:34:10Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="553" id="73922" />
+      <sha1>h8fdruolmszfuyx771h3aorgfcvekx7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/sv</title>
+    <ns>10</ns>
+    <id>1184</id>
+    <revision>
+      <id>9701</id>
+      <timestamp>2010-04-18T18:42:30Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <comment>from meta</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="606" id="8556" />
+      <sha1>8y5j3d4cg6he4iiac08tr54dcp9wa31</sha1>
+    </revision>
+    <revision>
+      <id>9702</id>
+      <parentid>9701</parentid>
+      <timestamp>2010-08-20T10:32:31Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>1 Version: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="606" id="8556" />
+      <sha1>8y5j3d4cg6he4iiac08tr54dcp9wa31</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/swg</title>
+    <ns>10</ns>
+    <id>1185</id>
+    <revision>
+      <id>9703</id>
+      <timestamp>2010-05-20T15:00:43Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <comment>from meta</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="350" id="8557" />
+      <sha1>jcmbzbd47qo8w4lwz6quqjsutbcyjy6</sha1>
+    </revision>
+    <revision>
+      <id>9704</id>
+      <parentid>9703</parentid>
+      <timestamp>2010-08-20T10:32:31Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>1 Version: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="350" id="8557" />
+      <sha1>jcmbzbd47qo8w4lwz6quqjsutbcyjy6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/sxu</title>
+    <ns>10</ns>
+    <id>1186</id>
+    <revision>
+      <id>9705</id>
+      <timestamp>2010-05-05T11:43:56Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <comment>from meta</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="478" id="8558" />
+      <sha1>ppfzbhgyjik3jgoyn8j597qgwe8w975</sha1>
+    </revision>
+    <revision>
+      <id>9706</id>
+      <parentid>9705</parentid>
+      <timestamp>2010-08-20T10:32:31Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>1 Version: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="478" id="8558" />
+      <sha1>ppfzbhgyjik3jgoyn8j597qgwe8w975</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/szl</title>
+    <ns>10</ns>
+    <id>1187</id>
+    <revision>
+      <id>9707</id>
+      <timestamp>2010-05-13T14:23:21Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <comment>from en.wikipedia</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="676" id="8559" />
+      <sha1>h3zxqewco8jumf3dudu3i3wq0c045p5</sha1>
+    </revision>
+    <revision>
+      <id>9708</id>
+      <parentid>9707</parentid>
+      <timestamp>2010-08-20T10:32:32Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>1 Version: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="676" id="8559" />
+      <sha1>h3zxqewco8jumf3dudu3i3wq0c045p5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/ta</title>
+    <ns>10</ns>
+    <id>1188</id>
+    <revision>
+      <id>9709</id>
+      <timestamp>2010-06-02T18:25:46Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <comment>Tamil, from en.wikipedia</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1188" id="8560" />
+      <sha1>9dyvlxrdx05ge4kgn8hfx9dmt3vbks6</sha1>
+    </revision>
+    <revision>
+      <id>9710</id>
+      <parentid>9709</parentid>
+      <timestamp>2010-06-02T18:26:30Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1188" id="8561" />
+      <sha1>7cvqwmj39nfc6i7c07wavfydub254wm</sha1>
+    </revision>
+    <revision>
+      <id>9711</id>
+      <parentid>9710</parentid>
+      <timestamp>2010-08-20T10:32:32Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>2 Versionen: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1188" id="8561" />
+      <sha1>7cvqwmj39nfc6i7c07wavfydub254wm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/tet</title>
+    <ns>10</ns>
+    <id>1189</id>
+    <revision>
+      <id>9712</id>
+      <timestamp>2010-05-05T11:44:56Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <comment>from meta</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="314" id="8562" />
+      <sha1>rd4g8pmhnm9nzypbslkaad4td1og9oj</sha1>
+    </revision>
+    <revision>
+      <id>9713</id>
+      <parentid>9712</parentid>
+      <timestamp>2010-05-24T17:11:16Z</timestamp>
+      <contributor>
+        <username>MF-Warburg</username>
+        <id>0</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="338" id="8563" />
+      <sha1>mgcxshnagqcrcews9x90b6u6ltkrttn</sha1>
+    </revision>
+    <revision>
+      <id>9714</id>
+      <parentid>9713</parentid>
+      <timestamp>2010-08-20T10:32:32Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>2 Versionen: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="338" id="8563" />
+      <sha1>mgcxshnagqcrcews9x90b6u6ltkrttn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/th</title>
+    <ns>10</ns>
+    <id>1190</id>
+    <revision>
+      <id>9715</id>
+      <timestamp>2010-05-20T15:02:08Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <comment>from meta</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1133" id="8564" />
+      <sha1>t88u7pu6ahd99c8b70sbnq7y3r3uf1h</sha1>
+    </revision>
+    <revision>
+      <id>9716</id>
+      <parentid>9715</parentid>
+      <timestamp>2010-08-20T10:32:32Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>1 Version: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1133" id="8564" />
+      <sha1>t88u7pu6ahd99c8b70sbnq7y3r3uf1h</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:User language/tk</title>
+    <ns>10</ns>
+    <id>1191</id>
+    <revision>
+      <id>9717</id>
+      <timestamp>2010-05-20T15:09:18Z</timestamp>
+      <contributor>
+        <username>HenkvD</username>
+        <id>52</id>
+      </contributor>
+      <comment>from en.wikipedia</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="544" id="8565" />
+      <sha1>584apn7eets3yofb9lm8r727jd7vxgb</sha1>
+    </revision>
+    <revision>
+      <id>9718</id>
+      <parentid>9717</parentid>
+      <timestamp>2010-08-20T10:32:32Z</timestamp>
+      <contributor>
+        <username>Abigor</username>
+        <id>3</id>
+      </contributor>
+      <minor />
+      <comment>1 Version: per email request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="544" id="8565" />
+      <sha1>584apn7eets3yofb9lm8r727jd7vxgb</sha1>
+    </revision>
+  </page>
+  
+</mediawiki>

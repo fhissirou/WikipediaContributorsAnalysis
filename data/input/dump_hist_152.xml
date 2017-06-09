@@ -1,0 +1,4830 @@
+<mediawiki>
+	<page>
+    <title>Selskapseilunen</title>
+    <ns>0</ns>
+    <id>16437</id>
+    <revision>
+      <id>118509</id>
+      <timestamp>2016-02-14T13:38:31Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>nei</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1245" id="123993" />
+      <sha1>sblc6h70gcq0h1jdeqxap5tm9qclpkm</sha1>
+    </revision>
+    <revision>
+      <id>118512</id>
+      <parentid>118509</parentid>
+      <timestamp>2016-02-14T13:42:09Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <comment>HC: Nem wech [[Kategorie:Eilunen]]; Du diartu [[Kategorie:Polyneesien]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1249" id="123996" />
+      <sha1>e9jlwmh25r3514w7oz3extxcmirj3i7</sha1>
+    </revision>
+    <revision>
+      <id>118518</id>
+      <parentid>118512</parentid>
+      <timestamp>2016-02-14T13:49:08Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <comment>Murma174  h&#228;&#228; det sidj [[Selskap-Eilunen]] efter [[Selskapseilunen]] fersk&#246;wen.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1249" id="123996" />
+      <sha1>e9jlwmh25r3514w7oz3extxcmirj3i7</sha1>
+    </revision>
+    <revision>
+      <id>118520</id>
+      <parentid>118518</parentid>
+      <timestamp>2016-02-14T13:49:39Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1249" id="124003" />
+      <sha1>8uve5rbu39upk5bttl17xw19c322xg7</sha1>
+    </revision>
+    <revision>
+      <id>118521</id>
+      <parentid>118520</parentid>
+      <timestamp>2016-02-14T13:49:55Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1249" id="124004" />
+      <sha1>ooe4sr87sbqhmx3eodf1i0oh8xnhe6a</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategorie:Polyneesien</title>
+    <ns>14</ns>
+    <id>16438</id>
+    <revision>
+      <id>118511</id>
+      <timestamp>2016-02-14T13:41:21Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>Det sidj as nei uunlaanj wurden: "[[Kategorie:Eilunen]]"</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="21" id="123995" />
+      <sha1>j83agcv1pgf4hx7gnujza5nbd3io6a0</sha1>
+    </revision>
+    <revision>
+      <id>118516</id>
+      <parentid>118511</parentid>
+      <timestamp>2016-02-14T13:46:31Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="45" id="124000" />
+      <sha1>qejpp09v16ryvzo7w8652rgw379pmk0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Selskap-Eilunen</title>
+    <ns>0</ns>
+    <id>16439</id>
+    <redirect title="Selskapseilunen" />
+    <revision>
+      <id>118519</id>
+      <timestamp>2016-02-14T13:49:08Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>Murma174  h&#228;&#228; det sidj [[Selskap-Eilunen]] efter [[Selskapseilunen]] fersk&#246;wen.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="34" id="124002" />
+      <sha1>mvazb6990upiohh62ma3fqofeimxky8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Positionskarte Franz&#246;sisch-Polynesien Gesellschaftsinseln</title>
+    <ns>10</ns>
+    <id>16440</id>
+    <revision>
+      <id>118524</id>
+      <timestamp>2016-02-14T16:17:10Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>Det sidj as nei uunlaanj wurden: "{{#switch:{{{1}}} | name   = Gesellschaftsinseln | top    = -15 | bottom = -19 | left   = -155 | right  = -148 |image=Society Islands location map.svg | zone&#8230;"</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="278" id="124007" />
+      <sha1>1kzzfnjyunnh3z3ikab4xd0d76qg7j0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Gesellschaftsinseln</title>
+    <ns>0</ns>
+    <id>16441</id>
+    <redirect title="Selskapseilunen" />
+    <revision>
+      <id>118525</id>
+      <timestamp>2016-02-14T16:17:49Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>Sidj tu [[Selskapseilunen]] widjerfeerd</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="29" id="124008" />
+      <sha1>d63sebh4yo9icxqw27l9skwazh804i5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Moorea</title>
+    <ns>0</ns>
+    <id>16442</id>
+    <revision>
+      <id>118527</id>
+      <timestamp>2016-02-14T16:31:11Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>nei</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3375" id="124010" />
+      <sha1>g92csj8nnn1av6yq5ewyw72kfenonld</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Marquesaansk</title>
+    <ns>0</ns>
+    <id>16443</id>
+    <revision>
+      <id>118537</id>
+      <timestamp>2016-02-15T19:08:20Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>nei</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1435" id="124020" />
+      <sha1>1jlqfblyvsf2pt5mz9kmz7vqi7ybms4</sha1>
+    </revision>
+    <revision>
+      <id>118540</id>
+      <parentid>118537</parentid>
+      <timestamp>2016-02-15T19:13:29Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1450" id="124023" />
+      <sha1>334qm0eq45bgamffbsz746zspp2mdf4</sha1>
+    </revision>
+    <revision>
+      <id>118542</id>
+      <parentid>118540</parentid>
+      <timestamp>2016-02-16T10:21:01Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1477" id="124025" />
+      <sha1>rg6ix22qs4ex4zh8rp2968rxb1jf3b3</sha1>
+    </revision>
+    <revision>
+      <id>118543</id>
+      <parentid>118542</parentid>
+      <timestamp>2016-02-16T10:21:16Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1476" id="124026" />
+      <sha1>ql3pcl1lf2e1i38kst8z9i35cnyv5fs</sha1>
+    </revision>
+    <revision>
+      <id>118547</id>
+      <parentid>118543</parentid>
+      <timestamp>2016-02-16T10:59:59Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1494" id="124030" />
+      <sha1>mrz8m89ac1wq04mj716bv29hdukw27x</sha1>
+    </revision>
+    <revision>
+      <id>118553</id>
+      <parentid>118547</parentid>
+      <timestamp>2016-02-16T11:24:20Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1530" id="124036" />
+      <sha1>1x6gdjdw9rhc1zrxha8rqr91iakx6m2</sha1>
+    </revision>
+    <revision>
+      <id>118571</id>
+      <parentid>118553</parentid>
+      <timestamp>2016-02-16T15:40:40Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1552" id="124054" />
+      <sha1>ijooreteer6bwfc025dyvh2vrq1yq46</sha1>
+    </revision>
+    <revision>
+      <id>118572</id>
+      <parentid>118571</parentid>
+      <timestamp>2016-02-16T15:40:53Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <comment>Murma174  h&#228;&#228; det sidj [[Marquesan]] efter [[Marquesaansk]] fersk&#246;wen.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1552" id="124054" />
+      <sha1>ijooreteer6bwfc025dyvh2vrq1yq46</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Marquesisch</title>
+    <ns>0</ns>
+    <id>16444</id>
+    <redirect title="Marquesaansk" />
+    <revision>
+      <id>118538</id>
+      <timestamp>2016-02-15T19:09:33Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>Sidj tu [[Marquesan]] widjerfeerd</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="23" id="124021" />
+      <sha1>gzvkm7jr3tiunrozwz56rhwrix2te7f</sha1>
+    </revision>
+    <revision>
+      <id>118576</id>
+      <parentid>118538</parentid>
+      <timestamp>2016-02-16T15:42:57Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <comment>Sidj tu [[Marquesaansk]] widjerfeerd</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="26" id="124058" />
+      <sha1>3akxiyh07pzwsi0udqpv5xu8cxow3jo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Marquesas</title>
+    <ns>0</ns>
+    <id>16445</id>
+    <redirect title="Nuku Hiva" />
+    <revision>
+      <id>118539</id>
+      <timestamp>2016-02-15T19:10:12Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>Sidj tu [[Nuku Hiva]] widjerfeerd</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="23" id="124022" />
+      <sha1>9y9eqan9lnw7hpv3gmed6jn22kw14gy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Austroneesk</title>
+    <ns>0</ns>
+    <id>16446</id>
+    <redirect title="Austroneesk spriaken" />
+    <revision>
+      <id>118541</id>
+      <timestamp>2016-02-15T19:13:48Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>Sidj tu [[Austroneesk spriaken]] widjerfeerd</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="34" id="124024" />
+      <sha1>dogw9seyn5vlodpz65gnedyrhf5se43</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Malayo-polyneesk spriaken</title>
+    <ns>0</ns>
+    <id>16447</id>
+    <revision>
+      <id>118544</id>
+      <timestamp>2016-02-16T10:44:06Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>iarst ans</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1918" id="124027" />
+      <sha1>jtk349yzpp9i9wgfkjx1wvscb839ibg</sha1>
+    </revision>
+    <revision>
+      <id>118545</id>
+      <parentid>118544</parentid>
+      <timestamp>2016-02-16T10:56:28Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>nei</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2921" id="124028" />
+      <sha1>cvgklzkl2wegtg9chav0dvts8d2q8qd</sha1>
+    </revision>
+    <revision>
+      <id>118546</id>
+      <parentid>118545</parentid>
+      <timestamp>2016-02-16T10:56:57Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <comment>/* Uast-malayo-polyneesk spriaken */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2927" id="124029" />
+      <sha1>bi2qkp6fqmjumudex5fc76di390a1aa</sha1>
+    </revision>
+    <revision>
+      <id>118549</id>
+      <parentid>118546</parentid>
+      <timestamp>2016-02-16T11:01:56Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <comment>/* Uast-malayo-polyneesk spriaken */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2931" id="124032" />
+      <sha1>hstroqm2fpvqfs4ie5mwremsvrkq0o3</sha1>
+    </revision>
+    <revision>
+      <id>118566</id>
+      <parentid>118549</parentid>
+      <timestamp>2016-02-16T12:12:27Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <comment>/* Uast-malayo-polyneesk spriaken */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2955" id="124049" />
+      <sha1>on5hvzzbt5wd9qh3reqfp748mfus0mo</sha1>
+    </revision>
+    <revision>
+      <id>118568</id>
+      <parentid>118566</parentid>
+      <timestamp>2016-02-16T15:00:47Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>+ commons</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3053" id="124051" />
+      <sha1>btptfxv78l9gu7uy2dtzu7hcfrhjwfi</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Malayo-polyneesk</title>
+    <ns>0</ns>
+    <id>16448</id>
+    <redirect title="Malayo-polyneesk spriaken" />
+    <revision>
+      <id>118548</id>
+      <timestamp>2016-02-16T11:00:23Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>Sidj tu [[Malayo-polyneesk spriaken]] widjerfeerd</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="39" id="124031" />
+      <sha1>ighihhypb1d4581fdjx483mwx1rgzv3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Oseanisk spriaken</title>
+    <ns>0</ns>
+    <id>16449</id>
+    <revision>
+      <id>118550</id>
+      <timestamp>2016-02-16T11:20:50Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>nei</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2122" id="124033" />
+      <sha1>nt3st9q4oncc6ciw8ky3aslehc28vq9</sha1>
+    </revision>
+    <revision>
+      <id>118554</id>
+      <parentid>118550</parentid>
+      <timestamp>2016-02-16T11:45:47Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2126" id="124037" />
+      <sha1>0psvdflqmreoyuh1lgzukn3casdq50c</sha1>
+    </revision>
+    <revision>
+      <id>118567</id>
+      <parentid>118554</parentid>
+      <timestamp>2016-02-16T14:59:30Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>+ commons</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2273" id="124050" />
+      <sha1>qhcl6f7la6d84a26x0w3gnig0xxrj5g</sha1>
+    </revision>
+    <revision>
+      <id>118575</id>
+      <parentid>118567</parentid>
+      <timestamp>2016-02-16T15:42:15Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2276" id="124057" />
+      <sha1>n9bnpkhfw46i46clgnnfb4zk84ymmmc</sha1>
+    </revision>
+    <revision>
+      <id>118580</id>
+      <parentid>118575</parentid>
+      <timestamp>2016-02-16T18:52:46Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2291" id="124062" />
+      <sha1>m2uqt7wku38kfhc47hjh6i4abck2299</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Oseanisk</title>
+    <ns>0</ns>
+    <id>16450</id>
+    <redirect title="Oseanisk spriaken" />
+    <revision>
+      <id>118552</id>
+      <timestamp>2016-02-16T11:23:36Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>Sidj tu [[Oseanisk spriaken]] widjerfeerd</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="31" id="124035" />
+      <sha1>d2rj8l3xegryuyljmx97achcmpno685</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Polyneesk</title>
+    <ns>0</ns>
+    <id>16451</id>
+    <redirect title="Polyneesk spriaken" />
+    <revision>
+      <id>118555</id>
+      <timestamp>2016-02-16T11:46:18Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>Sidj tu [[Polyneesk spriaken]] widjerfeerd</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="32" id="124038" />
+      <sha1>bk66t9g0owertt2ool6hz29tug4bquw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Polyneesk spriaken</title>
+    <ns>0</ns>
+    <id>16452</id>
+    <revision>
+      <id>118556</id>
+      <timestamp>2016-02-16T12:00:18Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>nei</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1666" id="124039" />
+      <sha1>e51ksn9ryu1hcsersv3d2k51u23ey3u</sha1>
+    </revision>
+    <revision>
+      <id>118563</id>
+      <parentid>118556</parentid>
+      <timestamp>2016-02-16T12:07:01Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1674" id="124046" />
+      <sha1>kf0aqmtnlocmmoq9anw6m561tio2rg3</sha1>
+    </revision>
+    <revision>
+      <id>118564</id>
+      <parentid>118563</parentid>
+      <timestamp>2016-02-16T12:08:39Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1676" id="124047" />
+      <sha1>8pi8npb24xg5hg3uvlo3cddoatr3ae7</sha1>
+    </revision>
+    <revision>
+      <id>118574</id>
+      <parentid>118564</parentid>
+      <timestamp>2016-02-16T15:41:21Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1676" id="124056" />
+      <sha1>8x3ajhaugoqbv32gnxfm1w86pq1wgg0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Polyneesk spriak</title>
+    <ns>0</ns>
+    <id>16454</id>
+    <redirect title="Polyneesk spriaken" />
+    <revision>
+      <id>118558</id>
+      <timestamp>2016-02-16T12:01:24Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>Sidj tu [[Polyneesk spriaken]] widjerfeerd</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="32" id="124041" />
+      <sha1>bk66t9g0owertt2ool6hz29tug4bquw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Hawaiiansk</title>
+    <ns>0</ns>
+    <id>16456</id>
+    <revision>
+      <id>118578</id>
+      <timestamp>2016-02-16T18:51:04Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>nei</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1919" id="124060" />
+      <sha1>r7xwozj6ewf72cvpfo96ct7pn56lez0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Austroneesk spriak</title>
+    <ns>0</ns>
+    <id>16457</id>
+    <redirect title="Austroneesk spriaken" />
+    <revision>
+      <id>118579</id>
+      <timestamp>2016-02-16T18:51:53Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>Sidj tu [[Austroneesk spriaken]] widjerfeerd</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="34" id="124061" />
+      <sha1>dogw9seyn5vlodpz65gnedyrhf5se43</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Martens Kurt.jpg</title>
+    <ns>6</ns>
+    <id>16458</id>
+    <revision>
+      <id>118588</id>
+      <timestamp>2016-02-18T16:57:52Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>{{Information
+|Beschreibung     = Siilskap "Kurt", moolet faan Gerhard Martens
+|Quelle           = own
+|Urheber          = Gerhard Martens
+|Datum            = ca. 1900
+|Genehmigung      = 
+|Andere Versionen = 
+|Anmerkungen      = 
+}}
+{{Copyright frrwiki}}</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="255" id="124070" />
+      <sha1>j7tylgidxy0do9nd4qsi1c8mw9lw5mb</sha1>
+    </revision>
+    <revision>
+      <id>118589</id>
+      <parentid>118588</parentid>
+      <timestamp>2016-02-18T16:58:51Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="266" id="124071" />
+      <sha1>4q7d2u08p33rf2ghyfnyeq3m15qbm8m</sha1>
+    </revision>
+    <revision>
+      <id>118592</id>
+      <parentid>118589</parentid>
+      <timestamp>2016-02-18T17:05:35Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="266" id="124074" />
+      <sha1>ai7f4tr6sy0342avu9ulp5u9l9x8xmg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Text:Nai-iirseene</title>
+    <ns>106</ns>
+    <id>16461</id>
+    <revision>
+      <id>118618</id>
+      <timestamp>2016-02-25T22:02:05Z</timestamp>
+      <contributor>
+        <username>Achim55</username>
+        <id>3710</id>
+      </contributor>
+      <comment>Det sidj as nei uunlaanj wurden: "{{Mooring}}  '''Nai-iirseene'''  &lt;poem&gt; Wupn, wupn, wupn &#8211; &#8211; N&#252; hiir duch smuk, latj mam! Wupn, wupn, wupn &#8211; &#8211; Di rumelput l&#229;pt am. Wiist nuch, as we&#8230;"</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="872" id="124100" />
+      <sha1>5vedyraxmymzfdsd0uhg8lg977sv79o</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Benutzer Diskussion:Murma174/Archiif-2015</title>
+    <ns>3</ns>
+    <id>16462</id>
+    <revision>
+      <id>118626</id>
+      <timestamp>2016-02-26T16:18:30Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>2015 -&gt; archiif</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="80838" id="124108" />
+      <sha1>sanbx8x4wxqxivmx9h90r28y7m5duwc</sha1>
+    </revision>
+    <revision>
+      <id>118627</id>
+      <parentid>118626</parentid>
+      <timestamp>2016-02-26T16:18:47Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="80838" id="124109" />
+      <sha1>6prumlgurn4d60x260rcyslxtdjbl2j</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Hoodsid/artiikel-2016-04</title>
+    <ns>10</ns>
+    <id>16463</id>
+    <redirect title="Vorlage:Hoodsid/artiikel-2015-05" />
+    <revision>
+      <id>118641</id>
+      <timestamp>2016-03-01T22:19:37Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>steedhualer</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="47" id="124125" />
+      <sha1>brg6hueg102buvtop8kemu4wvku48an</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Hoodsid/artiikel-2016-05</title>
+    <ns>10</ns>
+    <id>16464</id>
+    <redirect title="Vorlage:Hoodsid/artiikel-2015-04" />
+    <revision>
+      <id>118642</id>
+      <timestamp>2016-03-01T22:20:20Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>steedhualer</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="47" id="124126" />
+      <sha1>ni3s6dlp7ipyd11lu82zz4eawhksg26</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Hoodsid/artiikel-2016-06</title>
+    <ns>10</ns>
+    <id>16465</id>
+    <redirect title="Vorlage:Hoodsid/artiikel-2015-03" />
+    <revision>
+      <id>118643</id>
+      <timestamp>2016-03-01T22:21:03Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>steedhualer</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="47" id="124127" />
+      <sha1>751vp8j2l176r6fkitivvie9drwc1nz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Benutzer:Hydrogen molecule of Michinoku</title>
+    <ns>2</ns>
+    <id>16466</id>
+    <revision>
+      <id>118645</id>
+      <timestamp>2016-03-02T08:57:48Z</timestamp>
+      <contributor>
+        <username>Hydrogen molecule of Michinoku</username>
+        <id>7528</id>
+      </contributor>
+      <comment>Det sidj as nei uunlaanj wurden: "'''[[Waterstof|Hydrogen]] molecule of Michinoku''' (&#38520;&#22885;&#12398;&#27700;&#32032;&#20998;&#23376;, [[Michinoku region|Michinoku]] no Suiso bunshi) is an [[Japanese people|Japanese]] &#8230;"</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="193" id="124129" />
+      <sha1>kboxelsllk4bcuhiqll60ynicvrjvuu</sha1>
+    </revision>
+    <revision>
+      <id>118646</id>
+      <parentid>118645</parentid>
+      <timestamp>2016-03-02T10:00:01Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="195" id="124130" />
+      <sha1>dtln2idu3ohlvuzg599bkph7hxfmvyf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kornwestheim</title>
+    <ns>0</ns>
+    <id>16467</id>
+    <revision>
+      <id>118682</id>
+      <timestamp>2016-03-15T21:19:14Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>nei</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="922" id="124167" />
+      <sha1>3e9i8wt02xgxs83rlouunp7ru15razt</sha1>
+    </revision>
+    <revision>
+      <id>118683</id>
+      <parentid>118682</parentid>
+      <timestamp>2016-03-15T21:20:28Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="960" id="124168" />
+      <sha1>ebddo1u4ifjms0apnr7gvbrdzuv24j8</sha1>
+    </revision>
+    <revision>
+      <id>118687</id>
+      <parentid>118683</parentid>
+      <timestamp>2016-03-16T22:40:40Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="951" id="124172" />
+      <sha1>pxhevtfvfn89399t12jfg4bv3ob4vyi</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategorie:Lunkreis uun Baden-W&#252;rttemberg</title>
+    <ns>14</ns>
+    <id>16468</id>
+    <revision>
+      <id>118685</id>
+      <timestamp>2016-03-16T22:36:53Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>nei</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="71" id="124170" />
+      <sha1>oruz1mbp8ovj54nfs3v0504t678ek0m</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Lunkreis Ludwigsburg</title>
+    <ns>0</ns>
+    <id>16469</id>
+    <revision>
+      <id>118686</id>
+      <timestamp>2016-03-16T22:38:54Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>nei</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1057" id="124171" />
+      <sha1>ftd9n8bqpy2swwbmmw1zrpjg7qmyrf5</sha1>
+    </revision>
+    <revision>
+      <id>118691</id>
+      <parentid>118686</parentid>
+      <timestamp>2016-03-16T22:51:41Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1090" id="124176" />
+      <sha1>e5etiuqcqw6lhl4snb1bd6vagrzn5jq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ludwigsburg</title>
+    <ns>0</ns>
+    <id>16470</id>
+    <revision>
+      <id>118690</id>
+      <timestamp>2016-03-16T22:51:08Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>nei</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1254" id="124175" />
+      <sha1>ppu7i35eybrzcwwcthnozorzr3re5qj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Regiuun Stuttgart</title>
+    <ns>0</ns>
+    <id>16471</id>
+    <revision>
+      <id>118692</id>
+      <timestamp>2016-03-16T23:02:27Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>nei</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1955" id="124177" />
+      <sha1>03fjr5c6y0e3bu9w1nj6n5hbnk66bmr</sha1>
+    </revision>
+    <revision>
+      <id>118693</id>
+      <parentid>118692</parentid>
+      <timestamp>2016-03-16T23:02:58Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1951" id="124178" />
+      <sha1>qa98lixawq4m3s2mf6ggj3wv6cxyhlj</sha1>
+    </revision>
+    <revision>
+      <id>118695</id>
+      <parentid>118693</parentid>
+      <timestamp>2016-03-16T23:08:32Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>+ coordinate</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2014" id="124180" />
+      <sha1>36uuhqy2rd4tfw2hzj5x9ac8ii8ddtf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Benutzer Diskussion:Nh&#243;m Th&#244;ng tin Wikimedia</title>
+    <ns>3</ns>
+    <id>16473</id>
+    <redirect title="m:User:Nh&#243;m Th&#244;ng tin Wikimedia" />
+    <revision>
+      <id>118724</id>
+      <timestamp>2016-04-03T18:41:43Z</timestamp>
+      <contributor>
+        <username>Pathoschild</username>
+        <id>1068</id>
+      </contributor>
+      <comment>global user pages ([[m:Synchbot|requested by Nh&#243;m Th&#244;ng tin Wikimedia]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="47" id="124269" />
+      <sha1>m29yi7xgpfy9or912zdsnhmf86eau7b</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Benutzer:Marce79</title>
+    <ns>2</ns>
+    <id>16475</id>
+    <redirect title="Benutzer:Marcello Gianola" />
+    <revision>
+      <id>118754</id>
+      <timestamp>2016-04-18T00:42:33Z</timestamp>
+      <contributor>
+        <username>Xeno</username>
+        <id>6372</id>
+      </contributor>
+      <comment>Xeno  h&#228;&#228; det sidj [[Benutzer:Marce79]] efter [[Benutzer:Marcello Gianola]] fersk&#246;wen.: Seite w&#228;hrend der Umbenennung des Benutzers &#8222;[[Special:CentralAuth/Marce79|Marce79]]&#8220; in &#8222;[[Special:CentralAuth/Marcello Gianola|Marcello Gianola]]&#8220; aut&#8230;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="44" id="124298" />
+      <sha1>kcrg0aq7zwdh5e2rzkmrfor0arv7m52</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Benutzer:Pinus</title>
+    <ns>2</ns>
+    <id>16476</id>
+    <redirect title="Benutzer:Prenn" />
+    <revision>
+      <id>118786</id>
+      <timestamp>2016-04-26T18:33:55Z</timestamp>
+      <contributor>
+        <username>Cyberpower678</username>
+        <id>7377</id>
+      </contributor>
+      <comment>Cyberpower678  h&#228;&#228; det sidj [[Benutzer:Pinus]] efter [[Benutzer:Prenn]] fersk&#246;wen.: Seite w&#228;hrend der Umbenennung des Benutzers &#8222;[[Special:CentralAuth/Pinus|Pinus]]&#8220; in &#8222;[[Special:CentralAuth/Prenn|Prenn]]&#8220; automatisch verschoben</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="33" id="124330" />
+      <sha1>haxbvlkes18zb2s921o8whnk5g3yhi9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Benutzer:Riley Huntley</title>
+    <ns>2</ns>
+    <id>16478</id>
+    <redirect title="Benutzer:~riley" />
+    <revision>
+      <id>118813</id>
+      <timestamp>2016-05-04T18:40:32Z</timestamp>
+      <contributor>
+        <username>Steinsplitter</username>
+        <id>3309</id>
+      </contributor>
+      <comment>Steinsplitter  h&#228;&#228; det sidj [[Benutzer:Riley Huntley]] efter [[Benutzer:~riley]] fersk&#246;wen.: Seite w&#228;hrend der Umbenennung des Benutzers &#8222;[[Special:CentralAuth/Riley Huntley|Riley Huntley]]&#8220; in &#8222;[[Special:CentralAuth/~riley|~riley]]&#8220; automa&#8230;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="34" id="124355" />
+      <sha1>4cwrqxa5iecf5aeaeas7e2ksifu769e</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Isl&#246;&#246;n</title>
+    <ns>0</ns>
+    <id>16479</id>
+    <revision>
+      <id>118821</id>
+      <timestamp>2016-05-11T07:48:12Z</timestamp>
+      <contributor>
+        <username>Vedac13</username>
+        <id>4909</id>
+      </contributor>
+      <comment>Det sidj as nei uunlaanj wurden: "{{Navigationsleiste |TITEL="{{PAGENAME}}" in &#246;&#246;r spreekwise |INHALT= [[???| S&#246;lring ]]&amp;nbsp; [[???| &#214;&#246;mrang ]]&amp;nbsp; [[Islun| Fering ]]&amp;nbsp; ???| Halund&#8230;"</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="457" id="124363" />
+      <sha1>fle51vchslgzp20545uxeaax81n543h</sha1>
+    </revision>
+    <revision>
+      <id>118822</id>
+      <parentid>118821</parentid>
+      <timestamp>2016-05-11T07:48:53Z</timestamp>
+      <contributor>
+        <username>Vedac13</username>
+        <id>4909</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="461" id="124364" />
+      <sha1>5g0t6tqvxnc5qbhrcmqayvk8xjk460f</sha1>
+    </revision>
+    <revision>
+      <id>118854</id>
+      <parentid>118822</parentid>
+      <timestamp>2016-05-15T16:04:03Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="472" id="124396" />
+      <sha1>e36tf8ccc4gl91nh4q60196weuuj9pt</sha1>
+    </revision>
+    <revision>
+      <id>118855</id>
+      <parentid>118854</parentid>
+      <timestamp>2016-05-16T11:43:05Z</timestamp>
+      <contributor>
+        <username>Stephan 0796</username>
+        <id>7088</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="161" id="124397" />
+      <sha1>p2eqw1yzhcukz7kugrckp3g05slwhch</sha1>
+    </revision>
+    <revision>
+      <id>118857</id>
+      <parentid>118855</parentid>
+      <timestamp>2016-05-16T18:31:30Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <comment>Feranrangen faan [[Special:Contributions/Stephan 0796|Stephan 0796]] ([[User talk:Stephan 0796|Diskuschuun]]) san &#252;&#252;b di leetst stant faan [[User:Murma174|Murma174]] turagsaat wurden.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="472" id="124399" />
+      <sha1>e36tf8ccc4gl91nh4q60196weuuj9pt</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Atlantisk Sia</title>
+    <ns>0</ns>
+    <id>16480</id>
+    <redirect title="Atlantik" />
+    <revision>
+      <id>118831</id>
+      <timestamp>2016-05-15T14:49:16Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>Sidj tu [[Atlantik]] widjerfeerd</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="22" id="124373" />
+      <sha1>ltdylwndcyudlwbiqm2mhmm0audhnw5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Atlantisk Oosean</title>
+    <ns>0</ns>
+    <id>16481</id>
+    <redirect title="Atlantik" />
+    <revision>
+      <id>118832</id>
+      <timestamp>2016-05-15T14:49:32Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>Sidj tu [[Atlantik]] widjerfeerd</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="22" id="124374" />
+      <sha1>ltdylwndcyudlwbiqm2mhmm0audhnw5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Indisk Sia</title>
+    <ns>0</ns>
+    <id>16482</id>
+    <redirect title="Indisk Oosean" />
+    <revision>
+      <id>118833</id>
+      <timestamp>2016-05-15T14:49:55Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>Sidj tu [[Indik]] widjerfeerd</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="19" id="124375" />
+      <sha1>l43sgvrxqqaszjxztq3ajwgedjljxdc</sha1>
+    </revision>
+    <revision>
+      <id>118862</id>
+      <parentid>118833</parentid>
+      <timestamp>2016-05-19T00:26:31Z</timestamp>
+      <contributor>
+        <username>Xqbot</username>
+        <id>57</id>
+      </contributor>
+      <minor />
+      <comment>Bot: Ferbeedre dobelt widjerfeerang tu [[Indisk Oosean]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="32" id="124404" />
+      <sha1>dyv9v7fyk2i83amjfpar9hjr1arq8cl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Pasiifisk Sia</title>
+    <ns>0</ns>
+    <id>16483</id>
+    <redirect title="Grut Ose&#229;&#229;n" />
+    <revision>
+      <id>118834</id>
+      <timestamp>2016-05-15T14:50:32Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>Sidj tu [[Pasiifik]] widjerfeerd</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="22" id="124376" />
+      <sha1>kl2ys2jsx7nfm2qi62tw6ehxrmxq6gk</sha1>
+    </revision>
+    <revision>
+      <id>118867</id>
+      <parentid>118834</parentid>
+      <timestamp>2016-05-24T00:28:13Z</timestamp>
+      <contributor>
+        <username>Xqbot</username>
+        <id>57</id>
+      </contributor>
+      <minor />
+      <comment>Bot: Ferbeedre dobelt widjerfeerang tu [[Grut Ose&#229;&#229;n]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="32" id="124423" />
+      <sha1>n9h5zq6odugx41e6gk6quf0fcdrrl06</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Pasiifisk Oosean</title>
+    <ns>0</ns>
+    <id>16484</id>
+    <redirect title="Grut Ose&#229;&#229;n" />
+    <revision>
+      <id>118835</id>
+      <timestamp>2016-05-15T14:50:47Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>Sidj tu [[Pasiifik]] widjerfeerd</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="22" id="124377" />
+      <sha1>kl2ys2jsx7nfm2qi62tw6ehxrmxq6gk</sha1>
+    </revision>
+    <revision>
+      <id>118874</id>
+      <parentid>118835</parentid>
+      <timestamp>2016-05-28T00:41:15Z</timestamp>
+      <contributor>
+        <username>Xqbot</username>
+        <id>57</id>
+      </contributor>
+      <minor />
+      <comment>Bot: Ferbeedre dobelt widjerfeerang tu [[Grut Ose&#229;&#229;n]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="32" id="124434" />
+      <sha1>n9h5zq6odugx41e6gk6quf0fcdrrl06</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Antarktisk Sia</title>
+    <ns>0</ns>
+    <id>16485</id>
+    <revision>
+      <id>118836</id>
+      <timestamp>2016-05-15T15:00:34Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>iarst ans</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="446" id="124378" />
+      <sha1>ts7gf99oh9adft9af1k56hghfvfa6wf</sha1>
+    </revision>
+    <revision>
+      <id>118838</id>
+      <parentid>118836</parentid>
+      <timestamp>2016-05-15T15:11:38Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>+ sidjensian</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3259" id="124380" />
+      <sha1>09sycv3oxtl9ab5b6qi36nzcvmynzfo</sha1>
+    </revision>
+    <revision>
+      <id>118839</id>
+      <parentid>118838</parentid>
+      <timestamp>2016-05-15T15:13:26Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3259" id="124381" />
+      <sha1>k5g6m9s9m35f44mxwyfxpzy5eg32e54</sha1>
+    </revision>
+    <revision>
+      <id>118840</id>
+      <parentid>118839</parentid>
+      <timestamp>2016-05-15T15:13:47Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3259" id="124382" />
+      <sha1>3fjc09xaxuywjqrr93t8g0px9ht5gni</sha1>
+    </revision>
+    <revision>
+      <id>118841</id>
+      <parentid>118840</parentid>
+      <timestamp>2016-05-15T15:15:41Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3259" id="124383" />
+      <sha1>7is9lfp0f8oolfu30lid5or7weygbf8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Info ISO-3166-2:SA</title>
+    <ns>10</ns>
+    <id>16486</id>
+    <revision>
+      <id>118842</id>
+      <timestamp>2016-05-15T15:22:28Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>nei</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="392" id="124384" />
+      <sha1>m05trsen2p7lr3hwbtjl0298e9sf1k0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>ISO 3166-2:SA</title>
+    <ns>0</ns>
+    <id>16487</id>
+    <revision>
+      <id>118843</id>
+      <timestamp>2016-05-15T15:23:26Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>nei</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1733" id="124385" />
+      <sha1>1kvmmsj91ffa5uc3etefzoo5u9x6zwv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategorie:Geographie (Saudi-Arabien)</title>
+    <ns>14</ns>
+    <id>16488</id>
+    <revision>
+      <id>118844</id>
+      <timestamp>2016-05-15T15:24:29Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>Det sidj as nei uunlaanj wurden: "[[Kategorie:Saudi-Araabien]]"</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="28" id="124386" />
+      <sha1>af4gqc8bw8yvww2muxz2mj3dyq2v3aa</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Positionskarte Saudi-Arabien</title>
+    <ns>10</ns>
+    <id>16489</id>
+    <revision>
+      <id>118845</id>
+      <timestamp>2016-05-15T15:26:13Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>nei</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="316" id="124387" />
+      <sha1>a8j2wn95s3o04xgfyuzuy2z9eyaplfl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Saudi-Arabien</title>
+    <ns>0</ns>
+    <id>16490</id>
+    <redirect title="Saudi-Araabien" />
+    <revision>
+      <id>118846</id>
+      <timestamp>2016-05-15T15:26:35Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>Sidj tu [[Saudi-Araabien]] widjerfeerd</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="28" id="124388" />
+      <sha1>48ymdwzstii46rmup8udmtk9wc5z8zt</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Imagemap SaudiArabien1</title>
+    <ns>10</ns>
+    <id>16491</id>
+    <revision>
+      <id>118847</id>
+      <timestamp>2016-05-15T15:43:14Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>nei</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="9449" id="124389" />
+      <sha1>jiyujwrwcw109nu0f6zwau283c3nsgi</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Saudi-Araabien</title>
+    <ns>0</ns>
+    <id>16492</id>
+    <revision>
+      <id>118848</id>
+      <timestamp>2016-05-15T15:48:47Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>nei</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="8763" id="124390" />
+      <sha1>eg4gaupvki3a16ne1ntyfvu2cyxz543</sha1>
+    </revision>
+    <revision>
+      <id>118849</id>
+      <parentid>118848</parentid>
+      <timestamp>2016-05-15T15:49:37Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="8763" id="124391" />
+      <sha1>3gpw5u8bg7w6td8lbn8x55gr3squgke</sha1>
+    </revision>
+    <revision>
+      <id>118850</id>
+      <parentid>118849</parentid>
+      <timestamp>2016-05-15T15:52:13Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="8771" id="124392" />
+      <sha1>q9dstjrz5w71yp94lknh6tl6mf7md7n</sha1>
+    </revision>
+    <revision>
+      <id>124458</id>
+      <parentid>118850</parentid>
+      <timestamp>2017-02-02T16:03:16Z</timestamp>
+      <contributor>
+        <username>Vedac13</username>
+        <id>4909</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="9091" id="130021" />
+      <sha1>24ts8cjn2k8jkwvjo3sics513kdrl6a</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Oiroopa</title>
+    <ns>0</ns>
+    <id>16493</id>
+    <redirect title="Euroopa" />
+    <revision>
+      <id>118853</id>
+      <timestamp>2016-05-15T16:03:02Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>Sidj tu [[Euroopa]] widjerfeerd</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="21" id="124395" />
+      <sha1>ow646h2pljyqclidkpwz9klytqizubu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Benutzer Diskussion:HakanIST</title>
+    <ns>3</ns>
+    <id>16494</id>
+    <redirect title="m:User talk:HakanIST" />
+    <revision>
+      <id>118865</id>
+      <timestamp>2016-05-21T08:46:14Z</timestamp>
+      <contributor>
+        <username>HakanIST</username>
+        <id>7282</id>
+      </contributor>
+      <comment>redirect to my main talk page</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="34" id="124413" />
+      <sha1>ma80ys6tyyeuuvkmjl8wic828n6kzw0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Gerhard Martens.jpg</title>
+    <ns>6</ns>
+    <id>16498</id>
+    <revision>
+      <id>118879</id>
+      <timestamp>2016-05-29T16:30:06Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>{{Information
+|Beschreibung     = Gerhard Martens (1855 - 1946)
+|Quelle           = own
+|Urheber          = ei bek&#228;&#228;nd
+|Datum            = f&#246;&#246;r 1946
+|Genehmigung      = 
+|Andere Versionen = 
+|Anmerkungen      = 
+}}
+{{PD-Bild-alt}}</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="234" id="124439" />
+      <sha1>htdhbbc1bomemchjjwrui59z34p4l6c</sha1>
+    </revision>
+    <revision>
+      <id>118880</id>
+      <parentid>118879</parentid>
+      <timestamp>2016-05-29T16:31:02Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="234" id="124440" />
+      <sha1>dmomtm02qco5r79il9bsflsoyct9o3e</sha1>
+    </revision>
+    <revision>
+      <id>118881</id>
+      <parentid>118880</parentid>
+      <timestamp>2016-05-29T16:54:26Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>NoCommons</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="248" id="124441" />
+      <sha1>n2s5zv1lqw0kfan5dy4a1e7mvru6pb4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Gerhard Martens</title>
+    <ns>0</ns>
+    <id>16499</id>
+    <revision>
+      <id>118882</id>
+      <timestamp>2016-05-29T17:04:19Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>nei</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1719" id="124442" />
+      <sha1>ps1h9ik1sn7sh5d691nfnm4xlndj7ah</sha1>
+    </revision>
+    <revision>
+      <id>118883</id>
+      <parentid>118882</parentid>
+      <timestamp>2016-05-29T17:07:58Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>NF wiki</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1754" id="124443" />
+      <sha1>pzkd8bstrfp5ttx33xxxf3e5g7dlp0j</sha1>
+    </revision>
+    <revision>
+      <id>118891</id>
+      <parentid>118883</parentid>
+      <timestamp>2016-05-29T17:25:10Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1764" id="124451" />
+      <sha1>44zqj3lyih1s2cq9m2znd04p0hft76g</sha1>
+    </revision>
+    <revision>
+      <id>118892</id>
+      <parentid>118891</parentid>
+      <timestamp>2016-05-29T20:22:26Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1786" id="124452" />
+      <sha1>1nx4xk0ejg605mi4aw51wd1v4f3l9nj</sha1>
+    </revision>
+    <revision>
+      <id>120405</id>
+      <parentid>118892</parentid>
+      <timestamp>2016-09-01T09:53:33Z</timestamp>
+      <contributor>
+        <ip>87.58.122.236</ip>
+      </contributor>
+      <comment>/* Leewent */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2135" id="125980" />
+      <sha1>tg443ybmil4f4vcn7o6pncejn9z56jq</sha1>
+    </revision>
+    <revision>
+      <id>120407</id>
+      <parentid>120405</parentid>
+      <timestamp>2016-09-02T11:06:48Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>+ Charles Martens, &#246;&#246;mrang</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2641" id="125982" />
+      <sha1>774e0lxefdix22y785iboq21ro9mf7n</sha1>
+    </revision>
+    <revision>
+      <id>120408</id>
+      <parentid>120407</parentid>
+      <timestamp>2016-09-02T11:08:51Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2642" id="125983" />
+      <sha1>4lh3kuxs6t86oo7exqmashpr5u9pb4l</sha1>
+    </revision>
+    <revision>
+      <id>122411</id>
+      <parentid>120408</parentid>
+      <timestamp>2016-11-12T22:59:56Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2642" id="128006" />
+      <sha1>oiamh07mtnbx0af61pb4wop13u5spxq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Elsfleth</title>
+    <ns>0</ns>
+    <id>16500</id>
+    <revision>
+      <id>118894</id>
+      <timestamp>2016-05-29T20:42:07Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>nei</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="962" id="124454" />
+      <sha1>cg97bytjdgezckaszsh63c47ss7b3vl</sha1>
+    </revision>
+    <revision>
+      <id>118898</id>
+      <parentid>118894</parentid>
+      <timestamp>2016-05-29T21:01:14Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="987" id="124458" />
+      <sha1>i6v4g342251np14alyjvd2iswwk44l5</sha1>
+    </revision>
+    <revision>
+      <id>118899</id>
+      <parentid>118898</parentid>
+      <timestamp>2016-05-29T21:02:00Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1009" id="124459" />
+      <sha1>m57vbkpc4mjekeb4jk5xyf9161trd1u</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategorie:Lunkreis Wesermaask</title>
+    <ns>14</ns>
+    <id>16501</id>
+    <revision>
+      <id>118895</id>
+      <timestamp>2016-05-29T20:43:31Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>nei</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="39" id="124455" />
+      <sha1>7mvgjh24wya00zp47dpove68lyh3wzl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Lunkreis Wesermaask</title>
+    <ns>0</ns>
+    <id>16502</id>
+    <revision>
+      <id>118896</id>
+      <timestamp>2016-05-29T20:56:51Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>nei</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1958" id="124456" />
+      <sha1>q38l3glp3y6ck61f5g8fhsep3coy059</sha1>
+    </revision>
+    <revision>
+      <id>118897</id>
+      <parentid>118896</parentid>
+      <timestamp>2016-05-29T21:00:23Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1960" id="124457" />
+      <sha1>or31pnlgdscovte2zs7hs9sv7u0bqb1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Hoodsid/artiikel-2016-07</title>
+    <ns>10</ns>
+    <id>16503</id>
+    <redirect title="Vorlage:Hoodsid/artiikel-2015-02" />
+    <revision>
+      <id>118907</id>
+      <timestamp>2016-06-01T18:35:43Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>steedhualer</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="47" id="124467" />
+      <sha1>q3mc12jcdhlsyunv7qjgy6hlewulhbu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Hoodsid/artiikel-2016-08</title>
+    <ns>10</ns>
+    <id>16504</id>
+    <redirect title="Vorlage:Hoodsid/artiikel-2015-01" />
+    <revision>
+      <id>118908</id>
+      <timestamp>2016-06-01T18:36:07Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>steedhualer</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="47" id="124468" />
+      <sha1>itptqdoc3mxbrjqx2n5nkg8a4ks42ka</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Hoodsid/artiikel-2016-09</title>
+    <ns>10</ns>
+    <id>16505</id>
+    <redirect title="Vorlage:Hoodsid/artiikel-2014-12" />
+    <revision>
+      <id>118909</id>
+      <timestamp>2016-06-01T18:36:33Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>steedhualer</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="47" id="124469" />
+      <sha1>qhjioz2dnztj7qj391esy8qey7z18o4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Hoodsid/artiikel-2016-10</title>
+    <ns>10</ns>
+    <id>16506</id>
+    <redirect title="Vorlage:Hoodsid/artiikel-2014-11" />
+    <revision>
+      <id>118910</id>
+      <timestamp>2016-06-01T18:37:09Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>steedhualer</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="47" id="124470" />
+      <sha1>0ym1oe4ch63wafdv9l1tdeec9hmaia0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Hoodsid/artiikel-2016-11</title>
+    <ns>10</ns>
+    <id>16507</id>
+    <redirect title="Vorlage:Hoodsid/artiikel-2014-10" />
+    <revision>
+      <id>118911</id>
+      <timestamp>2016-06-01T18:38:05Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>steedhualer</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="47" id="124471" />
+      <sha1>qu5i5i334j7l3f58hltiz884zvufar2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Hoodsid/artiikel-2016-12</title>
+    <ns>10</ns>
+    <id>16508</id>
+    <redirect title="Vorlage:Hoodsid/artiikel-2014-09" />
+    <revision>
+      <id>118912</id>
+      <timestamp>2016-06-01T18:38:33Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>steedhualer</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="47" id="124472" />
+      <sha1>5r3eiqe0o5v5zjdq3mw81ntz5xz4d7x</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategorie:Seiten mit Referenzierungsfehlern</title>
+    <ns>14</ns>
+    <id>16510</id>
+    <revision>
+      <id>118939</id>
+      <timestamp>2016-06-07T10:55:33Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>Det sidj as nei uunlaanj wurden: "__HIDDENCAT__  [[Kategorie:Wikipedia]]"</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="38" id="124499" />
+      <sha1>shlzn9crd3fofaphx1ukotwpfwgknbd</sha1>
+    </revision>
+    <revision>
+      <id>118940</id>
+      <parentid>118939</parentid>
+      <timestamp>2016-06-07T11:04:15Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="53" id="124500" />
+      <sha1>t1jiax4g0y32gdbjnwwy6lhxwltsidj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Benutzer Diskussion:Nirmos</title>
+    <ns>3</ns>
+    <id>16511</id>
+    <revision>
+      <id>118941</id>
+      <timestamp>2016-06-07T11:09:59Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>welkimen</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="271" id="124501" />
+      <sha1>gt2bxyeftvazt3ztt07m59ydkpt57u9</sha1>
+    </revision>
+    <revision>
+      <id>118942</id>
+      <parentid>118941</parentid>
+      <timestamp>2016-06-07T11:13:50Z</timestamp>
+      <contributor>
+        <username>Nirmos</username>
+        <id>4915</id>
+      </contributor>
+      <comment>/* Javascript */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="598" id="124502" />
+      <sha1>946wde9gwtypkcjkpecwqny9f5mgc5v</sha1>
+    </revision>
+    <revision>
+      <id>118943</id>
+      <parentid>118942</parentid>
+      <timestamp>2016-06-07T11:16:31Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>re</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="744" id="124503" />
+      <sha1>g0qlwgbk6zrn4mzyhhdcgq03qna5og7</sha1>
+    </revision>
+    <revision>
+      <id>118944</id>
+      <parentid>118943</parentid>
+      <timestamp>2016-06-07T11:17:57Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>- ping</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="728" id="124504" />
+      <sha1>mwgy4dz5a6eldbt1vgzzyrqf10ailf2</sha1>
+    </revision>
+    <revision>
+      <id>118950</id>
+      <parentid>118944</parentid>
+      <timestamp>2016-06-07T13:06:01Z</timestamp>
+      <contributor>
+        <username>Nirmos</username>
+        <id>4915</id>
+      </contributor>
+      <comment>/* Javascript */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="922" id="124510" />
+      <sha1>8s3v8plfir8n5u5s7epxfchfhdtiq2n</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Iirste Wraolkrich</title>
+    <ns>0</ns>
+    <id>16512</id>
+    <revision>
+      <id>118983</id>
+      <timestamp>2016-06-19T08:30:52Z</timestamp>
+      <contributor>
+        <username>Vedac13</username>
+        <id>4909</id>
+      </contributor>
+      <comment>Det sidj as nei uunlaanj wurden: "{{Navigationsleiste |TITEL="{{PAGENAME}}" &#246;nj oudere spr&#228;kewise |INHALT= [[???| S&#246;lring ]]&amp;nbsp; [[???| &#214;&#246;mrang ]]&amp;nbsp; [[???| Fering ]]&amp;nbsp; ???| Halu&#8230;"</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="627" id="124543" />
+      <sha1>11ovu7tz5n3tceqmcqrg8f4qtu8i21j</sha1>
+    </revision>
+    <revision>
+      <id>118984</id>
+      <parentid>118983</parentid>
+      <timestamp>2016-06-19T08:31:56Z</timestamp>
+      <contributor>
+        <username>Vedac13</username>
+        <id>4909</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="623" id="124544" />
+      <sha1>47qf8fyoa1ihtvjpzswfgkicz6euaxg</sha1>
+    </revision>
+    <revision>
+      <id>118985</id>
+      <parentid>118984</parentid>
+      <timestamp>2016-06-19T08:33:21Z</timestamp>
+      <contributor>
+        <username>Vedac13</username>
+        <id>4909</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="653" id="124545" />
+      <sha1>fmmm1wko7mz0zm826y3amy6s4odxma5</sha1>
+    </revision>
+    <revision>
+      <id>118987</id>
+      <parentid>118985</parentid>
+      <timestamp>2016-06-19T08:56:37Z</timestamp>
+      <contributor>
+        <username>Vedac13</username>
+        <id>4909</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="668" id="124547" />
+      <sha1>g8d5yb59umzm5r1s66w7cnbomidmsxi</sha1>
+    </revision>
+    <revision>
+      <id>118992</id>
+      <parentid>118987</parentid>
+      <timestamp>2016-06-19T09:06:47Z</timestamp>
+      <contributor>
+        <username>Vedac13</username>
+        <id>4909</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="708" id="124552" />
+      <sha1>ecxuw2ipl8xbe59yg4y8jxs8dpfqgu5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Iarst W&#228;&#228;ltkrich</title>
+    <ns>0</ns>
+    <id>16513</id>
+    <revision>
+      <id>118989</id>
+      <timestamp>2016-06-19T08:58:55Z</timestamp>
+      <contributor>
+        <username>Vedac13</username>
+        <id>4909</id>
+      </contributor>
+      <comment>Det sidj as nei uunlaanj wurden: "{{Navigationsleiste |TITEL="{{PAGENAME}}" &#246;nj oudere spr&#228;kewise |INHALT= [[???| S&#246;lring ]]&amp;nbsp; [[???| &#214;&#246;mrang ]]&amp;nbsp; [[iarst W&#228;&#228;ltkrich| Fering ]]&amp;nb&#8230;"</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="655" id="124549" />
+      <sha1>00v6uo71xbuoyr4sjo3ndmnmv0fu3qe</sha1>
+    </revision>
+    <revision>
+      <id>118990</id>
+      <parentid>118989</parentid>
+      <timestamp>2016-06-19T08:59:50Z</timestamp>
+      <contributor>
+        <username>Vedac13</username>
+        <id>4909</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="654" id="124550" />
+      <sha1>qcdaypv3qnm8am6pxcq3biwxfrxvoea</sha1>
+    </revision>
+    <revision>
+      <id>118991</id>
+      <parentid>118990</parentid>
+      <timestamp>2016-06-19T09:04:55Z</timestamp>
+      <contributor>
+        <username>Vedac13</username>
+        <id>4909</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="694" id="124551" />
+      <sha1>1h4ed4a4unxfhyw11cd5ryjifs9w4yz</sha1>
+    </revision>
+    <revision>
+      <id>119001</id>
+      <parentid>118991</parentid>
+      <timestamp>2016-06-19T09:22:01Z</timestamp>
+      <contributor>
+        <username>Vedac13</username>
+        <id>4909</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="730" id="124561" />
+      <sha1>5cicn0fur4irw31ckg0kc8d1dcei17a</sha1>
+    </revision>
+    <revision>
+      <id>119778</id>
+      <parentid>119001</parentid>
+      <timestamp>2016-08-05T09:47:25Z</timestamp>
+      <contributor>
+        <username>Vedac13</username>
+        <id>4909</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="943" id="125354" />
+      <sha1>s9gbi7k39zmaaxxjtxgndi59zedezxp</sha1>
+    </revision>
+    <revision>
+      <id>119779</id>
+      <parentid>119778</parentid>
+      <timestamp>2016-08-05T09:55:43Z</timestamp>
+      <contributor>
+        <username>Vedac13</username>
+        <id>4909</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1150" id="125355" />
+      <sha1>jx48rc939hljgc53xmckxuxxh8v5nqh</sha1>
+    </revision>
+    <revision>
+      <id>119780</id>
+      <parentid>119779</parentid>
+      <timestamp>2016-08-05T10:00:24Z</timestamp>
+      <contributor>
+        <username>Vedac13</username>
+        <id>4909</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1230" id="125356" />
+      <sha1>gih5k9qdx656tgc8co3dm9tjhyk734l</sha1>
+    </revision>
+    <revision>
+      <id>119781</id>
+      <parentid>119780</parentid>
+      <timestamp>2016-08-05T10:26:56Z</timestamp>
+      <contributor>
+        <username>Vedac13</username>
+        <id>4909</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1531" id="125357" />
+      <sha1>anvgvm1yjo95rbovimehqf5e6h31cuc</sha1>
+    </revision>
+    <revision>
+      <id>122713</id>
+      <parentid>119781</parentid>
+      <timestamp>2016-11-21T07:08:07Z</timestamp>
+      <contributor>
+        <username>Vedac13</username>
+        <id>4909</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1531" id="128305" />
+      <sha1>7tvwsxsv4efal717i5n0rtgxsbr1a1j</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Tweede Wraolkrich</title>
+    <ns>0</ns>
+    <id>16514</id>
+    <revision>
+      <id>118994</id>
+      <timestamp>2016-06-19T09:13:16Z</timestamp>
+      <contributor>
+        <username>Vedac13</username>
+        <id>4909</id>
+      </contributor>
+      <comment>Det sidj as nei uunlaanj wurden: "{{Navigationsleiste |TITEL="{{PAGENAME}}" &#246;nj oudere spr&#228;kewise |INHALT= [[Taust Warelkrich| S&#246;lring ]]&amp;nbsp; [[???| &#214;&#246;mrang ]]&amp;nbsp; [[???| Fering ]]&amp;nbsp&#8230;"</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="560" id="124554" />
+      <sha1>8qogvgau7f5l0muauodd5g30mngh6fp</sha1>
+    </revision>
+    <revision>
+      <id>118995</id>
+      <parentid>118994</parentid>
+      <timestamp>2016-06-19T09:14:15Z</timestamp>
+      <contributor>
+        <username>Vedac13</username>
+        <id>4909</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="600" id="124555" />
+      <sha1>jkbvw5hycmcz1ekdxrqqnwh6i8kbu97</sha1>
+    </revision>
+    <revision>
+      <id>118997</id>
+      <parentid>118995</parentid>
+      <timestamp>2016-06-19T09:15:46Z</timestamp>
+      <contributor>
+        <username>Vedac13</username>
+        <id>4909</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="596" id="124557" />
+      <sha1>96nlt2xum3oggf8x2yi9yp1y758u93e</sha1>
+    </revision>
+    <revision>
+      <id>119004</id>
+      <parentid>118997</parentid>
+      <timestamp>2016-06-19T09:29:20Z</timestamp>
+      <contributor>
+        <username>Vedac13</username>
+        <id>4909</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="663" id="124564" />
+      <sha1>nvehmzsxjf2cg9f940r21pzpji58sxt</sha1>
+    </revision>
+    <revision>
+      <id>119005</id>
+      <parentid>119004</parentid>
+      <timestamp>2016-06-19T09:29:44Z</timestamp>
+      <contributor>
+        <username>Vedac13</username>
+        <id>4909</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="667" id="124565" />
+      <sha1>27ap59yq1wb0dht24alcfnnsylbmwgp</sha1>
+    </revision>
+    <revision>
+      <id>119006</id>
+      <parentid>119005</parentid>
+      <timestamp>2016-06-19T09:32:27Z</timestamp>
+      <contributor>
+        <username>Vedac13</username>
+        <id>4909</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="675" id="124566" />
+      <sha1>qct1tpvzxc54al9t4yl02rv0lyv8z17</sha1>
+    </revision>
+    <revision>
+      <id>119008</id>
+      <parentid>119006</parentid>
+      <timestamp>2016-06-19T09:42:44Z</timestamp>
+      <contributor>
+        <username>Vedac13</username>
+        <id>4909</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="765" id="124568" />
+      <sha1>l9gra0kzytju67rzcgvzlpnrmfrybf8</sha1>
+    </revision>
+    <revision>
+      <id>119009</id>
+      <parentid>119008</parentid>
+      <timestamp>2016-06-19T09:46:00Z</timestamp>
+      <contributor>
+        <username>Vedac13</username>
+        <id>4909</id>
+      </contributor>
+      <comment>/* Siine ok */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="808" id="124569" />
+      <sha1>rzwtmmm5q0sjz9sl9jtc3i52ty0davb</sha1>
+    </revision>
+    <revision>
+      <id>119010</id>
+      <parentid>119009</parentid>
+      <timestamp>2016-06-19T09:58:49Z</timestamp>
+      <contributor>
+        <username>Vedac13</username>
+        <id>4909</id>
+      </contributor>
+      <comment>/* Tutsk &#214;&#246;ngrif ap Poolen, 1939 */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="977" id="124570" />
+      <sha1>d65at1mh4nivmg35qxid60qkd5d93ln</sha1>
+    </revision>
+    <revision>
+      <id>119011</id>
+      <parentid>119010</parentid>
+      <timestamp>2016-06-19T10:00:42Z</timestamp>
+      <contributor>
+        <username>Vedac13</username>
+        <id>4909</id>
+      </contributor>
+      <comment>/* Tutsk &#214;&#246;ngrif ap Poolen, 1939 */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="997" id="124571" />
+      <sha1>eb8m3xk0qqnmooo6p2osixd9o4d9bxd</sha1>
+    </revision>
+    <revision>
+      <id>121855</id>
+      <parentid>119011</parentid>
+      <timestamp>2016-10-27T09:40:07Z</timestamp>
+      <contributor>
+        <username>Vedac13</username>
+        <id>4909</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1015" id="127430" />
+      <sha1>m6yr931ujb4i9sc65n30hi11sbh765n</sha1>
+    </revision>
+    <revision>
+      <id>123418</id>
+      <parentid>121855</parentid>
+      <timestamp>2016-12-16T21:58:09Z</timestamp>
+      <contributor>
+        <username>Marschmensch</username>
+        <id>33</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1016" id="129011" />
+      <sha1>okbd54egceaz6t1nf43qz6cs717od4i</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Woopen</title>
+    <ns>0</ns>
+    <id>16515</id>
+    <revision>
+      <id>119007</id>
+      <timestamp>2016-06-19T09:38:53Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>nei</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="307" id="124567" />
+      <sha1>0by3bpgcxvd21noe5rjmz8inlzbfrxg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Benutzer:Doc James/Open Textbook of Medicine</title>
+    <ns>2</ns>
+    <id>16516</id>
+    <revision>
+      <id>119032</id>
+      <timestamp>2016-07-01T21:10:06Z</timestamp>
+      <contributor>
+        <username>Dexbot</username>
+        <id>2929</id>
+      </contributor>
+      <comment>Bot: Making user subpage upon request</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="9043" id="124592" />
+      <sha1>0xnkvzadoca6676cbk72fxn28bj1xf3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Roubaix</title>
+    <ns>0</ns>
+    <id>16518</id>
+    <revision>
+      <id>119039</id>
+      <timestamp>2016-07-06T15:35:44Z</timestamp>
+      <contributor>
+        <username>Trauenbaum</username>
+        <id>5394</id>
+      </contributor>
+      <comment>Det sidj as nei uunlaanj wurden: "{{Universele ynfoboks st&#234;d | namme                       = Roubaix | &#244;fbylding                   = H&#244;tel de ville (3).JPG | &#244;fbyldingsbreedte           = 27&#8230;"</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1564" id="124599" />
+      <sha1>doc6h5e1271gxvvnuk1mbx9knucndbb</sha1>
+    </revision>
+    <revision>
+      <id>119296</id>
+      <parentid>119039</parentid>
+      <timestamp>2016-07-11T09:12:20Z</timestamp>
+      <contributor>
+        <username>Trauenbaum</username>
+        <id>5394</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1581" id="124856" />
+      <sha1>ttohyrxwctapdjeyg7urtx3qa0tu3li</sha1>
+    </revision>
+    <revision>
+      <id>119297</id>
+      <parentid>119296</parentid>
+      <timestamp>2016-07-11T13:34:05Z</timestamp>
+      <contributor>
+        <username>Trauenbaum</username>
+        <id>5394</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1580" id="124857" />
+      <sha1>gbqivocbk9bd1reii24ylc71amkszhg</sha1>
+    </revision>
+    <revision>
+      <id>119299</id>
+      <parentid>119297</parentid>
+      <timestamp>2016-07-11T16:28:39Z</timestamp>
+      <contributor>
+        <username>Trauenbaum</username>
+        <id>5394</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1673" id="124859" />
+      <sha1>83uybb91yqawofh4o3bblu8ix79bt46</sha1>
+    </revision>
+    <revision>
+      <id>119300</id>
+      <parentid>119299</parentid>
+      <timestamp>2016-07-11T16:39:42Z</timestamp>
+      <contributor>
+        <username>Trauenbaum</username>
+        <id>5394</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1699" id="124860" />
+      <sha1>smya0t0k3hbuavxsx1xnalui9um5dpp</sha1>
+    </revision>
+    <revision>
+      <id>119301</id>
+      <parentid>119300</parentid>
+      <timestamp>2016-07-11T18:41:51Z</timestamp>
+      <contributor>
+        <username>Trauenbaum</username>
+        <id>5394</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2147" id="124861" />
+      <sha1>htw5xgs65btywuiroee7u4avlukechc</sha1>
+    </revision>
+    <revision>
+      <id>119378</id>
+      <parentid>119301</parentid>
+      <timestamp>2016-07-20T12:39:42Z</timestamp>
+      <contributor>
+        <username>Trauenbaum</username>
+        <id>5394</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2241" id="124938" />
+      <sha1>31c644n757hn1ggaxch7z7a3njfmkun</sha1>
+    </revision>
+    <revision>
+      <id>119379</id>
+      <parentid>119378</parentid>
+      <timestamp>2016-07-20T12:43:48Z</timestamp>
+      <contributor>
+        <username>Trauenbaum</username>
+        <id>5394</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2241" id="124939" />
+      <sha1>dahs8h1q34lmtpdd0djqyekqgvgbl2h</sha1>
+    </revision>
+    <revision>
+      <id>120204</id>
+      <parentid>119379</parentid>
+      <timestamp>2016-08-19T11:51:32Z</timestamp>
+      <contributor>
+        <username>Trauenbaum</username>
+        <id>5394</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2395" id="125781" />
+      <sha1>ek9rrpzivmw36514m1fol5e2m5qk6zf</sha1>
+    </revision>
+    <revision>
+      <id>120222</id>
+      <parentid>120204</parentid>
+      <timestamp>2016-08-19T21:46:52Z</timestamp>
+      <contributor>
+        <username>Trauenbaum</username>
+        <id>5394</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2414" id="125799" />
+      <sha1>i0ptp4yf5t506sd8310mvf6ko5vpylx</sha1>
+    </revision>
+    <revision>
+      <id>120360</id>
+      <parentid>120222</parentid>
+      <timestamp>2016-08-26T07:41:35Z</timestamp>
+      <contributor>
+        <username>Trauenbaum</username>
+        <id>5394</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2451" id="125936" />
+      <sha1>jit75xwy6xngtg5v58k6luhdxvu3exh</sha1>
+    </revision>
+    <revision>
+      <id>120364</id>
+      <parentid>120360</parentid>
+      <timestamp>2016-08-26T14:21:23Z</timestamp>
+      <contributor>
+        <username>Trauenbaum</username>
+        <id>5394</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2533" id="125940" />
+      <sha1>m0795zzfmc4w6xspz3tpwx0iodti1lc</sha1>
+    </revision>
+    <revision>
+      <id>120369</id>
+      <parentid>120364</parentid>
+      <timestamp>2016-08-27T07:30:51Z</timestamp>
+      <contributor>
+        <username>Trauenbaum</username>
+        <id>5394</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1994" id="125945" />
+      <sha1>jzzbvppc2zplhki3e36dlddi1m3w3bm</sha1>
+    </revision>
+    <revision>
+      <id>120376</id>
+      <parentid>120369</parentid>
+      <timestamp>2016-08-27T07:59:54Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1993" id="125952" />
+      <sha1>0hy1t2h9y9c1tfwvv5qdcayy632r1j4</sha1>
+    </revision>
+    <revision>
+      <id>120377</id>
+      <parentid>120376</parentid>
+      <timestamp>2016-08-27T08:00:18Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1992" id="125953" />
+      <sha1>fm3dx12odn8uitc417d4blltkvbdvlt</sha1>
+    </revision>
+    <revision>
+      <id>120381</id>
+      <parentid>120377</parentid>
+      <timestamp>2016-08-27T09:29:45Z</timestamp>
+      <contributor>
+        <username>Trauenbaum</username>
+        <id>5394</id>
+      </contributor>
+      <comment>Geograafisk laag</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1992" id="125957" />
+      <sha1>8b2fr2gasmkxy77u1t2u5q4u2ku5t16</sha1>
+    </revision>
+    <revision>
+      <id>120382</id>
+      <parentid>120381</parentid>
+      <timestamp>2016-08-27T10:19:58Z</timestamp>
+      <contributor>
+        <username>Trauenbaum</username>
+        <id>5394</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2054" id="125958" />
+      <sha1>d7n78mof88hkoex3ytn6b4nf10n01zi</sha1>
+    </revision>
+    <revision>
+      <id>120384</id>
+      <parentid>120382</parentid>
+      <timestamp>2016-08-27T10:42:44Z</timestamp>
+      <contributor>
+        <username>Trauenbaum</username>
+        <id>5394</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2184" id="125960" />
+      <sha1>9hk0b7yc7j7tt31jjljvah67zdk6swf</sha1>
+    </revision>
+    <revision>
+      <id>120385</id>
+      <parentid>120384</parentid>
+      <timestamp>2016-08-27T10:48:06Z</timestamp>
+      <contributor>
+        <username>Trauenbaum</username>
+        <id>5394</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2183" id="125961" />
+      <sha1>nrcd9oy8p2kj3xs2nvi4mrqim2bvjmi</sha1>
+    </revision>
+    <revision>
+      <id>120392</id>
+      <parentid>120385</parentid>
+      <timestamp>2016-08-28T00:37:36Z</timestamp>
+      <contributor>
+        <username>Trauenbaum</username>
+        <id>5394</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2187" id="125967" />
+      <sha1>thi0j4ayo5nxk7auh8cmxopuamipqdd</sha1>
+    </revision>
+    <revision>
+      <id>120394</id>
+      <parentid>120392</parentid>
+      <timestamp>2016-08-28T01:33:42Z</timestamp>
+      <contributor>
+        <username>Trauenbaum</username>
+        <id>5394</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2208" id="125969" />
+      <sha1>j0rcdlw29q9y9mt3a7ulaed67x20j5b</sha1>
+    </revision>
+    <revision>
+      <id>120395</id>
+      <parentid>120394</parentid>
+      <timestamp>2016-08-28T01:40:14Z</timestamp>
+      <contributor>
+        <username>Trauenbaum</username>
+        <id>5394</id>
+      </contributor>
+      <comment>/* Luke uk diar */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2307" id="125970" />
+      <sha1>9vq2bgacj2ui217sv9f6vkpittbeohb</sha1>
+    </revision>
+    <revision>
+      <id>120396</id>
+      <parentid>120395</parentid>
+      <timestamp>2016-08-28T01:46:27Z</timestamp>
+      <contributor>
+        <username>Trauenbaum</username>
+        <id>5394</id>
+      </contributor>
+      <comment>/* Partnerst&#228;&#228;den */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2338" id="125971" />
+      <sha1>bmey2yaj197st7nr2fykam4jv4dzrjv</sha1>
+    </revision>
+    <revision>
+      <id>121415</id>
+      <parentid>120396</parentid>
+      <timestamp>2016-10-12T20:22:44Z</timestamp>
+      <contributor>
+        <username>Trauenbaum</username>
+        <id>5394</id>
+      </contributor>
+      <comment>/* Luke uk diar */ www.archivesnationales.culture.gouv.fr</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2474" id="126990" />
+      <sha1>j8v796opp359drxih1g7hfs9pniwvu9</sha1>
+    </revision>
+    <revision>
+      <id>121416</id>
+      <parentid>121415</parentid>
+      <timestamp>2016-10-13T05:31:56Z</timestamp>
+      <contributor>
+        <username>Trauenbaum</username>
+        <id>5394</id>
+      </contributor>
+      <comment>/* Luke uk diar */ www.lamanufacture-roubaix.fr</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2595" id="126991" />
+      <sha1>fcykrys41tvjwe6qcz7j5ohupc7m58v</sha1>
+    </revision>
+    <revision>
+      <id>121482</id>
+      <parentid>121416</parentid>
+      <timestamp>2016-10-14T05:54:04Z</timestamp>
+      <contributor>
+        <username>Trauenbaum</username>
+        <id>5394</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2595" id="127057" />
+      <sha1>72o5tgrqmhb2hivic7wkq9duy063zsf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Liste foon d&#229;t wr&#229;&#229;l&#229;rw</title>
+    <ns>0</ns>
+    <id>16519</id>
+    <revision>
+      <id>119044</id>
+      <timestamp>2016-07-09T21:55:56Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>stomp</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="82" id="124604" />
+      <sha1>plnlbaxa7ae8oe91e6pdgp7iocgtr0s</sha1>
+    </revision>
+    <revision>
+      <id>119045</id>
+      <parentid>119044</parentid>
+      <timestamp>2016-07-09T21:59:06Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="122" id="124605" />
+      <sha1>t3xfp2cx2p6l84o0851hoz8s90g5ijg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Benutzer Diskussion:Trauenbaum</title>
+    <ns>3</ns>
+    <id>16757</id>
+    <revision>
+      <id>119302</id>
+      <timestamp>2016-07-11T21:36:27Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>welkimen</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="125" id="124862" />
+      <sha1>cftq8x2tlrmd53ari2ak30uv9f30e0m</sha1>
+    </revision>
+    <revision>
+      <id>120363</id>
+      <parentid>119302</parentid>
+      <timestamp>2016-08-26T08:56:01Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>Roubaix</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="448" id="125939" />
+      <sha1>a3gp2tqjkpvmjngwj0xz5s3dm6q5z47</sha1>
+    </revision>
+    <revision>
+      <id>120366</id>
+      <parentid>120363</parentid>
+      <timestamp>2016-08-26T20:14:49Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="470" id="125942" />
+      <sha1>0zadls6w4h3kvtugt23ueugs9gme8o8</sha1>
+    </revision>
+    <revision>
+      <id>120370</id>
+      <parentid>120366</parentid>
+      <timestamp>2016-08-27T07:46:06Z</timestamp>
+      <contributor>
+        <username>Trauenbaum</username>
+        <id>5394</id>
+      </contributor>
+      <comment>/* Roubaix */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="663" id="125946" />
+      <sha1>tnlek0q85co6bwmhaz0po6l0i3r3zps</sha1>
+    </revision>
+    <revision>
+      <id>120371</id>
+      <parentid>120370</parentid>
+      <timestamp>2016-08-27T07:48:28Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>thx</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="849" id="125947" />
+      <sha1>bbdfhgmcf5d0xmxai8bcltl495f5u36</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Benutzer Diskussion:Matiia</title>
+    <ns>3</ns>
+    <id>16758</id>
+    <revision>
+      <id>119303</id>
+      <timestamp>2016-07-11T21:41:42Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>thx</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="301" id="124863" />
+      <sha1>9wvrk4gl2e9swgelpgworpezzzq66ux</sha1>
+    </revision>
+    <revision>
+      <id>119304</id>
+      <parentid>119303</parentid>
+      <timestamp>2016-07-11T21:42:10Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="301" id="124864" />
+      <sha1>eex3oyht9uf1oo7hdxcvi9813c5qiwq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Genoom</title>
+    <ns>0</ns>
+    <id>16760</id>
+    <redirect title="Geen" />
+    <revision>
+      <id>119313</id>
+      <timestamp>2016-07-12T16:06:03Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>Sidj tu [[Geen]] widjerfeerd</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="18" id="124873" />
+      <sha1>97ihlrp4xdfu9qt3rrfm87hq8w6fkq1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ixodida</title>
+    <ns>0</ns>
+    <id>16761</id>
+    <redirect title="Teg" />
+    <revision>
+      <id>119314</id>
+      <timestamp>2016-07-12T16:09:47Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>Sidj tu [[Tegen]] widjerfeerd</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="19" id="124874" />
+      <sha1>o1n1gu89x8ei1xrr0ofm5trdyw99nag</sha1>
+    </revision>
+    <revision>
+      <id>119325</id>
+      <parentid>119314</parentid>
+      <timestamp>2016-07-15T00:46:05Z</timestamp>
+      <contributor>
+        <username>Xqbot</username>
+        <id>57</id>
+      </contributor>
+      <minor />
+      <comment>Bot: Ferbeedre dobelt widjerfeerang tu [[Teg]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="22" id="124885" />
+      <sha1>pob92s38ebjwm5czw1incabwmciao18</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategorie:Seiten, die ung&#252;ltige selbstschlie&#223;ende HTML-Tags verwenden</title>
+    <ns>14</ns>
+    <id>16762</id>
+    <revision>
+      <id>119327</id>
+      <timestamp>2016-07-15T16:01:26Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>nei</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="28" id="124887" />
+      <sha1>ey4c836p1ey5e3u15xgtweev1tyzw2u</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>DPANN sk&#246;&#246;l</title>
+    <ns>0</ns>
+    <id>16763</id>
+    <revision>
+      <id>119333</id>
+      <timestamp>2016-07-16T22:21:05Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>nei</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1443" id="124893" />
+      <sha1>ihqp3aejm8prhqojbmqgbs1y014bcqz</sha1>
+    </revision>
+    <revision>
+      <id>119334</id>
+      <parentid>119333</parentid>
+      <timestamp>2016-07-16T22:29:43Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1572" id="124894" />
+      <sha1>dnijuixycel9supdg9p6d28hnjc8a5r</sha1>
+    </revision>
+    <revision>
+      <id>119338</id>
+      <parentid>119334</parentid>
+      <timestamp>2016-07-16T22:40:12Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <comment>HC: Nem wech [[Kategorie:Bakteerien]]; Du diartu [[Kategorie:Uurbakteerien]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1575" id="124898" />
+      <sha1>d1dnziotacolrqod7o9b2ucfiokpdkv</sha1>
+    </revision>
+    <revision>
+      <id>119339</id>
+      <parentid>119338</parentid>
+      <timestamp>2016-07-16T22:40:20Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <comment>HC: Nem wech [[Kategorie:Biologii]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1552" id="124899" />
+      <sha1>2gfp0vno77027r7690hku2egpwfki6p</sha1>
+    </revision>
+    <revision>
+      <id>119342</id>
+      <parentid>119339</parentid>
+      <timestamp>2016-07-17T05:55:45Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1553" id="124902" />
+      <sha1>dp66kl5zk89r195tkojhx6fmll48lao</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Nanoarchaeota</title>
+    <ns>0</ns>
+    <id>16764</id>
+    <revision>
+      <id>119335</id>
+      <timestamp>2016-07-16T22:35:56Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>nei</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1377" id="124895" />
+      <sha1>3klsjmhx25k51z6el93nk4bgpdrxcw1</sha1>
+    </revision>
+    <revision>
+      <id>119340</id>
+      <parentid>119335</parentid>
+      <timestamp>2016-07-16T22:40:31Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <comment>HC: Nem wech [[Kategorie:Biologii]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1354" id="124900" />
+      <sha1>dkq6brvdulde302siuw4dso6jjixo40</sha1>
+    </revision>
+    <revision>
+      <id>119341</id>
+      <parentid>119340</parentid>
+      <timestamp>2016-07-16T22:40:40Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <comment>HC: Nem wech [[Kategorie:Bakteerien]]; Du diartu [[Kategorie:Uurbakteerien]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1357" id="124901" />
+      <sha1>8lyqpn95c6z45wubyf6vi50otxrck62</sha1>
+    </revision>
+    <revision>
+      <id>119352</id>
+      <parentid>119341</parentid>
+      <timestamp>2016-07-17T15:48:45Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1361" id="124912" />
+      <sha1>may7zk4m1fkyjsfj5d0roye79lp37jg</sha1>
+    </revision>
+    <revision>
+      <id>119674</id>
+      <parentid>119352</parentid>
+      <timestamp>2016-07-31T21:22:27Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1361" id="125250" />
+      <sha1>t14fh1a5ecfg5wibt3xllt3tei77sd5</sha1>
+    </revision>
+    <revision>
+      <id>119675</id>
+      <parentid>119674</parentid>
+      <timestamp>2016-07-31T21:26:21Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1364" id="125251" />
+      <sha1>moirabrtfk3bucwd52748jjsy58zx5y</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategorie:Uurbakteerien</title>
+    <ns>14</ns>
+    <id>16765</id>
+    <revision>
+      <id>119337</id>
+      <timestamp>2016-07-16T22:38:16Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>nei</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="22" id="124897" />
+      <sha1>cedlti9zc52yxcaly7zjd4f3heof7ue</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Prokariot</title>
+    <ns>0</ns>
+    <id>16766</id>
+    <redirect title="Prokarioten" />
+    <revision>
+      <id>119351</id>
+      <timestamp>2016-07-17T13:59:22Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>Sidj tu [[Prokarioten]] widjerfeerd</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="25" id="124911" />
+      <sha1>7s2qdx5eqbskmp09tqwhk7om63o6owi</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Riiwel</title>
+    <ns>0</ns>
+    <id>16767</id>
+    <revision>
+      <id>119354</id>
+      <timestamp>2016-07-18T08:25:37Z</timestamp>
+      <contributor>
+        <username>Marschmensch</username>
+        <id>33</id>
+      </contributor>
+      <comment>&#214;nliar</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1382" id="124914" />
+      <sha1>ql3ltfky3m2wpg1ddk77956hgjji1l6</sha1>
+    </revision>
+    <revision>
+      <id>119356</id>
+      <parentid>119354</parentid>
+      <timestamp>2016-07-18T08:27:07Z</timestamp>
+      <contributor>
+        <username>Marschmensch</username>
+        <id>33</id>
+      </contributor>
+      <comment>Navi &#246;npaset</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1401" id="124916" />
+      <sha1>t0wsyv5d1jxdyuwvhwxktjqcpfvuyha</sha1>
+    </revision>
+    <revision>
+      <id>119358</id>
+      <parentid>119356</parentid>
+      <timestamp>2016-07-18T08:35:55Z</timestamp>
+      <contributor>
+        <username>Marschmensch</username>
+        <id>33</id>
+      </contributor>
+      <comment>Wat bit&#246;</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1858" id="124918" />
+      <sha1>byv1tg0n5ogzqyse2umy5qxptei22sz</sha1>
+    </revision>
+    <revision>
+      <id>119359</id>
+      <parentid>119358</parentid>
+      <timestamp>2016-07-18T08:36:41Z</timestamp>
+      <contributor>
+        <username>Marschmensch</username>
+        <id>33</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1857" id="124919" />
+      <sha1>kninrr5gmo5e3ndf1poh74hk9anbr6c</sha1>
+    </revision>
+    <revision>
+      <id>119360</id>
+      <parentid>119359</parentid>
+      <timestamp>2016-07-18T08:38:20Z</timestamp>
+      <contributor>
+        <username>Marschmensch</username>
+        <id>33</id>
+      </contributor>
+      <comment>/* Wat em fan Riiwels maaki ken */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1937" id="124920" />
+      <sha1>bi7rwo77ddly51a6vmdxsozaiductib</sha1>
+    </revision>
+    <revision>
+      <id>119361</id>
+      <parentid>119360</parentid>
+      <timestamp>2016-07-18T08:41:57Z</timestamp>
+      <contributor>
+        <username>Marschmensch</username>
+        <id>33</id>
+      </contributor>
+      <minor />
+      <comment>/* B&#257;richt */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1938" id="124921" />
+      <sha1>fp8qf6frcyh3gehcp5emhuavxclzrgs</sha1>
+    </revision>
+    <revision>
+      <id>119362</id>
+      <parentid>119361</parentid>
+      <timestamp>2016-07-18T12:32:06Z</timestamp>
+      <contributor>
+        <ip>84.144.151.224</ip>
+      </contributor>
+      <comment>/* Wat em fan Riiwels maaki ken */ wat bit&#246;/MM</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2050" id="124922" />
+      <sha1>aqgdb4ksg8oahj9fs5ct4yenss65i9u</sha1>
+    </revision>
+    <revision>
+      <id>119371</id>
+      <parentid>119362</parentid>
+      <timestamp>2016-07-18T20:29:43Z</timestamp>
+      <contributor>
+        <username>Marschmensch</username>
+        <id>33</id>
+      </contributor>
+      <comment>/* Bekeenti Slacher */ Stechelsbiar korigiaret</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2078" id="124931" />
+      <sha1>45pkhmjkakytno39bdi3x8skw1h8q9a</sha1>
+    </revision>
+    <revision>
+      <id>119403</id>
+      <parentid>119371</parentid>
+      <timestamp>2016-07-22T21:51:48Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2074" id="124969" />
+      <sha1>qrcxpjf9d7i5mnkq2ctix4cdbqpoimm</sha1>
+    </revision>
+    <revision>
+      <id>119406</id>
+      <parentid>119403</parentid>
+      <timestamp>2016-07-22T21:54:44Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2073" id="124972" />
+      <sha1>rzqs6qaakiv3d15bvgjgycr2czzspzs</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Johannisbeere</title>
+    <ns>0</ns>
+    <id>16768</id>
+    <redirect title="Riiwel" />
+    <revision>
+      <id>119357</id>
+      <timestamp>2016-07-18T08:28:26Z</timestamp>
+      <contributor>
+        <username>Marschmensch</username>
+        <id>33</id>
+      </contributor>
+      <comment>Redirection</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="19" id="124917" />
+      <sha1>e4t60xtvqnm459zkbpfu9vec7pztk7j</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Solbai</title>
+    <ns>0</ns>
+    <id>16769</id>
+    <revision>
+      <id>119373</id>
+      <timestamp>2016-07-19T14:50:58Z</timestamp>
+      <contributor>
+        <username>Marschmensch</username>
+        <id>33</id>
+      </contributor>
+      <comment>&#214;nliar</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1255" id="124933" />
+      <sha1>s7gpqgk4uu09etuqdo5pk21bs5v3wsr</sha1>
+    </revision>
+    <revision>
+      <id>119374</id>
+      <parentid>119373</parentid>
+      <timestamp>2016-07-19T14:53:00Z</timestamp>
+      <contributor>
+        <username>Marschmensch</username>
+        <id>33</id>
+      </contributor>
+      <comment>Navi</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1610" id="124934" />
+      <sha1>lo4o1pyvndmqg2qp4uq9gcflqgrs6gp</sha1>
+    </revision>
+    <revision>
+      <id>119389</id>
+      <parentid>119374</parentid>
+      <timestamp>2016-07-21T19:22:53Z</timestamp>
+      <contributor>
+        <username>Marschmensch</username>
+        <id>33</id>
+      </contributor>
+      <comment>Navi korigiaret</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1610" id="124953" />
+      <sha1>i3vqfduituts49wlfxvy4051gke9u68</sha1>
+    </revision>
+    <revision>
+      <id>119402</id>
+      <parentid>119389</parentid>
+      <timestamp>2016-07-22T21:47:08Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1600" id="124968" />
+      <sha1>ot4obfeinc3yjxnoqnmhr4ij0tabdj8</sha1>
+    </revision>
+    <revision>
+      <id>119409</id>
+      <parentid>119402</parentid>
+      <timestamp>2016-07-22T22:05:23Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1603" id="124975" />
+      <sha1>gbm4ltyqgn40izddlt0oy3cbyiiclw8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Riibels</title>
+    <ns>0</ns>
+    <id>16770</id>
+    <redirect title="Riiwel" />
+    <revision>
+      <id>119376</id>
+      <timestamp>2016-07-19T14:58:50Z</timestamp>
+      <contributor>
+        <username>Marschmensch</username>
+        <id>33</id>
+      </contributor>
+      <comment>Redirection</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="20" id="124936" />
+      <sha1>55mbx4nscabqpnvdlz7fu18w4xka2wh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Radieschen</title>
+    <ns>0</ns>
+    <id>16771</id>
+    <redirect title="Radiisken" />
+    <revision>
+      <id>119383</id>
+      <timestamp>2016-07-21T07:54:13Z</timestamp>
+      <contributor>
+        <username>Marschmensch</username>
+        <id>33</id>
+      </contributor>
+      <comment>Redirection</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="23" id="124945" />
+      <sha1>1fa625dwit5jb7fgb5pe2x6r1ujkeav</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kelerswinj</title>
+    <ns>0</ns>
+    <id>16772</id>
+    <revision>
+      <id>119385</id>
+      <timestamp>2016-07-21T19:03:24Z</timestamp>
+      <contributor>
+        <username>Marschmensch</username>
+        <id>33</id>
+      </contributor>
+      <comment>&#214;nliar</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="364" id="124949" />
+      <sha1>toljflh3s8t4kqfqbnqy9uw97tp1b7k</sha1>
+    </revision>
+    <revision>
+      <id>119387</id>
+      <parentid>119385</parentid>
+      <timestamp>2016-07-21T19:11:16Z</timestamp>
+      <contributor>
+        <username>Marschmensch</username>
+        <id>33</id>
+      </contributor>
+      <comment>&#214;nliar</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1667" id="124951" />
+      <sha1>8ixxu0nxbln46hhrixvxgpxlxj2exci</sha1>
+    </revision>
+    <revision>
+      <id>119388</id>
+      <parentid>119387</parentid>
+      <timestamp>2016-07-21T19:17:59Z</timestamp>
+      <contributor>
+        <username>Marschmensch</username>
+        <id>33</id>
+      </contributor>
+      <comment>Ik h&#246;&#246;pi, dat et n&#252; slaaget...</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1669" id="124952" />
+      <sha1>p659o93hjmbbef34q7zk9ri34k127g4</sha1>
+    </revision>
+    <revision>
+      <id>119397</id>
+      <parentid>119388</parentid>
+      <timestamp>2016-07-22T21:36:48Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1644" id="124963" />
+      <sha1>64ihavqc8iamp5tyo4glcgjgytu53za</sha1>
+    </revision>
+    <revision>
+      <id>119400</id>
+      <parentid>119397</parentid>
+      <timestamp>2016-07-22T21:41:12Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1644" id="124966" />
+      <sha1>mkqyrr2s94l8drnutlg73nqdxq7uikg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Stekelsbiar</title>
+    <ns>0</ns>
+    <id>16773</id>
+    <revision>
+      <id>119390</id>
+      <timestamp>2016-07-21T19:33:47Z</timestamp>
+      <contributor>
+        <username>Marschmensch</username>
+        <id>33</id>
+      </contributor>
+      <comment>&#214;nliar</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2703" id="124954" />
+      <sha1>gqfek7r5k0ou5jw6qxf9r14r9m12ycy</sha1>
+    </revision>
+    <revision>
+      <id>119391</id>
+      <parentid>119390</parentid>
+      <timestamp>2016-07-21T19:34:59Z</timestamp>
+      <contributor>
+        <username>Marschmensch</username>
+        <id>33</id>
+      </contributor>
+      <minor />
+      <comment>/* Suurten */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2703" id="124955" />
+      <sha1>174yonss9fboy31w2xaxd2b6wqrtlpc</sha1>
+    </revision>
+    <revision>
+      <id>119392</id>
+      <parentid>119391</parentid>
+      <timestamp>2016-07-21T19:36:47Z</timestamp>
+      <contributor>
+        <username>Marschmensch</username>
+        <id>33</id>
+      </contributor>
+      <comment>Jit wat</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2706" id="124956" />
+      <sha1>hyz7vr7c4ymbt8wfrb04i7fq7ony9q8</sha1>
+    </revision>
+    <revision>
+      <id>119393</id>
+      <parentid>119392</parentid>
+      <timestamp>2016-07-21T19:38:20Z</timestamp>
+      <contributor>
+        <username>Marschmensch</username>
+        <id>33</id>
+      </contributor>
+      <minor />
+      <comment>/* Wertighair */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2723" id="124957" />
+      <sha1>r9i8dma4fepyovgh5yhage5mf50hwet</sha1>
+    </revision>
+    <revision>
+      <id>119394</id>
+      <parentid>119393</parentid>
+      <timestamp>2016-07-21T19:39:03Z</timestamp>
+      <contributor>
+        <username>Marschmensch</username>
+        <id>33</id>
+      </contributor>
+      <minor />
+      <comment>/* Wertighair */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2733" id="124958" />
+      <sha1>cbz3jvoz8rsyvd7mo10rfyyx54umlz6</sha1>
+    </revision>
+    <revision>
+      <id>119401</id>
+      <parentid>119394</parentid>
+      <timestamp>2016-07-22T21:44:24Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2725" id="124967" />
+      <sha1>t6dbgwnl0fuiptb1pa46sfus0ac9213</sha1>
+    </revision>
+    <revision>
+      <id>119408</id>
+      <parentid>119401</parentid>
+      <timestamp>2016-07-22T22:04:35Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2728" id="124974" />
+      <sha1>skxgrbiruwzild116qqqijbgteuas5o</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategorie:Kraben</title>
+    <ns>14</ns>
+    <id>16774</id>
+    <revision>
+      <id>119398</id>
+      <timestamp>2016-07-22T21:39:13Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>Det sidj as nei uunlaanj wurden: "[[Kategorie:Diirter]]"</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="21" id="124964" />
+      <sha1>0hwtfv7jr9w9kw4hghz21ffx4j9pm5q</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategorie:Diirter</title>
+    <ns>14</ns>
+    <id>16775</id>
+    <revision>
+      <id>119399</id>
+      <timestamp>2016-07-22T21:39:34Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>Det sidj as nei uunlaanj wurden: "[[Kategorie:Biologii]]"</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="22" id="124965" />
+      <sha1>cedlti9zc52yxcaly7zjd4f3heof7ue</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Anthony Trollope</title>
+    <ns>0</ns>
+    <id>16776</id>
+    <revision>
+      <id>119434</id>
+      <timestamp>2016-07-30T02:27:03Z</timestamp>
+      <contributor>
+        <username>Vedac13</username>
+        <id>4909</id>
+      </contributor>
+      <comment>Det sidj as nei uunlaanj wurden: "'''Anthony Trollope''' (* 24 april [[1815]], &#8224; 6 deetsember [[1882]], uun [[London]]) wiar ian faan d&#246;n uunsenst ingels dachtern faan det nj&#252;&#252;gentanjst j&#8230;"</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="172" id="125010" />
+      <sha1>kdp4d3dthjkfzw6fk180j42idzeebab</sha1>
+    </revision>
+    <revision>
+      <id>119435</id>
+      <parentid>119434</parentid>
+      <timestamp>2016-07-30T02:30:34Z</timestamp>
+      <contributor>
+        <username>Vedac13</username>
+        <id>4909</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="504" id="125011" />
+      <sha1>eipfine5o0b9b4uy8dwnmxk15m26e3q</sha1>
+    </revision>
+    <revision>
+      <id>119436</id>
+      <parentid>119435</parentid>
+      <timestamp>2016-07-30T02:32:56Z</timestamp>
+      <contributor>
+        <username>Vedac13</username>
+        <id>4909</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="492" id="125012" />
+      <sha1>1xm1q4qaad4c7vobh8fb6e54j0psxn4</sha1>
+    </revision>
+    <revision>
+      <id>119516</id>
+      <parentid>119436</parentid>
+      <timestamp>2016-07-31T00:22:18Z</timestamp>
+      <contributor>
+        <username>Vedac13</username>
+        <id>4909</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="516" id="125092" />
+      <sha1>jpjhn7nk4inur72jokpjg3f60muyunn</sha1>
+    </revision>
+    <revision>
+      <id>119587</id>
+      <parentid>119516</parentid>
+      <timestamp>2016-07-31T06:14:48Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <comment>maskulinum</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="557" id="125163" />
+      <sha1>75mjc6jawcl7f9s6tqacwmm4h59n53r</sha1>
+    </revision>
+    <revision>
+      <id>119608</id>
+      <parentid>119587</parentid>
+      <timestamp>2016-07-31T10:08:49Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="559" id="125184" />
+      <sha1>mle5gsdqj39ahxm69qvjxl1wno03u1g</sha1>
+    </revision>
+    <revision>
+      <id>123071</id>
+      <parentid>119608</parentid>
+      <timestamp>2016-11-27T05:16:11Z</timestamp>
+      <contributor>
+        <username>Vedac13</username>
+        <id>4909</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="994" id="128664" />
+      <sha1>ktisn6vaoyblhltbhth7ubtawyo807r</sha1>
+    </revision>
+    <revision>
+      <id>123072</id>
+      <parentid>123071</parentid>
+      <timestamp>2016-11-27T05:17:09Z</timestamp>
+      <contributor>
+        <username>Vedac13</username>
+        <id>4909</id>
+      </contributor>
+      <comment>/* Leewent */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1024" id="128665" />
+      <sha1>qkeodyhkuqoiy8v803r6j21r905xhrl</sha1>
+    </revision>
+    <revision>
+      <id>123073</id>
+      <parentid>123072</parentid>
+      <timestamp>2016-11-27T05:17:52Z</timestamp>
+      <contributor>
+        <username>Vedac13</username>
+        <id>4909</id>
+      </contributor>
+      <comment>/* Leewent */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1024" id="128666" />
+      <sha1>bmiijk56egxktfwatwza2o1ni56uum1</sha1>
+    </revision>
+    <revision>
+      <id>123074</id>
+      <parentid>123073</parentid>
+      <timestamp>2016-11-27T05:19:18Z</timestamp>
+      <contributor>
+        <username>Vedac13</username>
+        <id>4909</id>
+      </contributor>
+      <comment>/* Leewent */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5655" id="128667" />
+      <sha1>4xbohut6wkp6pk1f8lx59oz0r1cdtuw</sha1>
+    </revision>
+    <revision>
+      <id>123075</id>
+      <parentid>123074</parentid>
+      <timestamp>2016-11-27T05:20:03Z</timestamp>
+      <contributor>
+        <username>Vedac13</username>
+        <id>4909</id>
+      </contributor>
+      <comment>/* List faan werken */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5600" id="128668" />
+      <sha1>sifwljto7x0pedjsp30e8ztnn4h3962</sha1>
+    </revision>
+    <revision>
+      <id>123076</id>
+      <parentid>123075</parentid>
+      <timestamp>2016-11-27T05:21:22Z</timestamp>
+      <contributor>
+        <username>Vedac13</username>
+        <id>4909</id>
+      </contributor>
+      <comment>/* List faan werken */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5561" id="128669" />
+      <sha1>onyyplkhky62v4qg6eu5jh50d7b8ggt</sha1>
+    </revision>
+    <revision>
+      <id>123077</id>
+      <parentid>123076</parentid>
+      <timestamp>2016-11-27T05:22:04Z</timestamp>
+      <contributor>
+        <username>Vedac13</username>
+        <id>4909</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5635" id="128670" />
+      <sha1>q8wzeknqpf9xsd72dyjzc7kk42ld31t</sha1>
+    </revision>
+    <revision>
+      <id>123078</id>
+      <parentid>123077</parentid>
+      <timestamp>2016-11-27T05:22:48Z</timestamp>
+      <contributor>
+        <username>Vedac13</username>
+        <id>4909</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5626" id="128671" />
+      <sha1>a30b5xhziavx67q5zyf9l39x7lpgk0o</sha1>
+    </revision>
+    <revision>
+      <id>123079</id>
+      <parentid>123078</parentid>
+      <timestamp>2016-11-27T05:25:25Z</timestamp>
+      <contributor>
+        <username>Vedac13</username>
+        <id>4909</id>
+      </contributor>
+      <comment>/* List faan werken */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5629" id="128672" />
+      <sha1>8mkakapjscp11tohwraf9rzpl31ic8w</sha1>
+    </revision>
+    <revision>
+      <id>123080</id>
+      <parentid>123079</parentid>
+      <timestamp>2016-11-27T05:26:06Z</timestamp>
+      <contributor>
+        <username>Vedac13</username>
+        <id>4909</id>
+      </contributor>
+      <comment>/* List faan werken */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5630" id="128673" />
+      <sha1>iw18daz1fnfmnay6stxhii0v64t5voy</sha1>
+    </revision>
+    <revision>
+      <id>123081</id>
+      <parentid>123080</parentid>
+      <timestamp>2016-11-27T05:30:01Z</timestamp>
+      <contributor>
+        <username>Vedac13</username>
+        <id>4909</id>
+      </contributor>
+      <comment>/* List faan werken */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5658" id="128674" />
+      <sha1>5jlc0p9c2ywrw5k95y718z8usmtr29e</sha1>
+    </revision>
+    <revision>
+      <id>123082</id>
+      <parentid>123081</parentid>
+      <timestamp>2016-11-27T05:31:46Z</timestamp>
+      <contributor>
+        <username>Vedac13</username>
+        <id>4909</id>
+      </contributor>
+      <comment>/* List faan werken */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5683" id="128675" />
+      <sha1>4vhyfhwihcw175n1ynzu52wi4rpyl98</sha1>
+    </revision>
+    <revision>
+      <id>123083</id>
+      <parentid>123082</parentid>
+      <timestamp>2016-11-27T05:35:27Z</timestamp>
+      <contributor>
+        <username>Vedac13</username>
+        <id>4909</id>
+      </contributor>
+      <comment>/* List faan werken */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5773" id="128676" />
+      <sha1>kicdp0h49tsvhd8bnl2sw1jwmm93p8v</sha1>
+    </revision>
+    <revision>
+      <id>123084</id>
+      <parentid>123083</parentid>
+      <timestamp>2016-11-27T05:36:48Z</timestamp>
+      <contributor>
+        <username>Vedac13</username>
+        <id>4909</id>
+      </contributor>
+      <comment>/* List faan werken */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5786" id="128677" />
+      <sha1>am3nxi0prm3y1x2hchrp664cx986kqk</sha1>
+    </revision>
+    <revision>
+      <id>123085</id>
+      <parentid>123084</parentid>
+      <timestamp>2016-11-27T05:37:08Z</timestamp>
+      <contributor>
+        <username>Vedac13</username>
+        <id>4909</id>
+      </contributor>
+      <comment>/* List faan werken */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5669" id="128678" />
+      <sha1>670lxla70ea6kvqm2f70lw9e4zgb5w0</sha1>
+    </revision>
+    <revision>
+      <id>123086</id>
+      <parentid>123085</parentid>
+      <timestamp>2016-11-27T05:37:38Z</timestamp>
+      <contributor>
+        <username>Vedac13</username>
+        <id>4909</id>
+      </contributor>
+      <comment>/* List faan werken */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5657" id="128679" />
+      <sha1>490psdqzlq217wmd87yi5wjjd2u0msr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>1771</title>
+    <ns>0</ns>
+    <id>16777</id>
+    <revision>
+      <id>119444</id>
+      <timestamp>2016-07-30T05:25:04Z</timestamp>
+      <contributor>
+        <username>Vedac13</username>
+        <id>4909</id>
+      </contributor>
+      <comment>Det sidj as nei uunlaanj wurden: "{{Juar}}"</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="8" id="125020" />
+      <sha1>9m6efobs2reetsg9qtav3bf8t8mwtdv</sha1>
+    </revision>
+    <revision>
+      <id>119445</id>
+      <parentid>119444</parentid>
+      <timestamp>2016-07-30T05:26:19Z</timestamp>
+      <contributor>
+        <username>Vedac13</username>
+        <id>4909</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="117" id="125021" />
+      <sha1>2nl6cvlu99brk9wdj6xvyno5xftfzg7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>George Bass</title>
+    <ns>0</ns>
+    <id>16778</id>
+    <revision>
+      <id>119448</id>
+      <timestamp>2016-07-30T05:33:02Z</timestamp>
+      <contributor>
+        <username>Vedac13</username>
+        <id>4909</id>
+      </contributor>
+      <comment>Det sidj as nei uunlaanj wurden: "'''George Bass''' (* 30. janewoore [[1771]] in [[Aswarby]], [[Lincolnshire]], [[Ingelun]]; &#8224; [[1803]]) wiar en ingelsken forsker."</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="131" id="125024" />
+      <sha1>bm0m8tx13mysordiver79wer95mx1tz</sha1>
+    </revision>
+    <revision>
+      <id>119463</id>
+      <parentid>119448</parentid>
+      <timestamp>2016-07-30T06:27:23Z</timestamp>
+      <contributor>
+        <username>Vedac13</username>
+        <id>4909</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="143" id="125039" />
+      <sha1>85otd9dwg5e8dx65fi903ewh97gbjds</sha1>
+    </revision>
+    <revision>
+      <id>119512</id>
+      <parentid>119463</parentid>
+      <timestamp>2016-07-31T00:17:13Z</timestamp>
+      <contributor>
+        <username>Vedac13</username>
+        <id>4909</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="170" id="125088" />
+      <sha1>j5uk3txyffmh3ssy80rui2l6azyxwyy</sha1>
+    </revision>
+    <revision>
+      <id>119607</id>
+      <parentid>119512</parentid>
+      <timestamp>2016-07-31T10:07:25Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="225" id="125183" />
+      <sha1>qp2260ck6zo2icmj9c2h26j5wezh3pp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>1762</title>
+    <ns>0</ns>
+    <id>16779</id>
+    <revision>
+      <id>119449</id>
+      <timestamp>2016-07-30T05:38:41Z</timestamp>
+      <contributor>
+        <username>Vedac13</username>
+        <id>4909</id>
+      </contributor>
+      <comment>Det sidj as nei uunlaanj wurden: "{{juar}}"</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="8" id="125025" />
+      <sha1>tf65sm5vvz5h8eis3o8bz63s69coph1</sha1>
+    </revision>
+    <revision>
+      <id>119450</id>
+      <parentid>119449</parentid>
+      <timestamp>2016-07-30T05:41:42Z</timestamp>
+      <contributor>
+        <username>Vedac13</username>
+        <id>4909</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="151" id="125026" />
+      <sha1>gfv3g3mxibduufrlt5hbsjwroymcx9t</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Lachlan Macquarie</title>
+    <ns>0</ns>
+    <id>16780</id>
+    <revision>
+      <id>119451</id>
+      <timestamp>2016-07-30T05:42:32Z</timestamp>
+      <contributor>
+        <username>Vedac13</username>
+        <id>4909</id>
+      </contributor>
+      <comment>Det sidj as nei uunlaanj wurden: "'''Lachlan Macquarie''' (* 31. janewoore [[1762]] &#252;&#252;b det [[Isle of Mull]], ian eilun faan d&#246;n [[Hebriden]]); &#8224; 1. Juli [[1824]] uun [[London]]) wiar faan&#8230;"</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="219" id="125027" />
+      <sha1>lpeb8rapvsa2iv45kli26nyg7an3pcd</sha1>
+    </revision>
+    <revision>
+      <id>119452</id>
+      <parentid>119451</parentid>
+      <timestamp>2016-07-30T05:43:23Z</timestamp>
+      <contributor>
+        <username>Vedac13</username>
+        <id>4909</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="219" id="125028" />
+      <sha1>ko24goucvbyx93llmu7s05qb072mogc</sha1>
+    </revision>
+    <revision>
+      <id>119454</id>
+      <parentid>119452</parentid>
+      <timestamp>2016-07-30T05:49:11Z</timestamp>
+      <contributor>
+        <username>Vedac13</username>
+        <id>4909</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="222" id="125030" />
+      <sha1>n4gsv2bslezxd1wge1yued1gwb94qt3</sha1>
+    </revision>
+    <revision>
+      <id>119462</id>
+      <parentid>119454</parentid>
+      <timestamp>2016-07-30T06:26:49Z</timestamp>
+      <contributor>
+        <username>Vedac13</username>
+        <id>4909</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="234" id="125038" />
+      <sha1>cedpsvazca273rsf49rn0zjsfxxdqxf</sha1>
+    </revision>
+    <revision>
+      <id>119513</id>
+      <parentid>119462</parentid>
+      <timestamp>2016-07-31T00:18:05Z</timestamp>
+      <contributor>
+        <username>Vedac13</username>
+        <id>4909</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="261" id="125089" />
+      <sha1>nxywbjf7xc2sxxfx5jkchskhu0yonma</sha1>
+    </revision>
+    <revision>
+      <id>119514</id>
+      <parentid>119513</parentid>
+      <timestamp>2016-07-31T00:18:43Z</timestamp>
+      <contributor>
+        <username>Vedac13</username>
+        <id>4909</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="260" id="125090" />
+      <sha1>snjsa7r2606h6y3ehu1jyzuft3nk0ut</sha1>
+    </revision>
+    <revision>
+      <id>119609</id>
+      <parentid>119514</parentid>
+      <timestamp>2016-07-31T10:11:08Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="320" id="125185" />
+      <sha1>ncadmtz271p6e96yn773kblj8e2xy0w</sha1>
+    </revision>
+    <revision>
+      <id>120569</id>
+      <parentid>119609</parentid>
+      <timestamp>2016-09-17T06:42:06Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="345" id="126143" />
+      <sha1>4iyxv7tc3u74e613kx20l1ksoggj54z</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Arthur Phillip</title>
+    <ns>0</ns>
+    <id>16781</id>
+    <revision>
+      <id>119456</id>
+      <timestamp>2016-07-30T06:12:38Z</timestamp>
+      <contributor>
+        <username>Vedac13</username>
+        <id>4909</id>
+      </contributor>
+      <comment>Det sidj as nei uunlaanj wurden: "'''Arthur Phillip''' (* 11. oktuuber [[1738]]; &#8224; 31. august [[1814]]) wiar ofsiar bi a britisken mariine an de iarst Guvern&#246;&#246;r faan [[New South Wales]]."</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="156" id="125032" />
+      <sha1>soki81mhc6hhwh4htlnl99jhyv4df2b</sha1>
+    </revision>
+    <revision>
+      <id>119457</id>
+      <parentid>119456</parentid>
+      <timestamp>2016-07-30T06:14:33Z</timestamp>
+      <contributor>
+        <username>Vedac13</username>
+        <id>4909</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="176" id="125033" />
+      <sha1>hw47khjfk56nmka9d4zooyf6h8n6cw6</sha1>
+    </revision>
+    <revision>
+      <id>119464</id>
+      <parentid>119457</parentid>
+      <timestamp>2016-07-30T06:27:54Z</timestamp>
+      <contributor>
+        <username>Vedac13</username>
+        <id>4909</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="188" id="125040" />
+      <sha1>9dy0suj17glsg1kepbubwq9tlpdbeuu</sha1>
+    </revision>
+    <revision>
+      <id>119511</id>
+      <parentid>119464</parentid>
+      <timestamp>2016-07-31T00:16:34Z</timestamp>
+      <contributor>
+        <username>Vedac13</username>
+        <id>4909</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="215" id="125087" />
+      <sha1>eud7vargda3xszp56jts5eo50ciitcf</sha1>
+    </revision>
+    <revision>
+      <id>119610</id>
+      <parentid>119511</parentid>
+      <timestamp>2016-07-31T10:12:24Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="272" id="125186" />
+      <sha1>jbzutxikct7d27kkg7k4ws6adi202dg</sha1>
+    </revision>
+    <revision>
+      <id>120430</id>
+      <parentid>119610</parentid>
+      <timestamp>2016-09-08T20:13:09Z</timestamp>
+      <contributor>
+        <username>Drewes</username>
+        <id>6321</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="318" id="126004" />
+      <sha1>j5vxgs5e6bpsj80axa5x4pg78n2b0aa</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Philip Gidley King</title>
+    <ns>0</ns>
+    <id>16782</id>
+    <revision>
+      <id>119460</id>
+      <timestamp>2016-07-30T06:25:43Z</timestamp>
+      <contributor>
+        <username>Vedac13</username>
+        <id>4909</id>
+      </contributor>
+      <comment>Det sidj as nei uunlaanj wurden: "'''Philip Gidley King''' (* 23. april [[1758]] uun [[Launceston]], [[Cornwall]], [[Ingelun]]; &#8224; 3. september [[1808]]) wiar koptein bi a britisk mariine an de&#8230;"</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="204" id="125036" />
+      <sha1>89q5f3wdbg84v2653vp2gcy97lgv2uh</sha1>
+    </revision>
+    <revision>
+      <id>119461</id>
+      <parentid>119460</parentid>
+      <timestamp>2016-07-30T06:26:19Z</timestamp>
+      <contributor>
+        <username>Vedac13</username>
+        <id>4909</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="216" id="125037" />
+      <sha1>jntjpikx0t1anlsjwqs19pe3ojxqq72</sha1>
+    </revision>
+    <revision>
+      <id>119515</id>
+      <parentid>119461</parentid>
+      <timestamp>2016-07-31T00:19:39Z</timestamp>
+      <contributor>
+        <username>Vedac13</username>
+        <id>4909</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="243" id="125091" />
+      <sha1>owlf5g7in0t4thhljojpvr6tdd6c957</sha1>
+    </revision>
+    <revision>
+      <id>119611</id>
+      <parentid>119515</parentid>
+      <timestamp>2016-07-31T10:13:34Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="297" id="125187" />
+      <sha1>i8w1xlexgezzzhxs5z0ilbc2e625fgc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Edmund Barton</title>
+    <ns>0</ns>
+    <id>16783</id>
+    <revision>
+      <id>119466</id>
+      <timestamp>2016-07-30T06:36:02Z</timestamp>
+      <contributor>
+        <username>Vedac13</username>
+        <id>4909</id>
+      </contributor>
+      <comment>Det sidj as nei uunlaanj wurden: "'''Edmund Barton''', (* 18. janewoore [[1849]] uun [[Sydney]], [[New South Wales]], [[Austraalien]]; &#8224; 7. [[janewoore]] 1920 uun [[Medlow Bath]], New South&#8230;"</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="256" id="125042" />
+      <sha1>7hos1n2uiw50tdm27we4udfwcx39wmn</sha1>
+    </revision>
+    <revision>
+      <id>119467</id>
+      <parentid>119466</parentid>
+      <timestamp>2016-07-30T06:36:43Z</timestamp>
+      <contributor>
+        <username>Vedac13</username>
+        <id>4909</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="256" id="125043" />
+      <sha1>56d7ujtu6sq9k852xj8u49p5k0ebgks</sha1>
+    </revision>
+    <revision>
+      <id>119572</id>
+      <parentid>119467</parentid>
+      <timestamp>2016-07-31T05:01:19Z</timestamp>
+      <contributor>
+        <username>Vedac13</username>
+        <id>4909</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="295" id="125148" />
+      <sha1>b1jiz30a6rmvwev5bzw941b215uldkq</sha1>
+    </revision>
+    <revision>
+      <id>119573</id>
+      <parentid>119572</parentid>
+      <timestamp>2016-07-31T05:01:46Z</timestamp>
+      <contributor>
+        <username>Vedac13</username>
+        <id>4909</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="296" id="125149" />
+      <sha1>cl8bngpzsln0fmwycwpcinsnqbpho3t</sha1>
+    </revision>
+    <revision>
+      <id>119574</id>
+      <parentid>119573</parentid>
+      <timestamp>2016-07-31T05:04:29Z</timestamp>
+      <contributor>
+        <username>Vedac13</username>
+        <id>4909</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="355" id="125150" />
+      <sha1>dry3nhszj1um432k7r0vurrl0eok94x</sha1>
+    </revision>
+    <revision>
+      <id>119575</id>
+      <parentid>119574</parentid>
+      <timestamp>2016-07-31T05:25:11Z</timestamp>
+      <contributor>
+        <username>Vedac13</username>
+        <id>4909</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="803" id="125151" />
+      <sha1>s5csmxrg45q81bn1ri08nfrr3ehlw5l</sha1>
+    </revision>
+    <revision>
+      <id>119576</id>
+      <parentid>119575</parentid>
+      <timestamp>2016-07-31T05:26:27Z</timestamp>
+      <contributor>
+        <username>Vedac13</username>
+        <id>4909</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="817" id="125152" />
+      <sha1>09bonq2iwbb82ea32ln02760typhljj</sha1>
+    </revision>
+    <revision>
+      <id>119577</id>
+      <parentid>119576</parentid>
+      <timestamp>2016-07-31T05:27:31Z</timestamp>
+      <contributor>
+        <username>Vedac13</username>
+        <id>4909</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="827" id="125153" />
+      <sha1>kg3gknpom2p3e4q2ynakr6ihr800y26</sha1>
+    </revision>
+    <revision>
+      <id>119578</id>
+      <parentid>119577</parentid>
+      <timestamp>2016-07-31T05:31:32Z</timestamp>
+      <contributor>
+        <username>Vedac13</username>
+        <id>4909</id>
+      </contributor>
+      <comment>/* Leewent */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="902" id="125154" />
+      <sha1>oqf8ntqt960u45oj10sgn48imu4aoy1</sha1>
+    </revision>
+    <revision>
+      <id>119579</id>
+      <parentid>119578</parentid>
+      <timestamp>2016-07-31T05:33:15Z</timestamp>
+      <contributor>
+        <username>Vedac13</username>
+        <id>4909</id>
+      </contributor>
+      <comment>/* Leewent */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="926" id="125155" />
+      <sha1>tq57u0wpwdp3f5b2unpanr4i9t6xbvr</sha1>
+    </revision>
+    <revision>
+      <id>119580</id>
+      <parentid>119579</parentid>
+      <timestamp>2016-07-31T05:39:04Z</timestamp>
+      <contributor>
+        <username>Vedac13</username>
+        <id>4909</id>
+      </contributor>
+      <comment>/* Premierminister */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1036" id="125156" />
+      <sha1>ahni2dx9qacityup7gvnusghe0urtmx</sha1>
+    </revision>
+    <revision>
+      <id>119581</id>
+      <parentid>119580</parentid>
+      <timestamp>2016-07-31T05:39:53Z</timestamp>
+      <contributor>
+        <username>Vedac13</username>
+        <id>4909</id>
+      </contributor>
+      <comment>/* Premierminister */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1025" id="125157" />
+      <sha1>g78lsseb4b3owick133n7pkf9snntx8</sha1>
+    </revision>
+    <revision>
+      <id>119582</id>
+      <parentid>119581</parentid>
+      <timestamp>2016-07-31T05:40:51Z</timestamp>
+      <contributor>
+        <username>Vedac13</username>
+        <id>4909</id>
+      </contributor>
+      <comment>/* Premierminister */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1047" id="125158" />
+      <sha1>73dsmi5zogfw2wwsfgvlp23s6ec2jv4</sha1>
+    </revision>
+    <revision>
+      <id>119583</id>
+      <parentid>119582</parentid>
+      <timestamp>2016-07-31T05:47:01Z</timestamp>
+      <contributor>
+        <username>Vedac13</username>
+        <id>4909</id>
+      </contributor>
+      <comment>/* Leewent */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1083" id="125159" />
+      <sha1>q6muftautpx0bv9ia0coqnws68tjkn5</sha1>
+    </revision>
+    <revision>
+      <id>119584</id>
+      <parentid>119583</parentid>
+      <timestamp>2016-07-31T05:52:40Z</timestamp>
+      <contributor>
+        <username>Vedac13</username>
+        <id>4909</id>
+      </contributor>
+      <comment>/* Premierminister */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1185" id="125160" />
+      <sha1>h6sg4ndkwh4gxng2sstsfpkxc4nqpfj</sha1>
+    </revision>
+    <revision>
+      <id>119585</id>
+      <parentid>119584</parentid>
+      <timestamp>2016-07-31T05:53:21Z</timestamp>
+      <contributor>
+        <username>Vedac13</username>
+        <id>4909</id>
+      </contributor>
+      <comment>/* Premierminister */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1181" id="125161" />
+      <sha1>2r6u7r861b0ddv1oa1f7n3xqf4c4a2q</sha1>
+    </revision>
+    <revision>
+      <id>119586</id>
+      <parentid>119585</parentid>
+      <timestamp>2016-07-31T05:56:03Z</timestamp>
+      <contributor>
+        <username>Vedac13</username>
+        <id>4909</id>
+      </contributor>
+      <comment>/* Premierminister */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1182" id="125162" />
+      <sha1>n2j4c1lvpgithzyg6tmeyt6n5anhxqv</sha1>
+    </revision>
+    <revision>
+      <id>119612</id>
+      <parentid>119586</parentid>
+      <timestamp>2016-07-31T10:16:48Z</timestamp>
+      <contributor>
+        <username>Murma174</username>
+        <id>19</id>
+      </contributor>
+      <minor />
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1239" id="125188" />
+      <sha1>j5jdu1dd23i9wdjuw78dua6xtuwv3hk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>1701</title>
+    <ns>0</ns>
+    <id>16784</id>
+    <revision>
+      <id>119469</id>
+      <timestamp>2016-07-30T06:39:58Z</timestamp>
+      <contributor>
+        <username>Vedac13</username>
+        <id>4909</id>
+      </contributor>
+      <comment>Det sidj as nei uunlaanj wurden: "{{juar}}  == Bejewenhaiden ==  == B&#228;&#228;ren ==   == St&#246;rwen =="</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="62" id="125045" />
+      <sha1>cixnng5iakpvu78fqpjr3ph1f2t7lpa</sha1>
+    </revision>
+    <revision>
+      <id>121199</id>
+      <parentid>119469</parentid>
+      <timestamp>2016-10-07T06:39:02Z</timestamp>
+      <contributor>
+        <username>Vedac13</username>
+        <id>4909</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="219" id="126774" />
+      <sha1>8d279xjeopiaeds5k9iemrjcuazulan</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>1702</title>
+    <ns>0</ns>
+    <id>16785</id>
+    <revision>
+      <id>119470</id>
+      <timestamp>2016-07-30T06:40:18Z</timestamp>
+      <contributor>
+        <username>Vedac13</username>
+        <id>4909</id>
+      </contributor>
+      <comment>Det sidj as nei uunlaanj wurden: "{{juar}}  == Bejewenhaiden ==  == B&#228;&#228;ren ==   == St&#246;rwen =="</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="62" id="125046" />
+      <sha1>cixnng5iakpvu78fqpjr3ph1f2t7lpa</sha1>
+    </revision>
+    <revision>
+      <id>121200</id>
+      <parentid>119470</parentid>
+      <timestamp>2016-10-07T06:39:52Z</timestamp>
+      <contributor>
+        <username>Vedac13</username>
+        <id>4909</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="228" id="126775" />
+      <sha1>t7sde1o6ov62z1y3gm35jfe27qkt7ce</sha1>
+    </revision>
+    <revision>
+      <id>121202</id>
+      <parentid>121200</parentid>
+      <timestamp>2016-10-07T06:41:00Z</timestamp>
+      <contributor>
+        <username>Vedac13</username>
+        <id>4909</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="221" id="126777" />
+      <sha1>hyy76r8r28u0dgc8ysdv5387q7mavgc</sha1>
+    </revision>
+    <revision>
+      <id>122173</id>
+      <parentid>121202</parentid>
+      <timestamp>2016-11-07T05:19:20Z</timestamp>
+      <contributor>
+        <username>Vedac13</username>
+        <id>4909</id>
+      </contributor>
+      <comment>/* Bejewenhaiden &#8211; Feerfaole &#8211; Forf&#229;le &#8211; Fuarfalen */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="325" id="127752" />
+      <sha1>bcavrv9b8oukdrdy9yq9h0hdtek50q0</sha1>
+    </revision>
+    <revision>
+      <id>122174</id>
+      <parentid>122173</parentid>
+      <timestamp>2016-11-07T05:20:55Z</timestamp>
+      <contributor>
+        <username>Vedac13</username>
+        <id>4909</id>
+      </contributor>
+      <comment>/* Bejewenhaiden &#8211; Feerfaole &#8211; Forf&#229;le &#8211; Fuarfalen */</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="334" id="127753" />
+      <sha1>23j3tokrbkt4kt0nc6s4h8rngh2z65y</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>1704</title>
+    <ns>0</ns>
+    <id>16786</id>
+    <revision>
+      <id>119472</id>
+      <timestamp>2016-07-30T06:40:58Z</timestamp>
+      <contributor>
+        <username>Vedac13</username>
+        <id>4909</id>
+      </contributor>
+      <comment>Det sidj as nei uunlaanj wurden: "{{juar}}  == Bejewenhaiden ==  == B&#228;&#228;ren ==   == St&#246;rwen =="</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="62" id="125048" />
+      <sha1>cixnng5iakpvu78fqpjr3ph1f2t7lpa</sha1>
+    </revision>
+    <revision>
+      <id>121203</id>
+      <parentid>119472</parentid>
+      <timestamp>2016-10-07T06:42:02Z</timestamp>
+      <contributor>
+        <username>Vedac13</username>
+        <id>4909</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="222" id="126778" />
+      <sha1>0bjjua7yyvc37n9z3cthbxh1tm9oqfs</sha1>
+    </revision>
+  </page>
+  
+</mediawiki>
