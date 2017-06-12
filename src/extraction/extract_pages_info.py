@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-from xml.dom.minidom import parse
-import xml.dom.minidom
+
+import xml.etree.ElementTree as ET
 from datetime import datetime
 import os
 import sys
@@ -12,17 +12,120 @@ sys.setdefaultencoding('utf8')
 
 
 class Extract(object):
-    """docstring for ClassName"""
+
     def __init__(self):
         super(Extract, self).__init__()
-        #self.StrIputData = "../../data/input/historiques_pages.xml"
         self.StrPathInput="../../data/input/"
         self.FilesList= os.listdir(self.StrPathInput)
-        self.StrIputData="../../data/input/stub-meta-history.xml"
-        self.StrIputData="../../data/input/dump_hist_1.xml"
-        self.StrOutputpagesInfos="../../data/output/extract_pages_infos.xml"
-        self.contents_pages()
+        self.StrOutputpagesInfos="../../data/output/extract_pages_infos.csv"
+        self.StrOutputpagesInfos2="../../data/output/gen_mat_page_usr1.csv"
+        self.StrOutputpagesInfos3="../../data/output/gen_mat_page_listusr.txt"
+        self.StrOutputpagesInfos4="../../data/output/gen_mat_usr_lpage.txt"
+        #self.contents_pages()
+        #self.gen_mat_page_usr1()
+        #self.gen_mat_page_listusr()
+        self.gen_mat_usr_lpage()
 
+    def gen_mat_page_usr1(self):
+        lusernames={}
+
+        for filename in self.FilesList:
+            if filename.endswith(".xml"):
+                tree = ET.parse(self.StrPathInput+filename, "utf-8")
+                root = tree.getroot()
+
+                for page in root.findall("page"):
+                    lrevisions= page.findall("revision")
+                    for revision in lrevisions:
+                        contributor= revision.find("contributor")
+                        username = self.extract_userid(contributor)
+
+                        if not (lusernames.has_key(username)):
+                            lusernames[username]=0
+
+        with open(self.StrOutputpagesInfos2, 'w+') as file:
+            strattr="title"
+            for key in lusernames:
+                strattr+=",idusr_"+str(key)
+            strattr+="\n"
+            file.write(strattr)
+            for filename in self.FilesList:
+                if filename.endswith(".xml"):
+                    tree = ET.parse(self.StrPathInput+filename)
+                    root = tree.getroot()
+
+                    strcontent_page=""
+                    
+                    
+                    for page in root.findall("page"):
+                        for key in lusernames.keys():
+                            lusernames[key]= 0
+                        
+                        lrevisions= page.findall("revision")
+                        for revision in lrevisions:
+                            contributor= revision.find("contributor")
+                            username = self.extract_userid(contributor)
+                            lusernames[username]+=1
+
+                        str_mat_page_usr= page.find('title').text
+                        for val in lusernames.values():
+                            str_mat_page_usr+=","+str(val)
+                        str_mat_page_usr+="\n"
+                        file.write(str_mat_page_usr)
+
+
+    def gen_mat_page_listusr(self):
+        with open(self.StrOutputpagesInfos3, 'w+') as file:
+            for filename in self.FilesList:
+                if filename.endswith(".xml"):
+                    tree = ET.parse(self.StrPathInput+filename)
+                    root = tree.getroot()
+
+                    for page in root.findall("page"):
+                        luserid=[]
+                        lrevisions= page.findall("revision")
+                        for revision in lrevisions:
+                            contributor= revision.find("contributor")
+                            userid = str(self.extract_userid(contributor))
+
+                            if not(("user_"+userid) in luserid):
+                                luserid.append("user_"+userid)
+                        title=page.find('title').text
+                        file.write(title+"=["+",".join(luserid)+"]\n")
+  
+
+    def gen_mat_usr_lpage(self):
+
+        with open(self.StrOutputpagesInfos4, 'w+') as file:
+            luserid=[]
+            for filename in self.FilesList:
+                if filename.endswith(".xml"):
+                    tree = ET.parse(self.StrPathInput+filename)
+                    root = tree.getroot()
+
+                    strcontent_page=""
+                    
+                    for page in root.findall("page"):
+                        title= page.find('title').text
+                        pageid= "page_"+str(page.find('id').text)
+                        lrevisions= page.findall("revision")
+
+                        for revision in lrevisions:
+                            contributor= revision.find("contributor")
+                            userid = "user_"+str(self.extract_userid(contributor))
+
+                            if userid !="user_None":
+                                if any(userid in elem for elem in luserid):
+                                    for item in range(0,len(luserid)):
+                                        if luserid[item].has_key(userid):
+                                            value = luserid[item][userid].append(pageid)
+                                            break
+                                else:
+                                    new_dict={}
+                                    new_dict[userid]= [pageid]
+                                    luserid.append(new_dict)
+
+            file.write("\n\n".join(str(item) for item in luserid))
 
 
     def contents_pages(self):
@@ -32,20 +135,20 @@ class Extract(object):
             file.write(strattr)
             for filename in self.FilesList:
                 if filename.endswith(".xml"):
-                    DOMTree = xml.dom.minidom.parse(self.StrPathInput+filename)
-                    collection = DOMTree.documentElement
-                    lpages= collection.getElementsByTagName("page")
+                    tree = ET.parse(self.StrPathInput+filename)
+                    root = tree.getroot()
 
                     strcontent_page=""
                     
                     
-                    for page in lpages:
+                    for page in root.findall("page"):
                         lusernames=[]
                         luserids=[]
-                        pageid= self.extract_pageid(page)
-                        titre= self.extract_title(page)
-                        
-                        lrevisions= self.extract_revision(page)
+
+                        pageid= page.find('id').text
+                        titre= page.find('title').text
+                        lrevisions= page.findall("revision")
+
 
                         strcontent_page+=pageid+","+titre+","+str(len(lrevisions))
                         n=0
@@ -73,12 +176,19 @@ class Extract(object):
                             if time_rev=="":
                                 time_rev= self.extract_time_create(revision)
 
-                            nb_bytes+= self.extract_bytes(revision)
-                            nb_minor+= self.extract_minor(revision)
-                            
-                            contributor = self.extract_contributor(revision)
+                            type_bytes= revision.find("text").get("bytes")
+                            if type_bytes is not None:
+                                nb_bytes += int(type_bytes)
+
+                            minor= revision.find("minor")
+                            if minor != None:
+                                nb_minor+= 1
+
+                            contributor= revision.find("contributor")
                             username = self.extract_username(contributor)
-                            if not(username in lusernames):
+
+
+                            if not(username in lusernames) and (username != None):
                                 lusernames.append(username)
 
                         strcontent_page+=","+str(len(lusernames))+","+str(nb_bytes)+","+str(nb_minor)+","\
@@ -86,26 +196,14 @@ class Extract(object):
                         file.write(strcontent_page)
                         strcontent_page=""
                             
-
         file.close()
 
 
 
-
-    def extract_title(self, page):
-        title = page.getElementsByTagName('title')[0]
-        return title.childNodes[0].data
-
-    def extract_pageid(self, page):
-        id_page = page.getElementsByTagName('id')[0]
-        return id_page.childNodes[0].data
-
-    def extract_revision(self, page):
-        return page.getElementsByTagName('revision')
-
     def extract_moment_rev(self, revision):
-        time_rev = revision.getElementsByTagName('timestamp')[0]
-        strdate= time_rev.childNodes[0].data
+
+        strdate= revision.find("timestamp").text
+
         #2015-07-22T00:45:43Z
         dt = datetime.strptime(strdate, "%Y-%m-%dT%H:%M:%SZ")
         hour = dt.hour
@@ -122,35 +220,27 @@ class Extract(object):
 
 
     def extract_time_create(self, revision):
-        time_rev = revision.getElementsByTagName('timestamp')[0]
-        strdate= time_rev.childNodes[0].data
+        strdate= revision.find("timestamp").text
         #2015-07-22T00:45:43Z
         dt = datetime.strptime(strdate, "%Y-%m-%dT%H:%M:%SZ")
         strdt = dt.strftime("%Y,%B,%A")
         return strdt
 
-    def extract_contributor(self, revision):
-        return revision.getElementsByTagName('contributor')[0]
-
-    def extract_bytes(self, revision):
-        text= revision.getElementsByTagName('text')[0]
-        bytes_rev= text.attributes["bytes"] 
-        return int(bytes_rev.value)
-
-    def extract_minor(self, revision):
-        if len(revision.getElementsByTagName('minor')) != 0:
-            return 1
-        else:
-            return 0
-
+    def extract_userid(self, contributor):
+        if contributor.find('id') != None:
+            return contributor.find('id').text
+        elif contributor.find('ip')!=None:
+            return contributor.find('ip').text 
+        return None    
+    
     def extract_username(self, contributor):
 
-        if len(contributor.getElementsByTagName('username')) != 0:
-            username = contributor.getElementsByTagName('username')[0]
-            return username.childNodes[0].data
+        if contributor.find('username') != None:
+            return contributor.find('username').text
+        elif contributor.find("ip") != None:
+            return contributor.find("ip").text
         else:
-            userip = contributor.getElementsByTagName('ip')[0]
-            return userip.childNodes[0].data
+            return None
 
 
 Extract()
