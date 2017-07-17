@@ -21,17 +21,17 @@ class Extract(object):
         self.StrOutputpagesInfos2="../../data/output/gen_mat_page_usr1.csv"
         self.StrOutputpagesInfos3="../../data/output/gen_mat_page_listusr.txt"
         self.StrOutputpagesInfos4="../../data/output/gen_mat_usr_lpage.txt"
-        #self.contents_pages()
+        self.contents_pages()
         #self.gen_mat_page_usr1()
         #self.gen_mat_page_listusr()
-        self.gen_mat_usr_lpage()
+        #self.gen_mat_usr_lpage()
 
     def gen_mat_page_usr1(self):
         lusernames={}
 
         for filename in self.FilesList:
             if filename.endswith(".xml"):
-                tree = ET.parse(self.StrPathInput+filename, "utf-8")
+                tree = ET.parse(self.StrPathInput+filename)
                 root = tree.getroot()
 
                 for page in root.findall("page"):
@@ -72,6 +72,7 @@ class Extract(object):
                             str_mat_page_usr+=","+str(val)
                         str_mat_page_usr+="\n"
                         file.write(str_mat_page_usr)
+            file.close()
 
 
     def gen_mat_page_listusr(self):
@@ -92,6 +93,7 @@ class Extract(object):
                                 luserid.append("user_"+userid)
                         title=page.find('title').text
                         file.write(title+"=["+",".join(luserid)+"]\n")
+            file.close()
   
 
     def gen_mat_usr_lpage(self):
@@ -126,6 +128,7 @@ class Extract(object):
                                     luserid.append(new_dict)
 
             file.write("\n\n".join(str(item) for item in luserid))
+            file.close()
 
 
     def contents_pages(self):
@@ -147,10 +150,12 @@ class Extract(object):
 
                         pageid= page.find('id').text
                         titre= page.find('title').text
+                        titre= titre.replace(",", "_")
                         lrevisions= page.findall("revision")
+                        nb_revision= len(lrevisions)
 
 
-                        strcontent_page+=pageid+","+titre+","+str(len(lrevisions))
+                        strcontent_page+=pageid+","+titre+","+str(nb_revision)
                         n=0
                         time_rev=""
                         nb_bytes=0
@@ -191,12 +196,18 @@ class Extract(object):
                             if not(username in lusernames) and (username != None):
                                 lusernames.append(username)
 
+                        nb_minor= float(nb_minor) / float(nb_revision)
+                        nb_bytes= float(nb_minor) / float(nb_revision)
+                        nb_night= float(nb_night) / float(nb_revision)
+                        nb_morning= float(nb_morning) / float(nb_revision)
+                        nb_afternoon= float(nb_afternoon) / float(nb_revision)
+                        nb_evening= float(nb_evening) / float(nb_revision)
                         strcontent_page+=","+str(len(lusernames))+","+str(nb_bytes)+","+str(nb_minor)+","\
                         +str(nb_night)+","+str(nb_morning)+","+str(nb_afternoon)+","+str(nb_evening)+","+time_rev+"\n"
                         file.write(strcontent_page)
                         strcontent_page=""
                             
-        file.close()
+            file.close()
 
 
 
