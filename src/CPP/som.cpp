@@ -14,15 +14,16 @@ Som::Som(vector<vector<double>> data, int nb_iteration, int nb_voisin)
     init_size_carte(Constants.LenData);
     create_carte(data);
     normalise_data();
-    //affiche1();
+    affiche1();
     //affiche2();
     cout<<endl<<"data.size()= "<<data.size()<<endl;
     cout<<"XCarte= "<<Constants.XCarte<<" ; YCarte= "<<Constants.YCarte<<endl;
 
     calc_moyenne();
-    gen_vecteur(0.02, 0.9, 100);
+    gen_vecteur(0.02, 0.95, 100);
 
     training();
+    affiche1();
 
 
 }
@@ -122,7 +123,7 @@ void Som::calc_moyenne()
 
     cout<<"Moyenne"<<endl;
     for(int d=0; d< Constants.LenVec;d++){
-        TabMoyenne[d]/=Constants.LenVec;
+        TabMoyenne[d]/=Constants.LenData;
         cout<<TabMoyenne[d]<<" ";
     }
     cout<<endl<<endl;
@@ -141,10 +142,10 @@ void Som::gen_vecteur(double ecart_max, double ecart_min, int taille)
             double min = TabMoyenne[d] + ecart_min;
             double val= (((double)rand() / (double)RAND_MAX) * (max - min)) + min;
             vec.push_back(val);
-            cout << val<<" ";
+            //cout << val<<" ";
         }
         InputData.push_back(vec);
-        cout<<endl;
+        //cout<<endl;
     }
 
 }
@@ -173,9 +174,9 @@ void  Som::swap_indice(int taille){
         TabSwapIndice[d_2]= tmp;
     }
 
-    for(int elem=0;elem< taille;elem++){
+    /*for(int elem=0;elem< taille;elem++){
         cout << TabSwapIndice[elem]<<" ";
-    }
+    }*/
 }
 
 
@@ -188,13 +189,14 @@ double Som::calc_distance(vector<double> vec1, vector<double> vec2)
     for(int d =0; d < Constants.LenVec; d++){
         distance +=pow((vec1[d] -vec2[d]), 2.0);
     }
-    return distance;
+    //cout<<"somdist= "<<distance<<" sqrt= "<<sqrt(distance)<<endl;
+    return sqrt(distance);
 }
 
 
 
 
-void Som::bmu(vector<double> vec)
+double Som::bmu(vector<double> vec)
 {
     //vector<double> listDistance;
     double dist_old= 0.0;
@@ -204,7 +206,7 @@ void Som::bmu(vector<double> vec)
     for(int x_c =0; x_c < Constants.XCarte; x_c++){
         for(int y_c=0; y_c < Constants.YCarte; y_c++){
             dist_new= calc_distance(Carte[x_c][y_c].vec, vec);
-            
+            //cout<<"old= "<<dist_old<<" et new= "<<dist_new<<endl;
             if(dist_new < dist_old){
                 dist_old= dist_new;
                 Constants.XWinner= x_c;
@@ -221,13 +223,14 @@ void Som::bmu(vector<double> vec)
 
     }
 
-    cout<<"Winner ( "<<Constants.XWinner<<" - "<<Constants.YWinner<<" )"<<endl;
+    //cout<<"Winner ( "<<Constants.XWinner<<" - "<<Constants.YWinner<<" )"<<endl;
 
     //listDistance.push_back(dist);
 
     //sort(listDistance.begin(), listDistance.end());
     //for(unsigned int i = 0; i < listDistance.size(); i++)
     //   cout << listDistance.at(i) << '\n';
+    return dist_new;
 }
 
 
@@ -244,7 +247,7 @@ void Som::epoch(vector<double> input_data, int lim_rect_voisin)
 
     if(lim_rect_voisin > 0){
 
-        bmu(input_data);
+        double diff = bmu(input_data);
 
 
         for(int x_c= Constants.XWinner - lim_rect_voisin; x_c <= Constants.YWinner + lim_rect_voisin; x_c++){
@@ -255,6 +258,11 @@ void Som::epoch(vector<double> input_data, int lim_rect_voisin)
                         double distance = calc_distance(
                             Carte[Constants.XWinner][Constants.YWinner].vec, 
                             Carte[x_c][y_c].vec);
+                        double alpha= abs(distance - diff);
+
+
+
+                       // cout<<"alpha "<<alpha<<" et dist= "<<distance<<endl;
                         /*for(int i=0; i<Constants.LenVec; i++)
                             cout<<Carte[x_c][y_c].vec[i]<<" ";
                         cout<<" avant "<<endl;*/
@@ -282,7 +290,7 @@ void Som::training()
     while(iteration < Constants.MaxIteration){
 
         swap_indice(Constants.LenDataGen);
-        cout<<endl<<"----------------------------------------------------------"<<endl;
+        //cout<<endl<<"----------------------------------------------------------"<<endl;
         for(int index=0; index< TabSwapIndice.size(); index++){
 
             epoch(InputData[index], Constants.MaxVoisin);

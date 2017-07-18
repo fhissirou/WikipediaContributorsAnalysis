@@ -9,7 +9,7 @@ int main(int args, char *argv[]){
     Load load(strPathfileExtract, 10);
     //load.readFile();
 
-    Som som(load.readFile(), 500,10);
+    Som som(load.readFile(), 3600,20);
 
     return 0;
 }

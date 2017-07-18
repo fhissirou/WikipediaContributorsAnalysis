@@ -60,7 +60,7 @@ class Som{
         void gen_vecteur(double ecart_max, double ecart_min, int taille);
         void swap_indice(int taille);
         
-        void bmu(vector<double> vec);
+        double bmu(vector<double> vec);
         vector<double> update_weights(vector<double> vec1, vector<double> input_vec2, double distance, double coeff);
         void epoch(vector<double> input_data, int max_voisin);
         void training();
