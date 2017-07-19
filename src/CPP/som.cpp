@@ -300,8 +300,8 @@ void Som::training()
         compt_voisin++;
         if(compt_voisin > pas){
             this->Constants.MaxVoisin--;
-            compt_voisin= 0;
             cout<<"compt_voisin= "<<compt_voisin<<endl;
+            compt_voisin= 0;
         }
 
     }
