@@ -297,8 +297,9 @@ void Som::training()
         }
 
         iteration++;
+        compt_voisin++;
         if(compt_voisin > pas){
-            this->Constants.MaxIteration--;
+            this->Constants.MaxVoisin--;
             compt_voisin= 0;
             cout<<"compt_voisin= "<<compt_voisin<<endl;
         }

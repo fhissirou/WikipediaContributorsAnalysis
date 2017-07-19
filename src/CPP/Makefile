@@ -6,7 +6,7 @@ LIBS= -lm -g -pthread
 #LDFLAGS= -lSDL -lGL -lGLU 
 EXEC= exec
 
-$(EXEC):    $(OBJ) load.h som.h
+$(EXEC):	$(OBJ) load.h som.h
 	$(CC) -o $@ $(OBJ) $(LIBS)
 
 %.o:	%.c

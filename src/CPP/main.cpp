@@ -29,7 +29,7 @@ int main(int args, char *argv[]){
         }
 
         cout<<"Starting threads SOM "<< nb+1<<endl;
-        threads_som.push_back(thread(&Som::runs,&allsom[nb], data, 2500, 40));
+        threads_som.push_back(thread(&Som::runs,&allsom[nb], data, 800, 8));
         nb++;       
     }
     for(int d=0; d<threads_som.size(); d++)
