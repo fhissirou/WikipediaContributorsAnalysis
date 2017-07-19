@@ -27,25 +27,18 @@ string Load::getFilename(){
 }
 
 
-vector<vector<double>> Load::readFile(){
+vector<vector<double> > Load::readFile(){
 	string str;
 	fstream file(Filename);
-	int lim_data= 2500;
 	vector<vector<double>> data;
 	char delims[] = ",";
 	if (file.is_open()){
-		int n= 0;
-		int len_data=0;
 		int first= 1;
 
 		while ( getline (file,str) ){
 			if (first == 1)
 				first= -1;
 			else{
-
-				if(++len_data > lim_data)
-					break;
-
 				char *token = strtok((char*)(str.c_str()), delims);
 				vector<double> vecteur;
 				int elem=0;

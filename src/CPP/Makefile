@@ -2,7 +2,7 @@ CC=g++
 SRC= main.cpp load.cpp som.cpp
 OBJ=$(SRC:.cpp=.o)
 FLAGS=-Wall
-LIBS= -lm -g
+LIBS= -lm -g -pthread
 #LDFLAGS= -lSDL -lGL -lGLU 
 EXEC= exec
 

@@ -25,7 +25,7 @@ class Load{
         void setFilename(string str);
         string getFilename();
 
-        vector<vector<double>> readFile();
+        vector<vector<double> > readFile();
 
 };
 

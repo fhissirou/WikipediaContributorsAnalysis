@@ -1,14 +1,19 @@
 #ifndef Som_H
 #define Som_H
 
+
 #include <iostream>
 #include <vector>
 #include <algorithm>
 #include <cmath>
 #include <cstdlib>
-#include <iomanip>  
+#include <iomanip> 
+#include <mutex>  
+#include <thread>
 
 using namespace std;
+
+
 
 struct VarConst{
 
@@ -37,8 +42,6 @@ typedef struct Node Node;
 
 class Som{
     private:
-        int MaxCol;
-        int MaxLigne;
         vector<double> TabMoyenne;
         vector<double> TabSwapIndice;
         vector<vector<double>> InputData;
@@ -48,7 +51,7 @@ class Som{
 
     public:
         Som();
-        Som(vector<vector<double> > data, int nb_iteration, int nb_voisin);
+        void runs(vector<vector<double> > data, int nb_iteration, int nb_voisin);
         void affiche1();
         void affiche2();
         void init_size_carte(int val);
