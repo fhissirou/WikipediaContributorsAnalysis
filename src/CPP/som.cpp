@@ -19,7 +19,7 @@ void Som::runs(vector<vector<double>> data, int nb_iteration, int nb_voisin)
     this->calc_moyenne();
     this->gen_vecteur(0.02, 0.95, 200);
     this->training();
-    affiche1();
+    this->set_alldata_activation();
 }
 
 
@@ -192,8 +192,40 @@ double Som::calc_distance(vector<double> vec1, vector<double> vec2)
     return sqrt(distance);
 }
 
+void Som::add_point(int x, int y)
+{
+    bool exist_point= false;
 
+    for(int i=0; i< this->TabIndiceActivation.size(); i++){
+        int x2= this->TabIndiceActivation[i].x;
+        int y2= this->TabIndiceActivation[i].y;
+        
+        if((x == x2) && (y == y2)){
+            exist_point= true;
+            break;
+        }
+    }
+    if(exist_point == false){
+        Point p;
+        p.x= x;
+        p.y= y;
+        this->TabIndiceActivation.push_back(p);
+    }
+}
 
+void Som::set_alldata_activation()
+{
+    for(int i=0; i< this->TabIndiceActivation.size(); i++){
+        int x= this->TabIndiceActivation[i].x;
+        int y= this->TabIndiceActivation[i].y;
+        this->TabDataActivation.push_back(this->Carte[x][y].vec);
+    }
+
+}
+
+vector<vector<double> > Som:: get_alldata_activation(){
+    return this->TabDataActivation;
+}
 
 double Som::bmu(vector<double> vec)
 {
@@ -222,13 +254,7 @@ double Som::bmu(vector<double> vec)
 
     }
 
-    //cout<<"Winner ( "<<this->Constants.XWinner<<" - "<<this->Constants.YWinner<<" )"<<endl;
-
-    //listDistance.push_back(dist);
-
-    //sort(listDistance.begin(), listDistance.end());
-    //for(unsigned int i = 0; i < listDistance.size(); i++)
-    //   cout << listDistance.at(i) << '\n';
+    this->add_point(Constants.XWinner, Constants.YWinner);
     return dist_new;
 }
 
@@ -300,7 +326,7 @@ void Som::training()
         compt_voisin++;
         if(compt_voisin > pas){
             this->Constants.MaxVoisin--;
-            cout<<"compt_voisin= "<<compt_voisin<<endl;
+            cout<<"compt_voisin= "<<Constants.MaxVoisin<<endl;
             compt_voisin= 0;
         }
 
