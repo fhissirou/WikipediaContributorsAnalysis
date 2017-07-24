@@ -3,17 +3,23 @@
 Som::Som()
 {
 }
-
-void Som::runs(vector<vector<double>> data, int nb_iteration, int nb_voisin)
+/// carte n'ont pas la meme taille de lendata et lenvec c'est le probleme a reglé
+void Som::runs(vector<vector<Node> > _map, int nb_iteration, int nb_voisin)
 {
-    this->Constants.LenData= data.size();
-    this->Constants.LenVec= data[0].size();
-    this->Constants.MaxIteration= nb_iteration;
-    this->Constants.MaxVoisin= nb_voisin;
 
-    this->init_size_carte(this->Constants.LenData);
-    this->create_carte(data);
+    this->Constants.MaxIteration= nb_iteration;
+    this->Constants.MaxVoisin= nb_voisin;    
+    this->Carte= _map;
+    this->Constants.XCarte= _map.size();
+    this->Constants.YCarte= _map[0].size();
+    this->Constants.LenVec=_map[0][0].vec.size();
+    this->Constants.LenData= this->Constants.XCarte * this->Constants.YCarte;
+
+    
+    //this->init_size_carte(this->Constants.LenData);
+    //this->create_carte(data);
     this->normalise_data();
+        cout<<this->Constants.LenData<<" LenVec= "<<this->Constants.LenVec<<endl;
     //affiche1();
     //affiche2();
     this->calc_moyenne();
@@ -23,7 +29,27 @@ void Som::runs(vector<vector<double>> data, int nb_iteration, int nb_voisin)
 }
 
 
-void Som::init_size_carte(int val){
+void Som::runs1(vector<vector<double>> data, int nb_iteration, int nb_voisin)
+{
+    this->Constants.LenData= data.size();
+    this->Constants.LenVec= data[0].size();
+    this->Constants.MaxIteration= nb_iteration;
+    this->Constants.MaxVoisin= nb_voisin;
+
+    //this->init_size_carte(this->Constants.LenData);
+    //this->create_carte(data);
+    //this->normalise_data();
+    //affiche1();
+    //affiche2();
+    this->calc_moyenne();
+    this->gen_vecteur(0.02, 0.95, 200);
+    this->training();
+    this->set_alldata_activation();
+}
+
+
+
+/*void Som::init_size_carte(int val){
 
     int  nb1= (int)sqrt(val);
     int nb2= 1 + (int)sqrt(val);
@@ -52,7 +78,7 @@ void Som::create_carte(vector<vector<double> > data){
         }
     }
 }
-
+*/
 
 void Som::affiche1()
 {

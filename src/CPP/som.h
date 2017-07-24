@@ -32,13 +32,24 @@ struct VarConst{
 };
 typedef struct VarConst VarConst;
 
+struct Colors
+{
+    double r;
+    double g;
+    double b;
+};
+typedef struct Colors Colors;
+
 struct Node
 {
     vector<double> vec;
     double act;
     string etiq;
+    Colors color;
 };
 typedef struct Node Node; 
+
+
 
 struct Point
 {
@@ -54,13 +65,14 @@ class Som{
         vector<vector<double> > InputData;
         vector<vector<double> >TabDataActivation;
         vector<Point> TabIndiceActivation;
-        Node **Carte;
+        vector<vector<Node> > Carte;
         VarConst Constants;
 
 
     public:
         Som();
-        void runs(vector<vector<double> > data, int nb_iteration, int nb_voisin);
+        void runs(vector<vector<Node> > _map, int nb_iteration, int nb_voisin);
+        void runs1(vector<vector<double> > data, int nb_iteration, int nb_voisin);
         void affiche1();
         void affiche2();
         void init_size_carte(int val);
