@@ -30,7 +30,7 @@ string Load::getFilename(){
 vector<vector<double> > Load::readFile(){
 	string str;
 	fstream file(Filename);
-	vector<vector<double>> data;
+	vector<vector<double> > data;
 	char delims[] = ",";
 	if (file.is_open()){
 		int first= 1;

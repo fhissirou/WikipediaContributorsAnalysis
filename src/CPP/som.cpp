@@ -4,7 +4,7 @@ Som::Som()
 {
 }
 /// carte n'ont pas la meme taille de lendata et lenvec c'est le probleme a reglé
-void Som::runs(vector<vector<Node> > _map, int nb_iteration, int nb_voisin)
+void Som::config(vector<vector<Node> > _map, int nb_iteration, int nb_voisin)
 {
 
     this->Constants.MaxIteration= nb_iteration;
@@ -14,38 +14,23 @@ void Som::runs(vector<vector<Node> > _map, int nb_iteration, int nb_voisin)
     this->Constants.YCarte= _map[0].size();
     this->Constants.LenVec=_map[0][0].vec.size();
     this->Constants.LenData= this->Constants.XCarte * this->Constants.YCarte;
-
+    this->Constants.LenRGB= _map[0][0].rgb.size();
+    //cout<<"coucou"<<endl;
     
     //this->init_size_carte(this->Constants.LenData);
     //this->create_carte(data);
     this->normalise_data();
-        cout<<this->Constants.LenData<<" LenVec= "<<this->Constants.LenVec<<endl;
+
     //affiche1();
     //affiche2();
     this->calc_moyenne();
+
     this->gen_vecteur(0.02, 0.95, 200);
+
     this->training();
     this->set_alldata_activation();
 }
 
-
-void Som::runs1(vector<vector<double>> data, int nb_iteration, int nb_voisin)
-{
-    this->Constants.LenData= data.size();
-    this->Constants.LenVec= data[0].size();
-    this->Constants.MaxIteration= nb_iteration;
-    this->Constants.MaxVoisin= nb_voisin;
-
-    //this->init_size_carte(this->Constants.LenData);
-    //this->create_carte(data);
-    //this->normalise_data();
-    //affiche1();
-    //affiche2();
-    this->calc_moyenne();
-    this->gen_vecteur(0.02, 0.95, 200);
-    this->training();
-    this->set_alldata_activation();
-}
 
 
 
@@ -211,7 +196,7 @@ void  Som::swap_indice(int taille){
 double Som::calc_distance(vector<double> vec1, vector<double> vec2)
 {
     double distance=0.0;
-    for(int d =0; d < this->Constants.LenVec; d++){
+    for(int d =0; d < vec1.size(); d++){
         distance +=pow((vec1[d] -vec2[d]), 2.0);
     }
     //cout<<"somdist= "<<distance<<" sqrt= "<<sqrt(distance)<<endl;
@@ -287,11 +272,12 @@ double Som::bmu(vector<double> vec)
 
 vector<double> Som::update_weights(vector<double> vec, vector<double> input_data, double distance, double coeff)
 {
-    for(int d=0; d< this->Constants.LenVec; d++){
+    for(int d=0; d< vec.size(); d++){
         vec[d] += (input_data[d] - vec[d]) * distance * coeff;
     }
     return vec;
 }
+
 
 void Som::epoch(vector<double> input_data, int lim_rect_voisin)
 {
@@ -299,17 +285,17 @@ void Som::epoch(vector<double> input_data, int lim_rect_voisin)
     if(lim_rect_voisin > 0){
 
         double diff = bmu(input_data);
-
+        
+        Node winner = this->Carte[this->Constants.XWinner][this->Constants.YWinner];
 
         for(int x_c= this->Constants.XWinner - lim_rect_voisin; x_c <= this->Constants.YWinner + lim_rect_voisin; x_c++){
             for(int y_c = this->Constants.YWinner - lim_rect_voisin; y_c <= this->Constants.YWinner + lim_rect_voisin; y_c++){
                 if((x_c >= 0) && (x_c < this->Constants.XCarte)){
                     if((y_c >= 0) && (y_c < this->Constants.YCarte)){
 
-                        double distance = this->calc_distance(
-                            this->Carte[this->Constants.XWinner][this->Constants.YWinner].vec, 
-                            this->Carte[x_c][y_c].vec);
-                        double alpha= abs(distance - diff);
+                        double distance_vec = this->calc_distance(winner.vec, this->Carte[x_c][y_c].vec);
+                        double distance_rgb = this->calc_distance(winner.rgb, this->Carte[x_c][y_c].rgb);
+                        //double alpha= abs(distance - diff);
 
 
 
@@ -317,8 +303,9 @@ void Som::epoch(vector<double> input_data, int lim_rect_voisin)
                         /*for(int i=0; i<this->Constants.LenVec; i++)
                             cout<<Carte[x_c][y_c].vec[i]<<" ";
                         cout<<" avant "<<endl;*/
-                        
-                        this->Carte[x_c][y_c].vec= update_weights(this->Carte[x_c][y_c].vec, input_data, distance, 0.06);
+
+                        this->Carte[x_c][y_c].vec= update_weights(this->Carte[x_c][y_c].vec, input_data, distance_vec, 0.2);
+                        this->Carte[x_c][y_c].rgb= update_weights(this->Carte[x_c][y_c].rgb, winner.rgb, distance_rgb, 0.2);
                         
                         /*for(int i=0; i<this->Constants.LenVec; i++)
                             cout<<Carte[x_c][y_c].vec[i]<<" ";
