@@ -270,10 +270,10 @@ double Som::bmu(vector<double> vec)
 }
 
 
-vector<double> Som::update_weights(vector<double> vec, vector<double> input_data, double distance, double coeff)
+vector<double> Som::update_weights(vector<double> vec, vector<double> input_data, double alpha, double coeff)
 {
     for(int d=0; d< vec.size(); d++){
-        vec[d] += (input_data[d] - vec[d]) * distance * coeff;
+        vec[d] += (input_data[d] - vec[d]) * alpha * coeff;
     }
     return vec;
 }
@@ -295,7 +295,7 @@ void Som::epoch(vector<double> input_data, int lim_rect_voisin)
 
                         double distance_vec = this->calc_distance(winner.vec, this->Carte[x_c][y_c].vec);
                         double distance_rgb = this->calc_distance(winner.rgb, this->Carte[x_c][y_c].rgb);
-                        //double alpha= abs(distance - diff);
+                        double alpha= abs(distance_vec - diff);
 
 
 
@@ -304,8 +304,8 @@ void Som::epoch(vector<double> input_data, int lim_rect_voisin)
                             cout<<Carte[x_c][y_c].vec[i]<<" ";
                         cout<<" avant "<<endl;*/
 
-                        this->Carte[x_c][y_c].vec= update_weights(this->Carte[x_c][y_c].vec, input_data, distance_vec, 0.2);
-                        this->Carte[x_c][y_c].rgb= update_weights(this->Carte[x_c][y_c].rgb, winner.rgb, distance_rgb, 0.2);
+                        this->Carte[x_c][y_c].vec= update_weights(this->Carte[x_c][y_c].vec, input_data, distance_vec, alpha);
+                        this->Carte[x_c][y_c].rgb= update_weights(this->Carte[x_c][y_c].rgb, winner.rgb, distance_rgb, alpha);
                         
                         /*for(int i=0; i<this->Constants.LenVec; i++)
                             cout<<Carte[x_c][y_c].vec[i]<<" ";

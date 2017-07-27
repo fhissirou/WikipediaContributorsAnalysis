@@ -27,6 +27,7 @@ vector<double> random_rgb();
 vector<vector<Node> > init_carte(vector<vector<double> > data, Point p);
 void update_map(vector<vector<Node> >& _map, vector<Som> l_som, Point taille, Point p);
 vector<vector<vector<double> > > get_rgb_matrice(vector<vector<Node> > _map);
+vector<Som> run_sous_som(vector< vector<Node> >_map, Point taille, Point p, int max_iteration, int max_voisin);
 vector<vector<vector<double> > > runs();
 
 

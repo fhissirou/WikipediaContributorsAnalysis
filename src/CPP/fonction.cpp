@@ -127,6 +127,11 @@ vector<vector<vector<double> > > get_rgb_matrice(vector<vector<Node> > _map){
    for(int i=0; i< _map.size(); i++){
     vector<vector<double> > list_vec;
     for(int j=0; j< _map[i].size(); j++){
+        vector<double> vec;
+        /*for(int k=0; k< 4; k++){
+            vec.push_back(_map[i][j].vec[k]);
+        }
+        list_vec.push_back(vec);*/
         list_vec.push_back(_map[i][j].rgb);
     }
     mat_data.push_back(list_vec);
@@ -135,15 +140,59 @@ vector<vector<vector<double> > > get_rgb_matrice(vector<vector<Node> > _map){
 }
 
 
+
+vector<Som> run_sous_som(vector< vector<Node> >_map, Point taille, Point p, int max_iteration, int max_voisin){
+    int dx=0;
+    int d=0;
+    vector<Som> all_som;
+    vector<thread> threads_som;
+    for(int i= 0; i < taille.x; i+=p.x){
+        for(int j=0; j< taille.y; j+=p.y){
+            Som s;
+            all_som.push_back(s);   
+        }
+    }
+    
+    while(dx < taille.x){
+        
+        int dy=0;
+        while(dy< taille.y){
+            int x= dx;
+            vector<vector<Node> > sous_map;
+            while((x < (dx+p.x)) && (x < taille.x) && (dy < taille.y)){
+                vector<Node> s_m;
+                int y= dy;
+                while((y < (dy+p.y)) && (y < taille.y))
+                    s_m.push_back(_map[x][y++]);
+                
+                sous_map.push_back(s_m);
+                x++;
+            }
+
+            //affiche2(_map);
+            
+            threads_som.push_back(thread(&Som::config,&all_som[d++], sous_map, max_iteration, max_voisin));
+            cout<<"Starting threads SOM "<< threads_som.size()<<endl; 
+            dy+=p.y;
+        }
+        dx+=p.x;  
+    }
+
+    for(int d=0; d<threads_som.size(); d++){
+        threads_som[d].join();
+    }
+    return all_som;
+}
+
 vector<vector<vector<double> > > runs(){
     vector<vector<double> > all_data;
     vector<vector<double> > data_hierarchical;
-    vector<thread> threads_som;
+    //vector<thread> threads_som;
     vector<Som> all_som;
     vector<vector<Node> > _map;
-    int max_voisin= 20;
-    int max_iteration= 500;
-    double len_one_som_data=1024;
+    int max_voisin= 8;
+    int max_iteration= 100;
+    double len_one_som_data=1600;
     string strPathfileExtract="../../data/output/extract_pages_infos.csv";
     
     Load load(strPathfileExtract, 10);
@@ -153,15 +202,15 @@ vector<vector<vector<double> > > runs(){
 
     cout<<"len "<<all_data.size()<<endl;
 
-    for(int i= 0; i < taille.x; i+=p.x){
+    /*for(int i= 0; i < taille.x; i+=p.x){
         for(int j=0; j< taille.y; j+=p.y){
             Som s;
             all_som.push_back(s);   
         }
-    }
+    }*/
 
     _map= init_carte(all_data, taille);
-    int dx=0;
+    /*int dx=0;
     int d=0;
     //affiche2(_map);
     //affiche_col(_map);
@@ -192,8 +241,24 @@ vector<vector<vector<double> > > runs(){
 
     for(int d=0; d<threads_som.size(); d++){
         threads_som[d].join();
+    }*/
+    Point pp = p;
+    for(int i=0; i< 10; i++){
+        all_som= run_sous_som(_map, taille, pp, max_iteration, max_voisin);
+        update_map(_map, all_som, taille, pp);
+
+        if(((pp.x+p.x) < taille.x) && ((p.y+p.y) < taille.y) ){
+            pp.x+=p.x;
+            p.y+= p.y;
+        }
+        else pp = p;
     }
-    update_map(_map, all_som, taille, p);
+
+    all_som= run_sous_som(_map, taille, taille, max_iteration, max_voisin*4);
+    update_map(_map, all_som, taille, taille);
+    
+
+
     cout<<"finale"<<endl;
     //affiche2(_map);
 

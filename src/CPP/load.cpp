@@ -31,6 +31,8 @@ vector<vector<double> > Load::readFile(){
 	string str;
 	fstream file(Filename);
 	vector<vector<double> > data;
+	double max= 0.05;
+	double min= 0.001;
 	char delims[] = ",";
 	if (file.is_open()){
 		int first= 1;
@@ -44,8 +46,13 @@ vector<vector<double> > Load::readFile(){
 				int elem=0;
 				while (token != NULL) {
 
-					if(elem >= 6 and elem < 10) 
-						vecteur.push_back(strtod(token, NULL));
+					if(elem >= 6 and elem < 10){ 
+						double valeur =  strtod(token, NULL);
+						
+						if(valeur==0.0)
+							valeur= (((double)rand() / (double)RAND_MAX) * (max - min)) + min; 
+						vecteur.push_back(valeur);
+					}
 			
 					token =strtok(NULL, delims);
 					elem++;

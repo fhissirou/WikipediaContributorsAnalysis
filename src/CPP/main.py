@@ -22,7 +22,7 @@ print("dans le python")
 
 l_x=[]
 l_y=[]
-color=[]
+l_c=[]
 taile= len(data)
 nx= 0; 
 for x in data:
@@ -31,7 +31,7 @@ for x in data:
         cc=[]
         for c in y:
             cc.append(c)
-        color.append(cc)
+        l_c.append(cc)
 
         l_y.append(ny)
         ny+=1
@@ -55,14 +55,12 @@ plt.imshow(lm, cmap=get_cmap("Spectral"), interpolation='nearest')
 plt.show()
 """
 
-
-
-x, y = np.random.random((2, 10))
-#color = np.random.random((10, 3))
-
-color= np.array(color)
+print(l_c)
+l_x= np.array(l_x)
+l_y=np.array(l_y)
+l_c= np.array(l_c)
 
 fig, ax = plt.subplots()
 
-ax.scatter(l_x, l_y,s=24, facecolors=color)
+plt.scatter(l_x, l_y,s=24, c=l_c)
 plt.show()

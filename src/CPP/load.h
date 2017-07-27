@@ -5,7 +5,8 @@
 #include <fstream>
 #include <cstring>
 #include <vector>
-#include <iomanip>  
+#include <iomanip> 
+#include <cmath> 
 
 using namespace std;
 
