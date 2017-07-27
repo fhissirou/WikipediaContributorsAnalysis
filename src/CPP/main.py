@@ -62,5 +62,5 @@ l_c= np.array(l_c)
 
 fig, ax = plt.subplots()
 
-plt.scatter(l_x, l_y,s=24, c=l_c)
+plt.scatter(l_x, l_y,s=20, c=l_c)
 plt.show()

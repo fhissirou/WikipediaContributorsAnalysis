@@ -24,9 +24,11 @@ class Som{
         VarConst Constants;
 
 
+
+
     public:
         Som();
-        void config(vector<vector<Node> > _map, int nb_iteration, int nb_voisin);
+        void config(vector<vector<Node> > _map, int nb_iteration, int t_apprentissage );
         void affiche1();
         void affiche2();
         //void init_size_carte(int val);
@@ -42,12 +44,11 @@ class Som{
         vector<vector<double> > get_alldata_activation();
         
         double bmu(vector<double> vec);
+        double get_rayon_voisinage(double iteration);
+        double get_valeur_ajustement(double dist_carre, double rayon);
         vector<double> update_weights(vector<double> vec1, vector<double> input_vec2, double distance, double coeff);
         void epoch(vector<double> input_data, int max_voisin);
         void training();
-
-
-
 
 };
 

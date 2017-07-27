@@ -18,9 +18,13 @@ struct VarConst{
     int XWinner;
     int YWinner;
 
-    int MaxIteration;
-    int MaxVoisin;
     int LenRGB;
+
+
+    double ConstTemps;
+    double RayonCarte;
+    double TauxApprentissage;
+    int MaxIteration;
 };
 typedef struct VarConst VarConst;
 

@@ -4,28 +4,30 @@ Som::Som()
 {
 }
 /// carte n'ont pas la meme taille de lendata et lenvec c'est le probleme a reglé
-void Som::config(vector<vector<Node> > _map, int nb_iteration, int nb_voisin)
+void Som::config(vector<vector<Node> > _map, int nb_iteration, int t_apprentissage )
 {
 
-    this->Constants.MaxIteration= nb_iteration;
-    this->Constants.MaxVoisin= nb_voisin;    
+    
+    //this->Constants.MaxVoisin= nb_voisin;    
     this->Carte= _map;
     this->Constants.XCarte= _map.size();
     this->Constants.YCarte= _map[0].size();
     this->Constants.LenVec=_map[0][0].vec.size();
     this->Constants.LenData= this->Constants.XCarte * this->Constants.YCarte;
     this->Constants.LenRGB= _map[0][0].rgb.size();
-    //cout<<"coucou"<<endl;
     
-    //this->init_size_carte(this->Constants.LenData);
-    //this->create_carte(data);
+    this->Constants.TauxApprentissage= t_apprentissage;
+    this->Constants.MaxIteration= nb_iteration;
+    this->Constants.RayonCarte = max(this->Constants.XCarte, this->Constants.YCarte)/2;
+    this->Constants.ConstTemps = this->Constants.MaxIteration/log(this->Constants.RayonCarte);
+    
     this->normalise_data();
 
     //affiche1();
     //affiche2();
     this->calc_moyenne();
 
-    this->gen_vecteur(0.02, 0.95, 200);
+    this->gen_vecteur(0.002, 0.95, 100);
 
     this->training();
     this->set_alldata_activation();
@@ -234,7 +236,7 @@ void Som::set_alldata_activation()
 
 }
 
-vector<vector<double> > Som:: get_alldata_activation(){
+vector<vector<double> > Som::get_alldata_activation(){
     return this->TabDataActivation;
 }
 
@@ -270,6 +272,19 @@ double Som::bmu(vector<double> vec)
 }
 
 
+double Som::get_rayon_voisinage(double iteration)
+{
+    return this->Constants.RayonCarte * exp(-iteration/this->Constants.ConstTemps);
+}
+    
+double Som::get_valeur_ajustement(double dist_carre, double rayon) 
+{
+    double rayon_carre = rayon * rayon;
+    return exp(-(dist_carre)/(2 * rayon_carre));
+}
+
+
+
 vector<double> Som::update_weights(vector<double> vec, vector<double> input_data, double alpha, double coeff)
 {
     for(int d=0; d< vec.size(); d++){
@@ -278,7 +293,7 @@ vector<double> Som::update_weights(vector<double> vec, vector<double> input_data
     return vec;
 }
 
-
+/*
 void Som::epoch(vector<double> input_data, int lim_rect_voisin)
 {
 
@@ -300,16 +315,16 @@ void Som::epoch(vector<double> input_data, int lim_rect_voisin)
 
 
                        // cout<<"alpha "<<alpha<<" et dist= "<<distance<<endl;
-                        /*for(int i=0; i<this->Constants.LenVec; i++)
-                            cout<<Carte[x_c][y_c].vec[i]<<" ";
-                        cout<<" avant "<<endl;*/
+                        //for(int i=0; i<this->Constants.LenVec; i++)
+                        //    cout<<Carte[x_c][y_c].vec[i]<<" ";
+                        //cout<<" avant "<<endl;
 
                         this->Carte[x_c][y_c].vec= update_weights(this->Carte[x_c][y_c].vec, input_data, distance_vec, alpha);
                         this->Carte[x_c][y_c].rgb= update_weights(this->Carte[x_c][y_c].rgb, winner.rgb, distance_rgb, alpha);
                         
-                        /*for(int i=0; i<this->Constants.LenVec; i++)
-                            cout<<Carte[x_c][y_c].vec[i]<<" ";
-                        cout<<" après"<<endl;*/
+                        //for(int i=0; i<this->Constants.LenVec; i++)
+                        //    cout<<Carte[x_c][y_c].vec[i]<<" ";
+                        //cout<<" après"<<endl;
 
                     }
                 }
@@ -317,31 +332,47 @@ void Som::epoch(vector<double> input_data, int lim_rect_voisin)
         }
     }
 }
-
+*/
 
 void Som::training()
 {
     int compt_voisin= 0;
     int compt= 0;
-    int pas= (int)(this->Constants.MaxIteration / this->Constants.MaxVoisin);
+    //int pas= (int)(this->Constants.MaxIteration / this->Constants.MaxVoisin);
     int iteration=0;
-    while(iteration < this->Constants.MaxIteration){
+    double t_apprentissage= this->Constants.TauxApprentissage;
 
+    while(iteration < this->Constants.MaxIteration){
         swap_indice(this->Constants.LenDataGen);
+        double rayon_voisinage= get_rayon_voisinage(iteration);
         //cout<<endl<<"----------------------------------------------------------"<<endl;
         for(int index=0; index< this->TabSwapIndice.size(); index++){
 
-            epoch(this->InputData[index], this->Constants.MaxVoisin);
+            double val_bmu = bmu(this->InputData[index]);
+        
+            Node winner = this->Carte[this->Constants.XWinner][this->Constants.YWinner];
+
+            for(int x_c =0; x_c < this->Constants.XCarte; x_c++){
+                for(int y_c=0; y_c < this->Constants.YCarte; y_c++){
+
+                    double dist_to_bmu= this->calc_distance(winner.vec, this->Carte[x_c][y_c].vec);
+
+                    if(dist_to_bmu <= (rayon_voisinage* rayon_voisinage)){
+                       double alpha= this->get_valeur_ajustement(dist_to_bmu, rayon_voisinage);
+                        this->update_weights(this->Carte[x_c][y_c].vec, this->InputData[index], t_apprentissage, alpha);
+                        //this->update_weights(this->Carte[x_c][y_c].rgb, this->InputData[index], t_apprentissage, alpha);
+                    }
+            
+                }
+            }
+
 
         }
 
         iteration++;
-        compt_voisin++;
-        if(compt_voisin > pas){
-            this->Constants.MaxVoisin--;
-            cout<<"compt_voisin= "<<Constants.MaxVoisin<<endl;
-            compt_voisin= 0;
-        }
+        t_apprentissage = this->Constants.TauxApprentissage * exp(-(double)iteration/(double)this->Constants.MaxIteration);
+
+        //cout<<"iteration: "<<iteration<<endl;
 
     }
 }

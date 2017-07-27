@@ -55,7 +55,6 @@ vector<double> random_rgb(){
     double max= 1;
 
     for(int i=0; i< 3; i++){ 
-
         double val = (((double)rand() / (double)RAND_MAX) * (max - min)) + min;
         rgb.push_back(val);
     }
@@ -81,7 +80,7 @@ vector<vector<Node> > init_carte(vector<vector<double> > data, Point p){
     }
     return _map;
 }
-void update_map(vector<vector<Node> >& _map, vector<Som> l_som, Point taille, Point p){
+vector<vector<Node> > update_map(vector<vector<Node> >& _map, vector<Som> l_som, Point taille, Point p){
     int d= 0;
 
     for(int dx=0; dx < taille.x; dx+=p.x){
@@ -97,6 +96,7 @@ void update_map(vector<vector<Node> >& _map, vector<Som> l_som, Point taille, Po
             d++;
         }
     }
+    return _map;
 }
 /*int get_list_map(vector<Som> lsom, int pas){
     vector<vector<vector<Node> list_map;
@@ -128,11 +128,11 @@ vector<vector<vector<double> > > get_rgb_matrice(vector<vector<Node> > _map){
     vector<vector<double> > list_vec;
     for(int j=0; j< _map[i].size(); j++){
         vector<double> vec;
-        /*for(int k=0; k< 4; k++){
+        for(int k=0; k< 3; k++){
             vec.push_back(_map[i][j].vec[k]);
         }
-        list_vec.push_back(vec);*/
-        list_vec.push_back(_map[i][j].rgb);
+        list_vec.push_back(vec);
+        //list_vec.push_back(_map[i][j].rgb);
     }
     mat_data.push_back(list_vec);
    } 
@@ -141,7 +141,7 @@ vector<vector<vector<double> > > get_rgb_matrice(vector<vector<Node> > _map){
 
 
 
-vector<Som> run_sous_som(vector< vector<Node> >_map, Point taille, Point p, int max_iteration, int max_voisin){
+vector<Som> run_sous_som(vector< vector<Node> >_map, Point taille, Point p, int max_iteration, double t_apprentissage){
     int dx=0;
     int d=0;
     vector<Som> all_som;
@@ -171,7 +171,7 @@ vector<Som> run_sous_som(vector< vector<Node> >_map, Point taille, Point p, int 
 
             //affiche2(_map);
             
-            threads_som.push_back(thread(&Som::config,&all_som[d++], sous_map, max_iteration, max_voisin));
+            threads_som.push_back(thread(&Som::config,&all_som[d++], sous_map, max_iteration, t_apprentissage));
             cout<<"Starting threads SOM "<< threads_som.size()<<endl; 
             dy+=p.y;
         }
@@ -190,8 +190,8 @@ vector<vector<vector<double> > > runs(){
     //vector<thread> threads_som;
     vector<Som> all_som;
     vector<vector<Node> > _map;
-    int max_voisin= 8;
-    int max_iteration= 100;
+    double t_apprentissage= 0.6;
+    int max_iteration= 50;
     double len_one_som_data=1600;
     string strPathfileExtract="../../data/output/extract_pages_infos.csv";
     
@@ -244,18 +244,20 @@ vector<vector<vector<double> > > runs(){
     }*/
     Point pp = p;
     for(int i=0; i< 10; i++){
-        all_som= run_sous_som(_map, taille, pp, max_iteration, max_voisin);
-        update_map(_map, all_som, taille, pp);
+        all_som= run_sous_som(_map, taille, pp, max_iteration, t_apprentissage);
+        _map = update_map(_map, all_som, taille, pp);
 
         if(((pp.x+p.x) < taille.x) && ((p.y+p.y) < taille.y) ){
             pp.x+=p.x;
             p.y+= p.y;
         }
         else pp = p;
+        cout<<"iter = "<<i<<endl;
+        all_som= run_sous_som(_map, taille, taille, max_iteration, t_apprentissage);
+        _map = update_map(_map, all_som, taille, taille);
     }
 
-    all_som= run_sous_som(_map, taille, taille, max_iteration, max_voisin*4);
-    update_map(_map, all_som, taille, taille);
+
     
 
 
