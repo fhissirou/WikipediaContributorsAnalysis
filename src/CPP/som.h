@@ -28,14 +28,14 @@ class Som{
 
     public:
         Som();
-        void config(vector<vector<Node> > _map, int nb_iteration, int t_apprentissage );
+        void config(vector<vector<Node> > _map, vector<vector<double> > input_data, int nb_iteration, double t_apprentissage );
         void affiche1();
         void affiche2();
         //void init_size_carte(int val);
         //void create_carte(vector<vector<double>> data);
         
         void normalise_data();
-        double calc_distance(vector<double> vec1, vector<double> vec2);
+        double calc_dist_euclidienne(vector<double> vec1, vector<double> vec2);
         void calc_moyenne();
         void gen_vecteur(double ecart_max, double ecart_min, int taille);
         void swap_indice(int taille);

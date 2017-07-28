@@ -62,6 +62,74 @@ vector<double> random_rgb(){
 }
 
 
+
+vector<vector<double> > gen_vecteur(double max, double min, int _size_vec, int nb)
+{
+    vector<vector<double> > tab_vec;
+    //cout<<"gen vecteurs autour de la Moyenne"<<endl;
+    //this->Constants.LenDataGen= taille;
+    /*for(int elem= 0; elem < nb; elem++){
+        vector<double> vec;
+        for(int d=0; d< _size_vec; d++){
+            //double max = this->TabMoyenne[d] + ecart_max;
+            //double min = this->TabMoyenne[d] + ecart_min;
+            double val= (((double)rand() / (double)RAND_MAX) * (max - min)) + min;
+            vec.push_back(val);
+            //cout << val<<" ";
+            cout<<elem<<": val= "<<val<<" ";
+        }
+        cout<<endl;
+        tab_vec.push_back(vec);
+        //cout<<endl;
+    }*/
+     //create a data set
+  vector<double> red, green, blue, yellow, orange, purple, dk_green, dk_blue;
+
+  red.push_back(1);
+  red.push_back(0);
+  red.push_back(0);
+
+  green.push_back(0);
+  green.push_back(1);
+  green.push_back(0);
+
+  dk_green.push_back(0);
+  dk_green.push_back(0.5);
+  dk_green.push_back(0.25);
+
+  blue.push_back(0);
+  blue.push_back(0);
+  blue.push_back(1);
+
+  dk_blue.push_back(0);
+  dk_blue.push_back(0);
+  dk_blue.push_back(0.5);
+
+  yellow.push_back(1);
+  yellow.push_back(1);
+  yellow.push_back(0.2);
+
+  orange.push_back(1);
+  orange.push_back(0.4);
+  orange.push_back(0.25);
+
+  purple.push_back(1);
+  purple.push_back(0);
+  purple.push_back(1);
+
+
+  tab_vec.push_back(yellow);
+  tab_vec.push_back(red);
+  tab_vec.push_back(green);
+  tab_vec.push_back(blue);
+  tab_vec.push_back(orange);
+  //tab_vec.push_back(purple);
+  //tab_vec.push_back(dk_green);
+  //tab_vec.push_back(dk_blue);
+    return tab_vec;
+}
+
+
 vector<vector<Node> > init_carte(vector<vector<double> > data, Point p){
     vector<vector<Node> >_map;
     int index=0;
@@ -127,12 +195,12 @@ vector<vector<vector<double> > > get_rgb_matrice(vector<vector<Node> > _map){
    for(int i=0; i< _map.size(); i++){
     vector<vector<double> > list_vec;
     for(int j=0; j< _map[i].size(); j++){
-        vector<double> vec;
+        /*vector<double> vec;
         for(int k=0; k< 3; k++){
             vec.push_back(_map[i][j].vec[k]);
         }
-        list_vec.push_back(vec);
-        //list_vec.push_back(_map[i][j].rgb);
+        list_vec.push_back(vec);*/
+        list_vec.push_back(_map[i][j].rgb);
     }
     mat_data.push_back(list_vec);
    } 
@@ -141,7 +209,7 @@ vector<vector<vector<double> > > get_rgb_matrice(vector<vector<Node> > _map){
 
 
 
-vector<Som> run_sous_som(vector< vector<Node> >_map, Point taille, Point p, int max_iteration, double t_apprentissage){
+vector<Som> run_sous_som(vector< vector<Node> >_map, vector<vector<double> > input_data, Point taille, Point p, int max_iteration, double t_apprentissage){
     int dx=0;
     int d=0;
     vector<Som> all_som;
@@ -171,7 +239,7 @@ vector<Som> run_sous_som(vector< vector<Node> >_map, Point taille, Point p, int 
 
             //affiche2(_map);
             
-            threads_som.push_back(thread(&Som::config,&all_som[d++], sous_map, max_iteration, t_apprentissage));
+            threads_som.push_back(thread(&Som::config,&all_som[d++], sous_map, input_data, max_iteration, t_apprentissage));
             cout<<"Starting threads SOM "<< threads_som.size()<<endl; 
             dy+=p.y;
         }
@@ -190,15 +258,17 @@ vector<vector<vector<double> > > runs(){
     //vector<thread> threads_som;
     vector<Som> all_som;
     vector<vector<Node> > _map;
-    double t_apprentissage= 0.6;
-    int max_iteration= 50;
-    double len_one_som_data=1600;
+    double t_apprentissage= 0.07;
+    int max_iteration= 650;
+    double len_one_som_data=1024;
     string strPathfileExtract="../../data/output/extract_pages_infos.csv";
     
     Load load(strPathfileExtract, 10);
     all_data = load.readFile();
     Point p = init_size(len_one_som_data);
     Point taille= init_size(all_data.size());
+
+    vector<vector<double> > input_data= gen_vecteur(0.7, 0.2, all_data[0].size(), 100);
 
     cout<<"len "<<all_data.size()<<endl;
 
@@ -243,19 +313,24 @@ vector<vector<vector<double> > > runs(){
         threads_som[d].join();
     }*/
     Point pp = p;
-    for(int i=0; i< 10; i++){
-        all_som= run_sous_som(_map, taille, pp, max_iteration, t_apprentissage);
+    int nb=0;
+    for(int i=0; i< 4; i++){
+        all_som= run_sous_som(_map,input_data, taille, pp, max_iteration/2, t_apprentissage);
         _map = update_map(_map, all_som, taille, pp);
-
-        if(((pp.x+p.x) < taille.x) && ((p.y+p.y) < taille.y) ){
-            pp.x+=p.x;
+        nb++;
+        if(((pp.x+all_som[nb].Constants.XCarte) <= taille.x) && ((p.y+all_som[nb].Constants.XCarte) <= taille.y) ){
+            pp.x+=all_som[nb].Constants.XCarte;
             p.y+= p.y;
         }
-        else pp = p;
+        else{
+            pp = taille;
+            nb=0;
+        }
         cout<<"iter = "<<i<<endl;
-        all_som= run_sous_som(_map, taille, taille, max_iteration, t_apprentissage);
-        _map = update_map(_map, all_som, taille, taille);
     }
+
+    all_som= run_sous_som(_map, input_data, taille, taille, max_iteration, t_apprentissage);
+    _map = update_map(_map, all_som, taille, taille);
 
 
     

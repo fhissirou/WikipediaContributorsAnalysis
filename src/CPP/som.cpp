@@ -4,7 +4,7 @@ Som::Som()
 {
 }
 /// carte n'ont pas la meme taille de lendata et lenvec c'est le probleme a reglé
-void Som::config(vector<vector<Node> > _map, int nb_iteration, int t_apprentissage )
+void Som::config(vector<vector<Node> > _map, vector<vector<double> > input_data, int nb_iteration, double t_apprentissage )
 {
 
     
@@ -18,18 +18,22 @@ void Som::config(vector<vector<Node> > _map, int nb_iteration, int t_apprentissa
     
     this->Constants.TauxApprentissage= t_apprentissage;
     this->Constants.MaxIteration= nb_iteration;
-    this->Constants.RayonCarte = max(this->Constants.XCarte, this->Constants.YCarte)/2;
+    this->Constants.RayonCarte = (double)max(this->Constants.XCarte, this->Constants.YCarte)/2.0;
+
     this->Constants.ConstTemps = this->Constants.MaxIteration/log(this->Constants.RayonCarte);
+    this->InputData= input_data;
     
+    //cout<<"r= "<<this->Constants.RayonCarte<<" XCarte="<<this->Constants.XCarte<<endl;    
     this->normalise_data();
+
 
     //affiche1();
     //affiche2();
-    this->calc_moyenne();
-
-    this->gen_vecteur(0.002, 0.95, 100);
+    //this->calc_moyenne();
+    //this->gen_vecteur(0.002, 0.95, 100);
 
     this->training();
+
     this->set_alldata_activation();
 }
 
@@ -195,7 +199,7 @@ void  Som::swap_indice(int taille){
 
 
 
-double Som::calc_distance(vector<double> vec1, vector<double> vec2)
+double Som::calc_dist_euclidienne(vector<double> vec1, vector<double> vec2)
 {
     double distance=0.0;
     for(int d =0; d < vec1.size(); d++){
@@ -204,6 +208,8 @@ double Som::calc_distance(vector<double> vec1, vector<double> vec2)
     //cout<<"somdist= "<<distance<<" sqrt= "<<sqrt(distance)<<endl;
     return sqrt(distance);
 }
+
+
 
 void Som::add_point(int x, int y)
 {
@@ -246,11 +252,12 @@ double Som::bmu(vector<double> vec)
     double dist_old= 0.0;
     double dist_new=0.0;
 
-    dist_old= this->calc_distance(this->Carte[0][0].vec, vec);
+    dist_old= this->calc_dist_euclidienne(this->Carte[0][0].vec, vec);
     for(int x_c =0; x_c < this->Constants.XCarte; x_c++){
         for(int y_c=0; y_c < this->Constants.YCarte; y_c++){
-            dist_new= this->calc_distance(this->Carte[x_c][y_c].vec, vec);
+            dist_new= this->calc_dist_euclidienne(this->Carte[x_c][y_c].vec, vec);
             //cout<<"old= "<<dist_old<<" et new= "<<dist_new<<endl;
+            dist_new = floor(dist_new * 1000) / 1000;
             if(dist_new < dist_old){
                 dist_old= dist_new;
                 this->Constants.XWinner= x_c;
@@ -268,7 +275,7 @@ double Som::bmu(vector<double> vec)
     }
 
     this->add_point(Constants.XWinner, Constants.YWinner);
-    return dist_new;
+    return dist_old;
 }
 
 
@@ -285,11 +292,20 @@ double Som::get_valeur_ajustement(double dist_carre, double rayon)
 
 
 
-vector<double> Som::update_weights(vector<double> vec, vector<double> input_data, double alpha, double coeff)
+vector<double> Som::update_weights(vector<double> vec, vector<double> input_data,double t_apprentissage, double alpha)
 {
+    //cout<<endl<<"avant ";
+   //for(int i=0; i< vec.size(); i++)
+    //cout<<vec[i]<<" ";
+    //cout<<endl<<"après ";
+    //cout<<"alpha = "<<alpha<<" et coeff = "<<coeff<<" ; alpha * coeff = " <<alpha*coeff<<endl; 
     for(int d=0; d< vec.size(); d++){
-        vec[d] += (input_data[d] - vec[d]) * alpha * coeff;
+
+        
+        vec[d] += (input_data[d] - vec[d]) * t_apprentissage * alpha;
     }
+    //for(int i=0; i< vec.size(); i++)
+    //cout<<vec[i]<<" ";
     return vec;
 }
 
@@ -308,8 +324,8 @@ void Som::epoch(vector<double> input_data, int lim_rect_voisin)
                 if((x_c >= 0) && (x_c < this->Constants.XCarte)){
                     if((y_c >= 0) && (y_c < this->Constants.YCarte)){
 
-                        double distance_vec = this->calc_distance(winner.vec, this->Carte[x_c][y_c].vec);
-                        double distance_rgb = this->calc_distance(winner.rgb, this->Carte[x_c][y_c].rgb);
+                        double distance_vec = this->calc_dist_euclidienne(winner.vec, this->Carte[x_c][y_c].vec);
+                        double distance_rgb = this->calc_dist_euclidienne(winner.rgb, this->Carte[x_c][y_c].rgb);
                         double alpha= abs(distance_vec - diff);
 
 
@@ -339,15 +355,16 @@ void Som::training()
     int compt_voisin= 0;
     int compt= 0;
     //int pas= (int)(this->Constants.MaxIteration / this->Constants.MaxVoisin);
-    int iteration=0;
+    int iteration=1;
     double t_apprentissage= this->Constants.TauxApprentissage;
 
-    while(iteration < this->Constants.MaxIteration){
-        swap_indice(this->Constants.LenDataGen);
+    while(--this->Constants.MaxIteration){
+        swap_indice(this->InputData.size());
         double rayon_voisinage= get_rayon_voisinage(iteration);
         //cout<<endl<<"----------------------------------------------------------"<<endl;
-        for(int index=0; index< this->TabSwapIndice.size(); index++){
-
+       
+        //for(int index=0; index< this->TabSwapIndice.size(); index++){
+            int index= rand() % (InputData.size());
             double val_bmu = bmu(this->InputData[index]);
         
             Node winner = this->Carte[this->Constants.XWinner][this->Constants.YWinner];
@@ -355,22 +372,39 @@ void Som::training()
             for(int x_c =0; x_c < this->Constants.XCarte; x_c++){
                 for(int y_c=0; y_c < this->Constants.YCarte; y_c++){
 
-                    double dist_to_bmu= this->calc_distance(winner.vec, this->Carte[x_c][y_c].vec);
+                    for(int i=0; i< winner.vec.size(); i++){
 
+                    }
+                    //double dist_to_bmu= this->calc_dist_euclidienne(winner.vec, this->Carte[x_c][y_c].vec);
+                    double dist_to_bmu= pow((double)(this->Constants.XWinner - x_c), 2.0) +
+                                        pow((double)(this->Constants.YWinner - x_c), 2.0);
+                    
                     if(dist_to_bmu <= (rayon_voisinage* rayon_voisinage)){
+                        //cout<<" yes rayon = "<<rayon_voisinage*rayon_voisinage<<" ; dist_to_bmu = "<<dist_to_bmu<<endl;
                        double alpha= this->get_valeur_ajustement(dist_to_bmu, rayon_voisinage);
-                        this->update_weights(this->Carte[x_c][y_c].vec, this->InputData[index], t_apprentissage, alpha);
+                       //cout<<"t_apprentissage= "<<t_apprentissage<<endl;
+                       
+                       this->Carte[x_c][y_c].vec= this->update_weights(this->Carte[x_c][y_c].vec,
+                                                                        this->InputData[index],
+                                                                        t_apprentissage, alpha);
+
+                       this->Carte[x_c][y_c].rgb= this->update_weights(this->Carte[x_c][y_c].rgb,
+                                                                        winner.rgb,
+                                                                        t_apprentissage, alpha);
+
                         //this->update_weights(this->Carte[x_c][y_c].rgb, this->InputData[index], t_apprentissage, alpha);
                     }
             
                 }
-            }
+            //}
 
 
         }
 
+        
+        t_apprentissage = this->Constants.TauxApprentissage * 
+                            exp(-(double)iteration/this->Constants.MaxIteration);
         iteration++;
-        t_apprentissage = this->Constants.TauxApprentissage * exp(-(double)iteration/(double)this->Constants.MaxIteration);
 
         //cout<<"iteration: "<<iteration<<endl;
 

@@ -49,8 +49,8 @@ vector<vector<double> > Load::readFile(){
 					if(elem >= 6 and elem < 10){ 
 						double valeur =  strtod(token, NULL);
 						
-						/*if(valeur==0.0)
-							valeur= (((double)rand() / (double)RAND_MAX) * (max - min)) + min;*/ 
+						if(valeur==0.0)
+							valeur= (((double)rand() / (double)RAND_MAX) * (max - min)) + min;
 						vecteur.push_back(valeur);
 					}
 			

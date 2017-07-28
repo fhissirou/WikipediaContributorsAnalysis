@@ -55,12 +55,12 @@ plt.imshow(lm, cmap=get_cmap("Spectral"), interpolation='nearest')
 plt.show()
 """
 
-print(l_c)
+#print(l_c)
 l_x= np.array(l_x)
 l_y=np.array(l_y)
 l_c= np.array(l_c)
 
 fig, ax = plt.subplots()
 
-plt.scatter(l_x, l_y,s=20, c=l_c)
+plt.scatter(l_x, l_y,s=24, c=l_c)
 plt.show()
