@@ -315,7 +315,7 @@ vector<vector<vector<double> > > runs(){
     Point pp = p;
     int nb=0;
     for(int i=0; i< 4; i++){
-        all_som= run_sous_som(_map,input_data, taille, pp, max_iteration/2, t_apprentissage);
+        all_som= run_sous_som(_map,input_data, taille, pp, max_iteration, t_apprentissage);
         _map = update_map(_map, all_som, taille, pp);
         nb++;
         if(((pp.x+all_som[nb].Constants.XCarte) <= taille.x) && ((p.y+all_som[nb].Constants.XCarte) <= taille.y) ){
