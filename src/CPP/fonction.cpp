@@ -314,7 +314,7 @@ vector<vector<vector<double> > > runs(){
     }*/
     Point pp = p;
     int nb=0;
-    for(int i=0; i< 4; i++){
+    for(int i=0; i< 1; i++){
         all_som= run_sous_som(_map,input_data, taille, pp, max_iteration, t_apprentissage);
         _map = update_map(_map, all_som, taille, pp);
         nb++;

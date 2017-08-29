@@ -6,6 +6,7 @@ import xml.etree.ElementTree as ET
 from datetime import datetime
 import os
 import sys
+import operator
 
 reload(sys)
 sys.setdefaultencoding('utf8')
@@ -133,7 +134,7 @@ class Extract(object):
 
     def contents_pages(self):
         
-        strattr="id,title,nbRevision,nbContributeur,nbBytes,nbMinor,night,morning,afternoon,evening,year,month,day\n"
+        strattr="id,title,nbRevision,nbContributeur,nbBytes,timeDay,typeEdition,nbMinor,nbMajeur,night,morning,afternoon,evening,year,month,day\n"
         with open(self.StrOutputpagesInfos, 'w+') as file:
             file.write(strattr)
             for filename in self.FilesList:
@@ -160,6 +161,9 @@ class Extract(object):
                         time_rev=""
                         nb_bytes=0
                         nb_minor=0
+                        type_edition=""
+                        time_day=""
+                        nb_majeur=0
                         nb_night=0
                         nb_morning=0
                         nb_afternoon=0
@@ -188,6 +192,9 @@ class Extract(object):
                             minor= revision.find("minor")
                             if minor != None:
                                 nb_minor+= 1
+                            else:
+                                nb_majeur+=1
+
 
                             contributor= revision.find("contributor")
                             username = self.extract_username(contributor)
@@ -195,14 +202,19 @@ class Extract(object):
 
                             if not(username in lusernames) and (username != None):
                                 lusernames.append(username)
-
-                        nb_minor= float(nb_minor) / float(nb_revision)
+                        if nb_minor > nb_majeur:
+                            type_edition= "MinorEdit"
+                        else:
+                            type_edition="MajorEdit"
+                        mydict={'night':nb_night, 'morning':nb_morning, 'afternoon':nb_afternoon, 'evening':nb_evening}
+                        time_day= max(mydict.iteritems(), key=operator.itemgetter(1))[0]
+                        #nb_minor= float(nb_minor) / float(nb_revision)
                         nb_bytes= float(nb_minor) / float(nb_revision)
                         nb_night= float(nb_night) / float(nb_revision)
                         nb_morning= float(nb_morning) / float(nb_revision)
                         nb_afternoon= float(nb_afternoon) / float(nb_revision)
                         nb_evening= float(nb_evening) / float(nb_revision)
-                        strcontent_page+=","+str(len(lusernames))+","+str(nb_bytes)+","+str(nb_minor)+","\
+                        strcontent_page+=","+str(len(lusernames))+","+str(nb_bytes)+","+str(time_day)+","+str(type_edition)+","+str(nb_minor)+","+str(nb_majeur)+","\
                         +str(nb_night)+","+str(nb_morning)+","+str(nb_afternoon)+","+str(nb_evening)+","+time_rev+"\n"
                         file.write(strcontent_page)
                         strcontent_page=""

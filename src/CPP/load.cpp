@@ -46,7 +46,7 @@ vector<vector<double> > Load::readFile(){
 				int elem=0;
 				while (token != NULL) {
 
-					if(elem >= 6 and elem < 10){ 
+					if(elem >= 10 and elem < 14){ 
 						double valeur =  strtod(token, NULL);
 						
 						if(valeur==0.0)
