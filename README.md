@@ -100,3 +100,8 @@ Le sujet principal de ce projet consiste à explorer l'historique d'un ensemble 
 
 * Pour chaque contributeur, trouver la liste des pages modifiées pour créer un cluster des contributeurs c'est-à-dire le cluster de pages en fonction 
 des contributeurs. La réalisation de toutes ces tâches implique à faire l'analyse des réseaux sociaux en utilisant les données le dump de Wikipédia.
+
+
+https://gitlab.com/fhssirou/WikipediaContributorsAnalysis/wikis/home
+
+
