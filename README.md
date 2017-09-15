@@ -14,6 +14,17 @@ Wikipédia est également l’un des dix sites les plus populaires dans le monde
 Son contenu ainsi que celui de tous les autres projets Wikimédia sont créés, améliorés et mis en ligne par des bénévoles. 
 Cela le rend plus pertinent dans la recherche d'information.
 
+Le modèle de réseau neuronal que j'utilise met en place une structure de SOM parallèle croissante pour toute entrée et toute dimension de sortie. 
+L'avantage de cet algorithme est sa capacité de traiter l'ensemble des données en parallèle et des façons hiérarchiques au fil du temps. 
+La raison principale du traitement des données en parallèle réside dans le fait que la connaissance peut être utilisée 
+pour reconnaître des parties de modèles dans l'espace d'entrée qui ont déjà été apprises et aussi une taille de données assez considérables.
+
+Pendant la formation, chaque connexion entre les neurones des couches d'entrée/sortie est considérée 
+comme un processeur indépendant et sont organisés de façon hiérarchique. 
+Les neurones d'activation du SOM de la couche inférieure sont considéré comme les données d’entrée du SOM de la couche supérieur de façon parallèle. 
+De cette façon, tous les éléments de chaque matrice sont calculés simultanément. 
+Cette fonction de synchronisation améliore sensiblement la séquence de mise à jour du poids.
+
 ## Objectif
 Dans le cadre de la réalisation de projet de fin d’étude en Master 1 Big Data et fouille des données, chaque étudiant doit choisir un sujet. De ce fait, ce sujet porte sur Wikipédia qui est une importante source d'information, ce qui fait qu'il est un excellent corpus d'essai pour le cadre universitaire. Il est gratuit et facile à obtenir, il porte une licence appropriée pour la recherche. Wikipédia est également l’un des dix sites les plus populaires dans le monde. Son contenu ainsi que celui de tous les autres projets Wikimédia sont créés, améliorés et mis en ligne par des bénévoles. Cela le rend plus pertinent pour de nombreuses applications qui sont réalisées dans le domaine de la recherche.
 
