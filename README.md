@@ -5,6 +5,14 @@
 ---
 
 ## Résumé 
+Dans le cadre de la réalisation de projet de fin d’étude en master 1 Big Data et fouille des données, chaque étudiant doit choisir un sujet. 
+De ce fait, mon sujet porte sur Wikipédia qui est une importante source d'information, 
+ce qui fait qu'il est un excellent corpus d'essai pour le cadre universitaire. 
+Il est gratuit et facile à obtenir, il porte une licence appropriée pour la recherche.
+
+Wikipédia est également l’un des dix sites les plus populaires dans le monde. 
+Son contenu ainsi que celui de tous les autres projets Wikimédia sont créés, améliorés et mis en ligne par des bénévoles. 
+Cela le rend plus pertinent dans la recherche d'information.
 
 ## Objectif
 Dans le cadre de la réalisation de projet de fin d’étude en Master 1 Big Data et fouille des données, chaque étudiant doit choisir un sujet. De ce fait, ce sujet porte sur Wikipédia qui est une importante source d'information, ce qui fait qu'il est un excellent corpus d'essai pour le cadre universitaire. Il est gratuit et facile à obtenir, il porte une licence appropriée pour la recherche. Wikipédia est également l’un des dix sites les plus populaires dans le monde. Son contenu ainsi que celui de tous les autres projets Wikimédia sont créés, améliorés et mis en ligne par des bénévoles. Cela le rend plus pertinent pour de nombreuses applications qui sont réalisées dans le domaine de la recherche.
