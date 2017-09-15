@@ -25,18 +25,72 @@ Les neurones d'activation du SOM de la couche inférieure sont considéré comme
 De cette façon, tous les éléments de chaque matrice sont calculés simultanément. 
 Cette fonction de synchronisation améliore sensiblement la séquence de mise à jour du poids.
 
-## Objectif
-Dans le cadre de la réalisation de projet de fin d’étude en Master 1 Big Data et fouille des données, chaque étudiant doit choisir un sujet. De ce fait, ce sujet porte sur Wikipédia qui est une importante source d'information, ce qui fait qu'il est un excellent corpus d'essai pour le cadre universitaire. Il est gratuit et facile à obtenir, il porte une licence appropriée pour la recherche. Wikipédia est également l’un des dix sites les plus populaires dans le monde. Son contenu ainsi que celui de tous les autres projets Wikimédia sont créés, améliorés et mis en ligne par des bénévoles. Cela le rend plus pertinent pour de nombreuses applications qui sont réalisées dans le domaine de la recherche.
+## Introduction générale
+### Introduction
+Wikipédia est une très grande plateforme avec des millions d’utilisateurs. 
+Il est écrit dans une centaine de langues différentes, et fait partie des sites les plus utilisés au monde. 
+On peut considérer Wikipédia comme une plateforme sociale, où tous les utilisateurs peuvent  interagir entre eux. 
+Toute personne utilisant le site Wikipédia appartient forcement à deux types de catégories:
 
-## Contexte
-- Au sein de Wikipédia tous les contributeurs ont la possibilité de créer ou de modifier une page. Or, de nos jours des milliers de modifications se font sur Wikipédia qui est due à différentes raisons comme par exemple le vandalisme qui est plus fréquent et qui consiste à dégrader volontairement la qualité d'un article en introduisant des fausses informations. Par contre lorsque ses actions sont détectées, ils sont ensuite supprimé. Cependant, lorsqu'on ajoute ou supprime l'information d'une page Wikipédia, cette action figure automatique sur la page des contributeurs, et fait que l'historique d’édition s'accroître et cela constitue une quantité de données importantes jusqu’au point ne pas pouvoir connaître les contributeurs, ou encore de pouvoir classifier manuellement les pages en fonction des Contributeurs.
+..* La première catégorie est celle des utilisateurs simples. 
+Ils utilisent les ressources de Wikipédia pour tirer profit et non pour contribuer à l’édition des articles. 
+Ils sont composés de toute sorte catégories de sociaux professionnels (étudiant, enseignant, employé, ouvrier ...) à la rechercher d’information.
 
-- La guerre des Malouines où guerre de l'Atlantique Sud est un conflit opposant l'Argentine au Royaume-Uni dans les îles Malouines, Géorgie du Sud et Sandwich du Sud. Ce type de guerre existe sur Wikipédia sous une autre forme qui est la guerre d’édition des pages Wikipédia \cite{WikiGEdition} auquel deux ou plusieurs utilisateurs expriment un profond désaccord sur un point particulier (le contenu, le titre...) d'un article. Ces comportements non collaboratifs entre les utilisateurs qui annulent ou supprimer les modifications de l’autre sont par la suite réglés par des discussions. Cependant, lorsque le conflit se déplace du contenu pour toucher aux personnes(agressivités, insultes, ....), il se trouve que d'autres contributeurs tentent une médiation en rendant le débat public. Cela fait que beaucoup de personnes y participent à la discussion et qui est par conséquent difficile d'attribuer cette modification à un contributeur. Toute cette discussion figures dans la liste des historiques d'édition de la page.
+..* La deuxième catégorie représente les contributeurs. 
+Ce sont des personnes volontaires participant à l’édition des pages de Wikipédia. 
+Ces contributeurs sont dotés d’un esprit de partage de connaissances. 
+Ils sont composés soit par les personnes travaillant au sein de Wikipédia tel que les administrateurs, 
+ou par d’autres personnes (étudiant, enseignant, chercheurs, employés ...) possédant des connaissances approfondies et la capacité d’écrire comme rédacteur web. 
+Les contributeurs de Wikipédia ne cessent de croître et c’est avant tout grâce à eux que Wikipédia a une très grande influence sur la société, 
+surtout les étudiants en particulier.
 
-## Sujet
-Le sujet principal de ce projet de fin d’étude consiste à explorer l'historique d'un ensemble de pages Wikipédia. Cela consiste à récupérer un dump complet de Wikipédia et analyser son contenue pour identifier les contributeurs. Pour chaque contributeur faire une liste des pages modifiées, qui va nous permettre de faire un cluster des contributeurs c'est-à-dire le cluster de pages en fonction des contributeurs. La réalisation de toutes ces tâches implique à faire l'analyse des réseaux sociaux en utilisant les données contributeurs de Wikipédia.
+De nos jours, Wikipédia possède de nombreuses applications facilitant l’utilisation directe ou indirecte de ses données. 
+Ces applications sont d’une part développées par la fondation elle-même mais aussi d’autre part elles sont faites par des bénévoles. 
+Il est bien de souligner que les personnes éditant les articles ou développant des applications ne sont pas les seuls contributeurs. 
+Il existe d'autres moyens d’aider la fondation. Certains de ces moyens peuvent être purement technologiques 
+comme par exemple des espaces des stockages de données ou les moyens financières pour aider la fondation à maintenir son statut sans être commercialisée.
 
-## Le DUMP Wikipédia
-- Les données contiennent l'historique complet de l'édition (toutes les révisions, toutes les pages) de tout Wikipédia depuis sa création jusqu'à nos jours. Le jeu de données contient des métadonnées traitées pour toutes les révisions de tous les articles extraits du dump xml. Cependant, l'échantillon utilisé est celui de Wikipédia français dont les données sont divisées en plusieurs catégorie historique et chacune d'elle est contienne en plusieurs sous-catégories: title, ns, id, revision. Pour chaque page on a une ou plusieurs révisions, donc dans notre cas, c'est le tilte et la partie révision qui nous intéresse le plus, la révision est aussi une métadonnée qui dont on peut trouver des sous informations sur chaque édition effectuent sur une page. Dans la table de révision on a: id, timestamp, contributor, comment, modèle, format, text, sha1. Dans la partie "contributor" on a aussi l'id et le username. Donc le travail consiste à faire une liste des pages modifiés pour chaque contributeur et faire une classification par la suite.
+L’ensemble de ces facteurs donne l’envie d’apporter une contribution à l’édifice d’où la croissance des contributeurs. 
+Il permet l’utilisation gratuite de ses ressources par les lecteurs ou par les chercheurs pour le développement de leur projet. 
+Cette simplicité permet de la considérer comme une plateforme collaborative. 
+Chaque utilisateur peut participer aux discussions, de créer des articles, de modifier ou de supprimer le contenu des pages, 
+d’avoir des interactions entre la plateforme Wikipédia avec d’autres sites web.
 
-Wikipédia propose des dumps de son contenu, constitués d'une sauvegarde des fichiers et d'une sauvegarde de la base de donnée, à l'adresse: http://download.wikimedia.org/
+
+### Problématique
+Toute action réalisée sur un article Wikipédia correspond à une sauvegarde des informations dans sa base donnée. 
+Or des dizaines de milliers d'interactions se font sur la plateforme, cela constitue une énorme quantité de données. 
+Il est donc important d’analyser ces données pour mieux comprend le fonctionnement de Wikipédia.
+
+Il se trouve que de nos jours, Wikipédia figure dans la plupart des recherches effectuées sur l'internet. 
+Il est donc important que les utilisateurs s’engagent à l’amélioration de la qualité du contenu. 
+Quand un contributeur crée une page, cela donne la possibilité aux autres de participer à l’amélioration de cette page. 
+Cela peut être vu comme travaille collaboratif basé sur le partage des connaissances, et correspond aux objectifs visés par Wikipédia.
+
+La guerre des Malouines où guerre de l’Atlantique Sud est un conflit opposant l’Argentine au Royaume-Uni dans les iles Malouines, Géorgie du Sud et Sandwich du Sud. 
+Ce type de guerre existe sur Wikipédia sous une autre forme qui est la guerre d’édition des pages Wikipédia. 
+Car l’objectif de certains contributeurs n’est pas d’améliorer la qualité de l’article, mais de dégrader volontairement son contenu. 
+Parfois ces fausses informations peuvent rester sur Wikipédia pendant de longues périodes. 
+Ce type d’action est souvent considéré comme étant un vandalisme, et est de plus en plus fréquent sur la plateforme.
+
+Or, les administrateurs de Wikipédia ont le pouvoir de supprimer ou de rejeter des commentaires ou des articles auxquels ils ne sont pas d'accord. 
+Donc, ils peuvent soit supprimer ces informations erronées et réglées par des discussions publiques, ou soit de blacklist l’adresse Ip de l’utilisateur.
+
+Ces comportements sont non collaboratifs et peuvent souvent prendre de l’ampleur, où plusieurs contributeurs participent à la discussion pour trouver un point d’attente. 
+L’ensemble de ces actions, laisse une trace dans l’historique des pages et génère données.
+
+### Sujet
+Wikipédia est une plateforme très intéressante avec des problèmes de classifications différentes. 
+Par exemple, on peut catégoriser les éditeurs en tant qu'humains ou robots, et classer les articles comme controversés, 
+fiables ou même les profils d'utilisateurs comme vandalisme. l’ensemble de ces taches peut être considéré comme un problème de classification. 
+C'est dans ce cadre que ce projet consiste à classifier les contributeurs.
+
+Le sujet principal de ce projet consiste à explorer l'historique d'un ensemble de pages Wikipédia. Pour cela:
+
+..* Récupérer un échantillon du dump Wikipédia et analyser son contenue pour identifier les contributeurs.
+..* Créer un dataset simplifié en ne prenant en compte que les révisions effectuées par des contributeurs enregistrés ou non enregistrés.
+..* Combiner des paramètres pour créer des champs utiles comme le nombre de modifications par jour, mois...
+..* Faire un nettoyage des données à l'aide de DSS de dataiku pour remplir des champs vides, de détecter les valeurs aberrantes.
+..* Faire une étude statistique et visualiser les données.
+..* Pour chaque contributeur, trouver la liste des pages modifiées pour créer un cluster des contributeurs c'est-à-dire le cluster de pages en fonction 
+des contributeurs. La réalisation de toutes ces tâches implique à faire l'analyse des réseaux sociaux en utilisant les données le dump de Wikipédia.
