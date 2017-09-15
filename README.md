@@ -4,7 +4,6 @@
 |       Fodé HISSIROU          |
 ---
 
-* Unordered sub-list. 
 
 ## Résumé 
 Dans le cadre de la réalisation de projet de fin d’étude en master 1 Big Data et fouille des données, chaque étudiant doit choisir un sujet. 
@@ -34,11 +33,11 @@ Il est écrit dans une centaine de langues différentes, et fait partie des site
 On peut considérer Wikipédia comme une plateforme sociale, où tous les utilisateurs peuvent  interagir entre eux. 
 Toute personne utilisant le site Wikipédia appartient forcement à deux types de catégories:
 
-⋅⋅* La première catégorie est celle des utilisateurs simples. 
+* La première catégorie est celle des utilisateurs simples. 
 Ils utilisent les ressources de Wikipédia pour tirer profit et non pour contribuer à l’édition des articles. 
 Ils sont composés de toute sorte catégories de sociaux professionnels (étudiant, enseignant, employé, ouvrier ...) à la rechercher d’information.
 
-⋅⋅* La deuxième catégorie représente les contributeurs. 
+* La deuxième catégorie représente les contributeurs. 
 Ce sont des personnes volontaires participant à l’édition des pages de Wikipédia. 
 Ces contributeurs sont dotés d’un esprit de partage de connaissances. 
 Ils sont composés soit par les personnes travaillant au sein de Wikipédia tel que les administrateurs, 
@@ -89,10 +88,15 @@ C'est dans ce cadre que ce projet consiste à classifier les contributeurs.
 
 Le sujet principal de ce projet consiste à explorer l'historique d'un ensemble de pages Wikipédia. Pour cela:
 
-⋅⋅* Récupérer un échantillon du dump Wikipédia et analyser son contenue pour identifier les contributeurs.
-⋅⋅* Créer un dataset simplifié en ne prenant en compte que les révisions effectuées par des contributeurs enregistrés ou non enregistrés.
-⋅⋅* Combiner des paramètres pour créer des champs utiles comme le nombre de modifications par jour, mois...
-⋅⋅* Faire un nettoyage des données à l'aide de DSS de dataiku pour remplir des champs vides, de détecter les valeurs aberrantes.
-⋅⋅* Faire une étude statistique et visualiser les données.
-⋅⋅* Pour chaque contributeur, trouver la liste des pages modifiées pour créer un cluster des contributeurs c'est-à-dire le cluster de pages en fonction 
+* Récupérer un échantillon du dump Wikipédia et analyser son contenue pour identifier les contributeurs.
+
+* Créer un dataset simplifié en ne prenant en compte que les révisions effectuées par des contributeurs enregistrés ou non enregistrés.
+
+* Combiner des paramètres pour créer des champs utiles comme le nombre de modifications par jour, mois...
+
+* Faire un nettoyage des données à l'aide de DSS de dataiku pour remplir des champs vides, de détecter les valeurs aberrantes.
+
+* Faire une étude statistique et visualiser les données.
+
+* Pour chaque contributeur, trouver la liste des pages modifiées pour créer un cluster des contributeurs c'est-à-dire le cluster de pages en fonction 
 des contributeurs. La réalisation de toutes ces tâches implique à faire l'analyse des réseaux sociaux en utilisant les données le dump de Wikipédia.
