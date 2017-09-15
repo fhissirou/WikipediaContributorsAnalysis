@@ -3,7 +3,9 @@
 
 |       Fodé HISSIROU          |
 ---
-⋅⋅* Unordered sub-list. 
+
+* Unordered sub-list. 
+
 ## Résumé 
 Dans le cadre de la réalisation de projet de fin d’étude en master 1 Big Data et fouille des données, chaque étudiant doit choisir un sujet. 
 De ce fait, mon sujet porte sur Wikipédia qui est une importante source d'information, 
